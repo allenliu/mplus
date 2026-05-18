@@ -5,6 +5,7 @@ import { FilterCard } from './components/FilterCard';
 import SeasonGrid from './components/SeasonGrid';
 import IOScoreCard from './components/IOScoreCard';
 import { PugCompanions } from './components/PugCompanions';
+import { RecentRuns } from './components/RecentRuns';
 import { FreshnessIndicator } from './components/FreshnessIndicator';
 
 export default function App() {
@@ -65,6 +66,14 @@ export default function App() {
           benchmarks={data.benchmarks}
           filter={filter}
           currentWeek={currentWeek}
+        />
+
+        {/* Recent runs */}
+        <RecentRuns
+          runs={data.runs}
+          dungeons={data.dungeons}
+          roster={data.roster}
+          filter={filter}
         />
 
         {/* Pug companions */}
