@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-18T04:48:17.472Z",
+  "fetchedAt": "2026-05-18T06:05:35.454Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -118,6 +118,49 @@
     }
   ],
   "runs": [
+    {
+      "id": 27124390,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 13,
+      "completedAt": "2026-05-18T05:58:16.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1351.141,
+      "score": 392.7,
+      "rosterMemberIds": [
+        "slak"
+      ],
+      "pugs": [
+        {
+          "name": "Guayabo",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "monk",
+          "role": "healer"
+        },
+        {
+          "name": "Anoki",
+          "realm": "kaelthas",
+          "region": "us",
+          "class": "shaman",
+          "role": "dps"
+        },
+        {
+          "name": "Nillyn",
+          "realm": "thrall",
+          "region": "us",
+          "class": "warlock",
+          "role": "dps"
+        },
+        {
+          "name": "Sloptop",
+          "realm": "arthas",
+          "region": "us",
+          "class": "death-knight",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 26731659,
       "dungeonId": "algethar-academy",
@@ -13990,8 +14033,8 @@
     },
     {
       "week": 8,
-      "top1Pct": 3654.7,
-      "top01Pct": 3892.16
+      "top1Pct": 3657.01,
+      "top01Pct": 3893.64
     }
   ]
 }
