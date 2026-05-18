@@ -185,7 +185,7 @@ export function PugCompanions({ runs, filter }: PugCompanionsProps) {
                 />
 
                 {/* Primary + secondary label */}
-                <div className="w-40 flex-shrink-0 min-w-0">
+                <div className={`${isSpecs ? 'w-24' : 'w-36'} flex-shrink-0 min-w-0`}>
                   <div className="text-sm text-gray-100 truncate">{entry.primaryLabel}</div>
                   {entry.secondaryLabel && (
                     <div className="text-xs text-gray-500 truncate">{entry.secondaryLabel}</div>
