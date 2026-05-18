@@ -1,73 +1,31 @@
-# React + TypeScript + Vite
+# mplus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A private dashboard for a 6-person WoW *Midnight* Mythic+ group. Tracks the season's runs across 8 dungeons × N weeks, the group's IO score vs Top 1% / 0.1% benchmarks, and the pugs we end up running with.
 
-Currently, two official plugins are available:
+Built with Vite + React 19 + TypeScript + Tailwind 4. Data sourced from raider.io's public API. Deployed on Vercel.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Local development
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm install
+npm run dev           # http://localhost:5173
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Scripts
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+| Command | What it does |
+|---|---|
+| `npm run dev` | Vite dev server with HMR |
+| `npm run build` | Type-check + production build to `dist/` |
+| `npm run lint` | ESLint |
+| `npm run fetch-data` | Incremental refresh — pulls each character's recent + best runs, updates `public/data.json` |
+| `npm run backfill` | Full Playwright scrape of every season run (~5 min) + API enrichment |
+| `npm run backfill -- --skip-scrape` | API-only repair pass (~1 min); useful after data-shape changes |
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## Deployment
+
+`main` is deployed automatically on push by Vercel. A GitHub Actions workflow (`.github/workflows/refresh-data.yml`) re-runs `fetch-data` every 2 hours and commits any changes to `public/data.json`, which triggers a redeploy.
+
+## Architecture
+
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the data-flow overview, file map, and design notes.
