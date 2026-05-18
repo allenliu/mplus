@@ -147,11 +147,11 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
     return (
       <div className="flex items-center gap-[3px]">
         <div
-          className="shrink-0 text-sm text-gray-300 truncate pr-2"
-          style={{ width: 200 }}
+          className="shrink-0 text-sm text-gray-300 truncate pr-2 w-12 sm:w-50"
           title={dungeon.name}
         >
-          {dungeon.name}
+          <span className="sm:hidden">{dungeon.shortName ?? dungeon.name}</span>
+          <span className="hidden sm:inline">{dungeon.name}</span>
         </div>
         {weeks.map(w => (
           <Cell key={w} dungeonId={dungeon.id} week={w} dungeon={dungeon} />
@@ -173,7 +173,7 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
       <div className="bg-gray-900 rounded-xl p-4 overflow-x-auto">
         {/* Header row */}
         <div className="flex items-center gap-[3px] mb-3">
-          <div style={{ width: 200, flexShrink: 0 }} />
+          <div className="shrink-0 w-12 sm:w-50" />
           {weeks.map(w => (
             <div
               key={w}

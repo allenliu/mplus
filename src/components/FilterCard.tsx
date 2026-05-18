@@ -9,13 +9,13 @@ interface FilterCardProps {
   onClearAll: () => void;
 }
 
-const GROUP_SIZE_OPTIONS: { value: FilterState['groupSize']; label: string }[] = [
-  { value: 'any', label: 'Any' },
-  { value: 5, label: '5-stack' },
-  { value: 4, label: '4-stack' },
-  { value: 3, label: '3-stack' },
-  { value: 2, label: '2-stack' },
-  { value: 1, label: 'Solo + pugs' },
+const GROUP_SIZE_OPTIONS: { value: FilterState['groupSize']; shortLabel: string; label: string }[] = [
+  { value: 'any', shortLabel: 'Any', label: 'Any' },
+  { value: 5, shortLabel: '5', label: '5-stack' },
+  { value: 4, shortLabel: '4', label: '4-stack' },
+  { value: 3, shortLabel: '3', label: '3-stack' },
+  { value: 2, shortLabel: '2', label: '2-stack' },
+  { value: 1, shortLabel: 'Solo', label: 'Solo + pugs' },
 ];
 
 export function FilterCard({
@@ -100,21 +100,22 @@ export function FilterCard({
       </div>
 
       {/* Group size row */}
-      <div className="mt-3 flex gap-2">
-        {GROUP_SIZE_OPTIONS.map(({ value, label }) => {
+      <div className="mt-3 flex flex-wrap gap-2">
+        {GROUP_SIZE_OPTIONS.map(({ value, label, shortLabel }) => {
           const isActive = filter.groupSize === value;
           return (
             <button
               key={String(value)}
               onClick={() => onSetGroupSize(value)}
               className={[
-                'rounded-full px-3 py-1 text-sm font-medium border transition-colors cursor-pointer',
+                'rounded-full px-3 py-1 text-sm font-medium border transition-colors cursor-pointer whitespace-nowrap',
                 isActive
                   ? 'bg-emerald-500/10 border-emerald-500 text-emerald-400'
                   : 'border-gray-600 text-gray-400 hover:border-gray-400',
               ].join(' ')}
             >
-              {label}
+              <span className="sm:hidden">{shortLabel}</span>
+              <span className="hidden sm:inline">{label}</span>
             </button>
           );
         })}
