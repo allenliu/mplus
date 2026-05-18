@@ -6,6 +6,8 @@ interface RunHoverCardProps {
   dungeon: Dungeon;
   roster: RosterMember[];
   extraCount?: number; // additional runs in the same cell beyond this one
+  pinned?: boolean;    // pinned (tap mode) — show close button and interactive action
+  onClose?: () => void;
 }
 
 function formatDuration(totalSeconds: number): string {
@@ -37,7 +39,7 @@ const ROLE_LABEL: Record<string, string> = {
   dps: 'DPS',
 };
 
-export function RunHoverCard({ run, dungeon, roster, extraCount = 0 }: RunHoverCardProps) {
+export function RunHoverCard({ run, dungeon, roster, extraCount = 0, pinned = false, onClose }: RunHoverCardProps) {
   const rosterMembers = run.rosterMemberIds
     .map((id) => roster.find((m) => m.id === id))
     .filter((m): m is RosterMember => m != null);
@@ -60,7 +62,7 @@ export function RunHoverCard({ run, dungeon, roster, extraCount = 0 }: RunHoverC
       style={{ width: 300 }}
     >
       {/* Header */}
-      <div className="px-3 py-2 border-b border-gray-800 flex items-center justify-between">
+      <div className="px-3 py-2 border-b border-gray-800 flex items-center justify-between gap-2">
         <div className="flex items-center gap-2 min-w-0">
           <span
             className={[
@@ -73,9 +75,20 @@ export function RunHoverCard({ run, dungeon, roster, extraCount = 0 }: RunHoverC
           </span>
           <span className="text-sm font-medium truncate">{dungeon.name}</span>
         </div>
-        <span className="text-[10px] uppercase tracking-wider text-gray-500">
-          W{run.resetWeek}
-        </span>
+        <div className="flex items-center gap-2 flex-shrink-0">
+          <span className="text-[10px] uppercase tracking-wider text-gray-500">
+            W{run.resetWeek}
+          </span>
+          {pinned && onClose && (
+            <button
+              onClick={onClose}
+              aria-label="Close"
+              className="rounded text-gray-500 hover:text-gray-200 hover:bg-gray-800 w-5 h-5 flex items-center justify-center leading-none"
+            >
+              ×
+            </button>
+          )}
+        </div>
       </div>
 
       {/* Result + time */}
@@ -143,13 +156,20 @@ export function RunHoverCard({ run, dungeon, roster, extraCount = 0 }: RunHoverC
       </div>
 
       {/* Footer */}
-      <div className="px-3 py-2 border-t border-gray-800 flex items-center justify-between text-[11px] text-gray-500">
-        {extraCount > 0 ? (
-          <span>+{extraCount} more run{extraCount > 1 ? 's' : ''} this week</span>
-        ) : (
-          <span />
+      <div className="px-3 py-2 border-t border-gray-800 space-y-2">
+        {extraCount > 0 && (
+          <div className="text-[11px] text-gray-500 text-center">
+            +{extraCount} more run{extraCount > 1 ? 's' : ''} this week
+          </div>
         )}
-        <span>click to open on raider.io ↗</span>
+        <a
+          href={`https://raider.io/mythic-plus-runs/season-mn-1/${run.id}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="block w-full text-center bg-sky-500/15 hover:bg-sky-500/25 text-sky-300 font-medium rounded px-3 py-1.5 text-xs"
+        >
+          Open on raider.io ↗
+        </a>
       </div>
     </div>
   );

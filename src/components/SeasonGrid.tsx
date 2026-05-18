@@ -42,6 +42,12 @@ interface HoverState {
   dungeon: Dungeon;
   extraCount: number;
   anchorRect: DOMRect;
+  pinned: boolean; // mobile tap pins the card; desktop hover doesn't
+}
+
+function detectHoverDevice(): boolean {
+  if (typeof window === 'undefined') return true;
+  return window.matchMedia('(hover: hover)').matches;
 }
 
 export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGridProps) {
@@ -62,6 +68,29 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
   const [hover, setHover] = useState<HoverState | null>(null);
   const cardRef = useRef<HTMLDivElement | null>(null);
   const [cardPos, setCardPos] = useState<{ top: number; left: number } | null>(null);
+
+  const [isHoverDevice, setIsHoverDevice] = useState(detectHoverDevice);
+  useEffect(() => {
+    const mq = window.matchMedia('(hover: hover)');
+    const handler = (e: MediaQueryListEvent) => setIsHoverDevice(e.matches);
+    mq.addEventListener('change', handler);
+    return () => mq.removeEventListener('change', handler);
+  }, []);
+
+  // Dismiss the pinned card when tapping outside of it
+  useEffect(() => {
+    if (!hover?.pinned) return;
+    const onDocPointerDown = (e: PointerEvent) => {
+      const tgt = e.target as Node;
+      if (cardRef.current?.contains(tgt)) return;
+      // Tap on a cell is handled by the cell's onClick (which toggles/reanchors)
+      const cellEl = (tgt as HTMLElement).closest?.('[data-cell="grid-cell"]');
+      if (cellEl) return;
+      setHover(null);
+    };
+    document.addEventListener('pointerdown', onDocPointerDown);
+    return () => document.removeEventListener('pointerdown', onDocPointerDown);
+  }, [hover?.pinned]);
 
   // Position the card relative to the anchor cell, flipping if it would overflow
   useEffect(() => {
@@ -115,23 +144,46 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
 
     const multiLabel = total > 1 ? `×${total}` : null;
 
+    const handleHoverEnter = isHoverDevice
+      ? (e: React.MouseEvent<HTMLDivElement>) => {
+          if (hover?.pinned) return;
+          const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
+          setHover({ run: best, dungeon, extraCount: total - 1, anchorRect: rect, pinned: false });
+        }
+      : undefined;
+    const handleHoverLeave = isHoverDevice
+      ? () => {
+          if (!hover?.pinned) setHover(null);
+        }
+      : undefined;
+    const handleClick = (e: React.MouseEvent<HTMLDivElement>) => {
+      if (isHoverDevice) {
+        window.open(
+          `https://raider.io/mythic-plus-runs/season-mn-1/${best.id}`,
+          '_blank',
+          'noopener,noreferrer',
+        );
+        return;
+      }
+      // Touch device: toggle pinned card for this cell
+      const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
+      const sameCell = hover?.run?.id === best.id;
+      if (sameCell && hover?.pinned) {
+        setHover(null);
+      } else {
+        setHover({ run: best, dungeon, extraCount: total - 1, anchorRect: rect, pinned: true });
+      }
+    };
+
     return (
       <div
+        data-cell="grid-cell"
         className="relative rounded flex items-center justify-center text-xs font-semibold select-none cursor-pointer transition-transform hover:scale-110 hover:z-10"
         style={{ width: 46, height: 36, flexShrink: 0, backgroundColor: bg, color }}
-        onMouseEnter={(e) => {
-          const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
-          setHover({ run: best, dungeon, extraCount: total - 1, anchorRect: rect });
-        }}
-        onMouseLeave={() => setHover(null)}
-        onClick={() => {
-          window.open(
-            `https://raider.io/mythic-plus-runs/season-mn-1/${best.id}`,
-            '_blank',
-            'noopener,noreferrer',
-          );
-        }}
-        title="Click to open on raider.io"
+        onMouseEnter={handleHoverEnter}
+        onMouseLeave={handleHoverLeave}
+        onClick={handleClick}
+        title={isHoverDevice ? 'Click to open on raider.io' : 'Tap for details'}
       >
         <span>+{best.level}</span>
         {multiLabel && (
@@ -192,15 +244,16 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
         </div>
       </div>
 
-      {/* Floating hover card */}
+      {/* Floating card — non-interactive for transient hover, interactive when pinned (tap mode) */}
       {hover && (
         <div
           ref={cardRef}
-          className="fixed z-50 pointer-events-none"
+          className="fixed z-50"
           style={{
             top: cardPos?.top ?? -9999,
             left: cardPos?.left ?? -9999,
             visibility: cardPos ? 'visible' : 'hidden',
+            pointerEvents: hover.pinned ? 'auto' : 'none',
           }}
         >
           <RunHoverCard
@@ -208,6 +261,8 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
             dungeon={hover.dungeon}
             roster={roster}
             extraCount={hover.extraCount}
+            pinned={hover.pinned}
+            onClose={() => setHover(null)}
           />
         </div>
       )}
