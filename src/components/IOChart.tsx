@@ -14,7 +14,7 @@ export interface IOChartProps {
 const VIEW_W = 700;
 const VIEW_H = 215;
 const PAD_LEFT = 40;
-const PAD_RIGHT = 16;
+const PAD_RIGHT = 78;
 const PAD_TOP = 16;
 const PAD_BOTTOM = 24;
 
@@ -278,24 +278,41 @@ export default function IOChart({
         );
       })}
 
-      {/* Legend top-right */}
-      <g transform={`translate(${VIEW_W - PAD_RIGHT - 150}, ${PAD_TOP})`}>
-        {/* Your group */}
-        <rect x={0} y={0} width={12} height={3} rx={1} fill="#1D9E75" />
-        <text x={16} y={3} fontSize={10} fill="#9CA3AF" dominantBaseline="middle">
-          Your group
-        </text>
-        {/* Top 1% */}
-        <line x1={0} y1={14} x2={12} y2={14} stroke="#B45309" strokeWidth={1.5} strokeDasharray="4 2" />
-        <text x={16} y={14} fontSize={10} fill="#9CA3AF" dominantBaseline="middle">
-          Top 1%
-        </text>
-        {/* Top 0.1% */}
-        <line x1={0} y1={26} x2={12} y2={26} stroke="#4338CA" strokeWidth={1.5} strokeDasharray="4 2" />
-        <text x={16} y={26} fontSize={10} fill="#9CA3AF" dominantBaseline="middle">
-          Top 0.1%
-        </text>
-      </g>
+      {/* Inline endpoint labels */}
+      {(() => {
+        const labels: { y: number; label: string; color: string }[] = [];
+        if (groupPoints.length > 0) {
+          labels.push({ y: groupPoints[groupPoints.length - 1].y, label: 'Your group', color: '#1D9E75' });
+        }
+        if (top1Points.length > 0) {
+          labels.push({ y: top1Points[top1Points.length - 1].y, label: 'Top 1%', color: '#B45309' });
+        }
+        if (top01Points.length > 0) {
+          labels.push({ y: top01Points[top01Points.length - 1].y, label: 'Top 0.1%', color: '#4338CA' });
+        }
+        // Sort by y ascending, then push apart any that are within MIN_GAP
+        labels.sort((a, b) => a.y - b.y);
+        const MIN_GAP = 13;
+        for (let i = 1; i < labels.length; i++) {
+          if (labels[i].y - labels[i - 1].y < MIN_GAP) {
+            labels[i].y = labels[i - 1].y + MIN_GAP;
+          }
+        }
+        const labelX = PAD_LEFT + PLOT_W + 6;
+        return labels.map(l => (
+          <text
+            key={l.label}
+            x={labelX}
+            y={l.y}
+            fontSize={10}
+            fontWeight={600}
+            fill={l.color}
+            dominantBaseline="middle"
+          >
+            {l.label}
+          </text>
+        ));
+      })()}
     </svg>
 
     {/* Hover tooltip */}
