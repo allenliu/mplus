@@ -2,7 +2,8 @@ name: Refresh data
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    # Off-peak minute (:17) — GitHub throttles scheduled runs at :00/:15/:30/:45
+    - cron: '17 * * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -19,8 +20,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
       - run: npm ci
       - run: npx tsx scripts/fetch-data.ts
+      - name: Validate data.json is parseable
+        run: node -e "JSON.parse(require('fs').readFileSync('public/data.json','utf8'))"
       - name: Commit data.json if changed
         run: |
           git config user.name "Allen Liu"
