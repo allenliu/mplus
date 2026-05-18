@@ -23,6 +23,7 @@ function toPug(char: RioRosterSlot['character'], role: string): PugCharacter {
     realm: char.realm.slug,
     region: char.region.slug as PugCharacter['region'],
     class: char.class.slug,
+    spec: char.spec?.slug,
     role: role.toLowerCase() as PugCharacter['role'],
   };
 }

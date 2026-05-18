@@ -39,6 +39,7 @@ interface RosterSlot {
     realm: { slug: string };
     region: { slug: string };
     class: { slug: string };
+    spec?: { slug: string };
   };
   role: string;
 }
@@ -186,7 +187,11 @@ async function main() {
   // Include: brand-new scraped IDs + existing runs missing score (legacy data repair)
   const newIds = [...allScraped.keys()].filter(id => !runMap.has(id));
   const repairIds = [...runMap.values()]
-    .filter(r => !r.score || r.score === 0)
+    .filter(r =>
+      !r.score
+      || r.score === 0
+      || r.pugs.some(p => !p.spec) // any pug missing spec (added later)
+    )
     .map(r => r.id);
   const idsToFetch = [...new Set([...newIds, ...repairIds])];
   console.log(`\nPhase 2 — Fetching details for ${idsToFetch.length} runs (${newIds.length} new, ${repairIds.length} repair).`);

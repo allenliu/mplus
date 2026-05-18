@@ -42,6 +42,7 @@ export interface RioRosterSlot {
     realm: { slug: string };
     region: { slug: string };
     class: { slug: string };
+    spec?: { slug: string };
   };
   role: string;
 }

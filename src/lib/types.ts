@@ -25,6 +25,7 @@ export interface PugCharacter {
   realm: string;
   region: Region;
   class: string;
+  spec?: string;
   role: Role;
 }
 
