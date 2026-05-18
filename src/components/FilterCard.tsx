@@ -40,51 +40,26 @@ export function FilterCard({
 
       {/* Sub-label */}
       <p className="text-xs text-gray-500 mb-3">
-        Click: must be in run · Click again: must NOT · Click again: clear
+        Click to require a player in the run · click again to clear
       </p>
 
       {/* Player chips */}
       <div className="flex flex-wrap gap-2">
         {[...roster].sort((a, b) => a.name.localeCompare(b.name)).map((member) => {
           const isRequired = filter.required.has(member.id);
-          const isExcluded = filter.excluded.has(member.id);
           const color = member.displayColor ?? '#9ca3af';
 
-          let chipStyle: React.CSSProperties;
-          let chipContent: React.ReactNode;
-
-          if (isRequired) {
-            chipStyle = {
-              backgroundColor: color,
-              borderColor: color,
-              color: '#ffffff',
-            };
-            chipContent = (
-              <>
-                <span aria-hidden="true">✓</span>
-                {member.name}
-              </>
-            );
-          } else if (isExcluded) {
-            chipStyle = {
-              backgroundColor: '#fee2e2',
-              borderColor: '#991b1b',
-              color: '#991b1b',
-            };
-            chipContent = (
-              <>
-                <span aria-hidden="true">✕</span>
-                <span className="line-through">{member.name}</span>
-              </>
-            );
-          } else {
-            chipStyle = {
-              backgroundColor: 'transparent',
-              borderColor: color,
-              color: color,
-            };
-            chipContent = <>{member.name}</>;
-          }
+          const chipStyle: React.CSSProperties = isRequired
+            ? { backgroundColor: color, borderColor: color, color: '#ffffff' }
+            : { backgroundColor: 'transparent', borderColor: color, color };
+          const chipContent = isRequired ? (
+            <>
+              <span aria-hidden="true">✓</span>
+              {member.name}
+            </>
+          ) : (
+            <>{member.name}</>
+          );
 
           return (
             <button

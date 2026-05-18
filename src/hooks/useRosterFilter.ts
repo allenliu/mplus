@@ -8,11 +8,9 @@ export function useRosterFilter() {
   const toggleMember = useCallback((id: string) => {
     setFilter(f => {
       const required = new Set(f.required);
-      const excluded = new Set(f.excluded);
-      if (required.has(id)) { required.delete(id); excluded.add(id); }
-      else if (excluded.has(id)) { excluded.delete(id); }
-      else { required.add(id); }
-      return { ...f, required, excluded };
+      if (required.has(id)) required.delete(id);
+      else required.add(id);
+      return { ...f, required };
     });
   }, []);
 
