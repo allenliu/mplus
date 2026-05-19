@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T06:56:11.179Z",
+  "fetchedAt": "2026-05-19T07:49:36.948Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -127,6 +127,24 @@
     }
   ],
   "runs": [
+    {
+      "id": 27485954,
+      "dungeonId": "magisters-terrace",
+      "level": 19,
+      "completedAt": "2026-05-19T07:40:57.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1839.116,
+      "score": 473.7,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
     {
       "id": 27475097,
       "dungeonId": "windrunner-spire",
