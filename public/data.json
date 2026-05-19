@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T04:32:51.047Z",
+  "fetchedAt": "2026-05-19T05:12:50.020Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -118,6 +118,39 @@
     }
   ],
   "runs": [
+    {
+      "id": 27464319,
+      "dungeonId": "algethar-academy",
+      "level": 10,
+      "completedAt": "2026-05-19T05:10:07.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1071.399,
+      "score": 335,
+      "rosterMemberIds": [
+        "slak",
+        "sid",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Nighte",
+          "realm": "burning-legion",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Destinátion",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 27397771,
       "dungeonId": "maisara-caverns",
