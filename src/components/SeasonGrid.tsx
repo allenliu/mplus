@@ -195,6 +195,75 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
     );
   }
 
+  function BestCell({ dungeon }: { dungeon: Dungeon }) {
+    // Best = highest-level TIMED run for this dungeon respecting filter;
+    // tiebreak by fastest. Depleted runs don't count toward "best".
+    const dungeonRuns = runs.filter(r =>
+      r.dungeonId === dungeon.id && r.result === 'timed' && runMatchesFilter(r, filter),
+    );
+
+    if (dungeonRuns.length === 0) {
+      return (
+        <div
+          className="flex items-center justify-center rounded border border-dashed border-gray-700 bg-transparent text-gray-600 text-xs select-none"
+          style={{ width: 46, height: 36, flexShrink: 0 }}
+        >
+          —
+        </div>
+      );
+    }
+
+    const best = dungeonRuns.reduce<Run>((a, b) => {
+      if (b.level !== a.level) return b.level > a.level ? b : a;
+      return b.durationSeconds < a.durationSeconds ? b : a;
+    }, dungeonRuns[0]);
+    const { bg, color } = cellColors(best.level);
+
+    const handleHoverEnter = isHoverDevice
+      ? (e: React.MouseEvent<HTMLDivElement>) => {
+          if (hover?.pinned) return;
+          const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
+          setHover({ run: best, dungeon, extraCount: 0, anchorRect: rect, pinned: false });
+        }
+      : undefined;
+    const handleHoverLeave = isHoverDevice
+      ? () => {
+          if (!hover?.pinned) setHover(null);
+        }
+      : undefined;
+    const handleClick = (e: React.MouseEvent<HTMLDivElement>) => {
+      if (isHoverDevice) {
+        window.open(
+          `https://raider.io/mythic-plus-runs/season-mn-1/${best.id}`,
+          '_blank',
+          'noopener,noreferrer',
+        );
+        return;
+      }
+      const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
+      const sameCell = hover?.run?.id === best.id;
+      if (sameCell && hover?.pinned) {
+        setHover(null);
+      } else {
+        setHover({ run: best, dungeon, extraCount: 0, anchorRect: rect, pinned: true });
+      }
+    };
+
+    return (
+      <div
+        data-cell="grid-cell"
+        className="relative rounded flex items-center justify-center text-xs font-bold select-none cursor-pointer transition-transform hover:scale-110 hover:z-10 ring-1 ring-yellow-400/40"
+        style={{ width: 46, height: 36, flexShrink: 0, backgroundColor: bg, color }}
+        onMouseEnter={handleHoverEnter}
+        onMouseLeave={handleHoverLeave}
+        onClick={handleClick}
+        title={`Best: +${best.level} W${best.resetWeek}`}
+      >
+        <span>+{best.level}</span>
+      </div>
+    );
+  }
+
   function DungeonRow({ dungeon }: { dungeon: Dungeon }) {
     return (
       <div className="flex items-center gap-[3px]">
@@ -205,6 +274,8 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
           <span className="sm:hidden">{dungeon.shortName ?? dungeon.name}</span>
           <span className="hidden sm:inline">{dungeon.name}</span>
         </div>
+        <BestCell dungeon={dungeon} />
+        <div className="shrink-0 self-stretch border-l border-gray-800 mx-0.5" />
         {weeks.map(w => (
           <Cell key={w} dungeonId={dungeon.id} week={w} dungeon={dungeon} />
         ))}
@@ -226,6 +297,13 @@ export default function SeasonGrid({ runs, dungeons, roster, filter }: SeasonGri
         {/* Header row */}
         <div className="flex items-center gap-[3px] mb-3">
           <div className="shrink-0 w-12 sm:w-50" />
+          <div
+            className="text-center text-[11px] font-semibold uppercase tracking-wider text-yellow-500/80 select-none"
+            style={{ width: 46, flexShrink: 0 }}
+          >
+            Best
+          </div>
+          <div className="shrink-0 self-stretch mx-0.5" style={{ width: 1 }} />
           {weeks.map(w => (
             <div
               key={w}
