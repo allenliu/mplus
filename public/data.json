@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T05:21:06.969Z",
+  "fetchedAt": "2026-05-19T06:56:11.179Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -57,6 +57,15 @@
       "class": "evoker",
       "primaryRole": "dps",
       "displayColor": "#33937F"
+    },
+    {
+      "id": "joe",
+      "name": "Joementum",
+      "realm": "tichondrius",
+      "region": "us",
+      "class": "demon-hunter",
+      "primaryRole": "dps",
+      "displayColor": "#A330C9"
     }
   ],
   "dungeons": [
@@ -118,6 +127,42 @@
     }
   ],
   "runs": [
+    {
+      "id": 27475097,
+      "dungeonId": "windrunner-spire",
+      "level": 19,
+      "completedAt": "2026-05-19T06:39:59.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1883.22,
+      "score": 471.9,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 27470444,
+      "dungeonId": "maisara-caverns",
+      "level": 19,
+      "completedAt": "2026-05-19T06:00:29.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1950.952,
+      "score": 470.6,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
     {
       "id": 27464319,
       "dungeonId": "algethar-academy",
@@ -1285,17 +1330,10 @@
       "rosterMemberIds": [
         "slak",
         "rune",
-        "sono"
+        "sono",
+        "joe"
       ],
       "pugs": [
-        {
-          "name": "Joementum",
-          "realm": "tichondrius",
-          "region": "us",
-          "class": "demon-hunter",
-          "spec": "devourer",
-          "role": "dps"
-        },
         {
           "name": "Waltwitemane",
           "realm": "fenris",
@@ -1318,7 +1356,8 @@
       "rosterMemberIds": [
         "slak",
         "rune",
-        "sono"
+        "sono",
+        "joe"
       ],
       "pugs": [
         {
@@ -1328,14 +1367,6 @@
           "class": "shaman",
           "spec": "restoration",
           "role": "healer"
-        },
-        {
-          "name": "Joementum",
-          "realm": "tichondrius",
-          "region": "us",
-          "class": "demon-hunter",
-          "spec": "devourer",
-          "role": "dps"
         }
       ]
     },
@@ -1350,7 +1381,8 @@
       "score": 200,
       "rosterMemberIds": [
         "slak",
-        "rune"
+        "rune",
+        "joe"
       ],
       "pugs": [
         {
@@ -1362,16 +1394,55 @@
           "role": "dps"
         },
         {
-          "name": "Joementum",
-          "realm": "tichondrius",
-          "region": "us",
-          "class": "demon-hunter",
-          "spec": "vengeance",
-          "role": "tank"
-        },
-        {
           "name": "Zíraél",
           "realm": "quelthalas",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 23850980,
+      "dungeonId": "skyreach",
+      "level": 2,
+      "completedAt": "2026-05-10T03:26:31.000Z",
+      "resetWeek": 7,
+      "result": "timed",
+      "durationSeconds": 1009.19,
+      "score": 170,
+      "rosterMemberIds": [
+        "joe"
+      ],
+      "pugs": [
+        {
+          "name": "Nothingsuss",
+          "realm": "barthilas",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Botansfeet",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Bazza",
+          "realm": "khadgar",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Balkonhk",
+          "realm": "tichondrius",
           "region": "us",
           "class": "paladin",
           "spec": "retribution",
@@ -4758,6 +4829,32 @@
         {
           "name": "Neddpally",
           "realm": "stormrage",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 16416765,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 17,
+      "completedAt": "2026-04-23T05:35:02.000Z",
+      "resetWeek": 5,
+      "result": "timed",
+      "durationSeconds": 1777.532,
+      "score": 440.5,
+      "rosterMemberIds": [
+        "ny",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Ultrapumplum",
+          "realm": "kiljaeden",
           "region": "us",
           "class": "paladin",
           "spec": "retribution",
@@ -15184,8 +15281,8 @@
     },
     {
       "week": 8,
-      "top1Pct": 3659.81,
-      "top01Pct": 3896.37
+      "top1Pct": 3660.8,
+      "top01Pct": 3897.67
     }
   ]
 }
