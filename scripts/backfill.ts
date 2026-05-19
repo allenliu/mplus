@@ -21,6 +21,7 @@ const CHAR_URLS = [
   'https://raider.io/characters/us/tichondrius/Slakklom',
   'https://raider.io/characters/us/tichondrius/Meowmeowface',
   'https://raider.io/characters/us/tichondrius/Sonophpy',
+  'https://raider.io/characters/us/tichondrius/Joementum',
 ];
 
 interface ScrapedSummary {
@@ -282,12 +283,39 @@ async function main() {
     console.warn(`  Cutoff fetch failed: ${(e as Error).message}`);
   }
 
+  // --- Phase 2.7: reclassify pugs as roster members when roster grows ---
+  // Idempotent: any pug whose (name, realm) matches a current roster member
+  // gets promoted to rosterMemberIds and removed from pugs.
+  function normName(s: string) { return s.toLowerCase(); }
+  function normRealm(s: string) { return s.toLowerCase().replace(/\s+/g, '-'); }
+  let reclassified = 0;
+  for (const [id, run] of runMap.entries()) {
+    const stayingPugs: typeof run.pugs = [];
+    const addedIds: string[] = [];
+    for (const p of run.pugs) {
+      const member = ROSTER.find(
+        m => normName(m.name) === normName(p.name) && normRealm(m.realm) === normRealm(p.realm),
+      );
+      if (member && !run.rosterMemberIds.includes(member.id)) {
+        addedIds.push(member.id);
+        reclassified++;
+      } else if (!member) {
+        stayingPugs.push(p);
+      }
+    }
+    if (addedIds.length > 0) {
+      runMap.set(id, { ...run, rosterMemberIds: [...run.rosterMemberIds, ...addedIds], pugs: stayingPugs });
+    }
+  }
+  if (reclassified > 0) console.log(`\nReclassified ${reclassified} pug slot(s) as roster members.`);
+
   // --- Phase 3: write output ---
   const output: GroupData = {
     ...existing,
     fetchedAt: new Date().toISOString(),
     dungeons: dungeonsWithTimers,
     benchmarks,
+    roster: ROSTER,
     runs: [...runMap.values()].sort(
       (a, b) => new Date(b.completedAt).getTime() - new Date(a.completedAt).getTime(),
     ),
