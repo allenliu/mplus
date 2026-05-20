@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-20T05:15:41.407Z",
+  "fetchedAt": "2026-05-20T06:29:37.764Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -331,6 +331,53 @@
           "class": "demon-hunter",
           "spec": "vengeance",
           "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 27807296,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 12,
+      "completedAt": "2026-05-20T02:32:17.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1162.467,
+      "score": 380,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Pêck",
+          "realm": "trollbane",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Brontides",
+          "realm": "destromath",
+          "region": "us",
+          "class": "warlock",
+          "spec": "destruction",
+          "role": "dps"
+        },
+        {
+          "name": "Ahote",
+          "realm": "frostwolf",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Morman",
+          "realm": "vashj",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
         }
       ]
     },
@@ -15657,8 +15704,8 @@
     },
     {
       "week": 9,
-      "top1Pct": 3662.56,
-      "top01Pct": 3899.16
+      "top1Pct": 3663.7,
+      "top01Pct": 3900.17
     }
   ]
 }
