@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-20T00:17:27.412Z",
+  "fetchedAt": "2026-05-20T04:11:43.900Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -127,6 +127,227 @@
     }
   ],
   "runs": [
+    {
+      "id": 27785800,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-05-20T04:09:58.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1348.035,
+      "score": 332.7,
+      "rosterMemberIds": [
+        "joe",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Engheliher",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Leuksun",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Nighte",
+          "realm": "burning-legion",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 27779303,
+      "dungeonId": "windrunner-spire",
+      "level": 10,
+      "completedAt": "2026-05-20T03:35:50.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1121.541,
+      "score": 335,
+      "rosterMemberIds": [
+        "joe",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Tyralien",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Bigpunches",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Chocho",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 27779138,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 15,
+      "completedAt": "2026-05-20T03:34:48.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1762.34,
+      "score": 415.1,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Boxlunch",
+          "realm": "turalyon",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Bwean",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Hawthourne",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Vynnzdk",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 27783347,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-05-20T02:50:04.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 822.757,
+      "score": 380,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Rottenmike",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Zogash",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Toßen",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Iloveanthony",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 27759164,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 11,
+      "completedAt": "2026-05-20T01:14:20.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1326.136,
+      "score": 348.1,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Zéducaixão",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Dominal",
+          "realm": "daggerspine",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Forlornsocks",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Slorgadin",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 27485954,
       "dungeonId": "magisters-terrace",
@@ -15403,8 +15624,8 @@
     },
     {
       "week": 9,
-      "top1Pct": 3662.02,
-      "top01Pct": 3898.76
+      "top1Pct": 3662.56,
+      "top01Pct": 3899.16
     }
   ]
 }
