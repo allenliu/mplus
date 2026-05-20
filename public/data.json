@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-20T06:29:37.764Z",
+  "fetchedAt": "2026-05-20T06:59:17.171Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -127,6 +127,72 @@
     }
   ],
   "runs": [
+    {
+      "id": 27820731,
+      "dungeonId": "pit-of-saron",
+      "level": 19,
+      "completedAt": "2026-05-20T06:23:12.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1561.692,
+      "score": 475,
+      "rosterMemberIds": [
+        "ny",
+        "sono",
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Arannis",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Catffeine",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 27820739,
+      "dungeonId": "algethar-academy",
+      "level": 19,
+      "completedAt": "2026-05-20T05:19:30.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1809.938,
+      "score": 471,
+      "rosterMemberIds": [
+        "rune",
+        "sono",
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Wärdinal",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Seanis",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 27792282,
       "dungeonId": "magisters-terrace",
