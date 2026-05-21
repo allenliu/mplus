@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-21T05:19:20.561Z",
+  "fetchedAt": "2026-05-21T07:42:04.995Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -128,6 +128,42 @@
   ],
   "runs": [
     {
+      "id": 28183499,
+      "dungeonId": "skyreach",
+      "level": 19,
+      "completedAt": "2026-05-21T06:24:00.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1447.737,
+      "score": 475.2,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 28173214,
+      "dungeonId": "algethar-academy",
+      "level": 19,
+      "completedAt": "2026-05-21T05:48:33.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1815.35,
+      "score": 470.9,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
+    {
       "id": 28149929,
       "dungeonId": "skyreach",
       "level": 10,
@@ -144,6 +180,72 @@
         "sono"
       ],
       "pugs": []
+    },
+    {
+      "id": 28180701,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 10,
+      "completedAt": "2026-05-21T04:28:32.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1012.156,
+      "score": 335,
+      "rosterMemberIds": [
+        "joe",
+        "sono",
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Branchès",
+          "realm": "illidan",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Nighte",
+          "realm": "burning-legion",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 28180711,
+      "dungeonId": "pit-of-saron",
+      "level": 10,
+      "completedAt": "2026-05-21T04:04:02.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 958.221,
+      "score": 335,
+      "rosterMemberIds": [
+        "sono",
+        "rune",
+        "joe"
+      ],
+      "pugs": [
+        {
+          "name": "Nighte",
+          "realm": "burning-legion",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Vàntage",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
     },
     {
       "id": 27820731,
