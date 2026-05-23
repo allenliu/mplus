@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T06:25:23.930Z",
+  "fetchedAt": "2026-05-23T09:12:59.442Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -145,6 +145,98 @@
     }
   ],
   "runs": [
+    {
+      "id": 28976258,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-05-23T07:49:12.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1134.738,
+      "score": 335,
+      "rosterMemberIds": [
+        "slak",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Beamboy",
+          "realm": "azuremyst",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Mistrior",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 28968988,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-05-23T07:19:45.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1131.423,
+      "score": 335,
+      "rosterMemberIds": [
+        "slak",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Standoffish",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Miststake",
+          "realm": "emerald-dream",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 28958004,
+      "dungeonId": "magisters-terrace",
+      "level": 10,
+      "completedAt": "2026-05-23T06:48:50.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1345.245,
+      "score": 332.8,
+      "rosterMemberIds": [
+        "slak",
+        "rune",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Ghostkernel",
+          "realm": "thrall",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 28950017,
       "dungeonId": "skyreach",
@@ -16456,8 +16548,8 @@
     },
     {
       "week": 9,
-      "top1Pct": 3682.53,
-      "top01Pct": 3921.95
+      "top1Pct": 3683.8,
+      "top01Pct": 3923.49
     }
   ]
 }
