@@ -8,6 +8,7 @@ export const ROSTER: RosterMember[] = [
   { id: 'slak', name: 'Slakklom',     realm: 'tichondrius', region: 'us', class: 'rogue',        primaryRole: 'dps',    displayColor: '#D9B900' },
   { id: 'sono', name: 'Sonophpy',     realm: 'tichondrius', region: 'us', class: 'evoker',       primaryRole: 'dps',    displayColor: '#33937F' },
   { id: 'joe',  name: 'Joementum',    realm: 'tichondrius', region: 'us', class: 'demon-hunter', primaryRole: 'dps',    displayColor: '#A330C9' },
+  { id: 'yogi', name: 'Yogileg',      realm: 'tichondrius', region: 'us', class: 'druid',        primaryRole: 'tank',   displayColor: '#D97706' },
 ];
 
 export const SEASON_DUNGEONS: Dungeon[] = [

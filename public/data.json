@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T04:06:49.029Z",
+  "fetchedAt": "2026-05-23T06:22:41.651Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -66,6 +66,15 @@
       "class": "demon-hunter",
       "primaryRole": "dps",
       "displayColor": "#A330C9"
+    },
+    {
+      "id": "yogi",
+      "name": "Yogileg",
+      "realm": "tichondrius",
+      "region": "us",
+      "class": "druid",
+      "primaryRole": "tank",
+      "displayColor": "#D97706"
     }
   ],
   "dungeons": [
@@ -127,6 +136,91 @@
     }
   ],
   "runs": [
+    {
+      "id": 28950017,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-05-23T06:15:15.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1447.289,
+      "score": 370.2,
+      "rosterMemberIds": [
+        "slak",
+        "rune",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Pawsoffury",
+          "realm": "nagrand",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 28940201,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 10,
+      "completedAt": "2026-05-23T05:37:46.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 898.028,
+      "score": 335,
+      "rosterMemberIds": [
+        "rune",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Tànkmedaddy",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Drefen",
+          "realm": "khazgoroth",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 28934642,
+      "dungeonId": "algethar-academy",
+      "level": 11,
+      "completedAt": "2026-05-23T04:46:43.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1199.078,
+      "score": 348.3,
+      "rosterMemberIds": [
+        "meow",
+        "rune",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "AnonE7BA6C7",
+          "realm": "anonymous",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 28923430,
       "dungeonId": "nexuspoint-xenas",
@@ -204,6 +298,53 @@
           "class": "monk",
           "spec": "brewmaster",
           "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 28936755,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 19,
+      "completedAt": "2026-05-23T01:56:13.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1877.788,
+      "score": 473,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Palialex",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Whiteboirick",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Zenflux",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Ðragg",
+          "realm": "area-52",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
         }
       ]
     },
@@ -16076,13 +16217,13 @@
     },
     {
       "week": 8,
-      "top1Pct": 3661.3,
-      "top01Pct": 3898.23
+      "top1Pct": 3661.44,
+      "top01Pct": 3898.25
     },
     {
       "week": 9,
-      "top1Pct": 3678.42,
-      "top01Pct": 3915.87
+      "top1Pct": 3682.53,
+      "top01Pct": 3921.95
     }
   ]
 }
