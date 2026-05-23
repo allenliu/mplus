@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T19:36:39.699Z",
+  "fetchedAt": "2026-05-23T21:07:55.310Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -145,6 +145,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 29233256,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-05-23T08:49:54.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1124.586,
+      "score": 335,
+      "rosterMemberIds": [
+        "sid"
+      ],
+      "pugs": [
+        {
+          "name": "Gourley",
+          "realm": "thrall",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Aclon",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Bastur",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Cørazøn",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 28999597,
       "dungeonId": "nexuspoint-xenas",
