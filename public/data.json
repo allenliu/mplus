@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T06:44:43.542Z",
+  "fetchedAt": "2026-05-23T06:25:23.930Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -75,6 +75,15 @@
       "class": "druid",
       "primaryRole": "tank",
       "displayColor": "#D97706"
+    },
+    {
+      "id": "night",
+      "name": "Nighte",
+      "realm": "burning-legion",
+      "region": "us",
+      "class": "druid",
+      "primaryRole": "dps",
+      "displayColor": "#FB923C"
     }
   ],
   "dungeons": [
@@ -413,18 +422,10 @@
         "rune",
         "joe",
         "sono",
-        "sid"
+        "sid",
+        "night"
       ],
-      "pugs": [
-        {
-          "name": "Nighte",
-          "realm": "burning-legion",
-          "region": "us",
-          "class": "druid",
-          "spec": "restoration",
-          "role": "healer"
-        }
-      ]
+      "pugs": []
     },
     {
       "id": 28585404,
@@ -525,7 +526,8 @@
       "rosterMemberIds": [
         "joe",
         "sono",
-        "rune"
+        "rune",
+        "night"
       ],
       "pugs": [
         {
@@ -535,14 +537,6 @@
           "class": "druid",
           "spec": "restoration",
           "role": "healer"
-        },
-        {
-          "name": "Nighte",
-          "realm": "burning-legion",
-          "region": "us",
-          "class": "druid",
-          "spec": "guardian",
-          "role": "tank"
         }
       ]
     },
@@ -558,17 +552,10 @@
       "rosterMemberIds": [
         "sono",
         "rune",
-        "joe"
+        "joe",
+        "night"
       ],
       "pugs": [
-        {
-          "name": "Nighte",
-          "realm": "burning-legion",
-          "region": "us",
-          "class": "druid",
-          "spec": "guardian",
-          "role": "tank"
-        },
         {
           "name": "Vàntage",
           "realm": "zuljin",
@@ -657,7 +644,8 @@
       "rosterMemberIds": [
         "joe",
         "sono",
-        "rune"
+        "rune",
+        "night"
       ],
       "pugs": [
         {
@@ -667,14 +655,6 @@
           "class": "priest",
           "spec": "holy",
           "role": "healer"
-        },
-        {
-          "name": "Nighte",
-          "realm": "burning-legion",
-          "region": "us",
-          "class": "druid",
-          "spec": "guardian",
-          "role": "tank"
         }
       ]
     },
@@ -689,7 +669,8 @@
       "score": 332.7,
       "rosterMemberIds": [
         "joe",
-        "sono"
+        "sono",
+        "night"
       ],
       "pugs": [
         {
@@ -707,14 +688,6 @@
           "class": "monk",
           "spec": "brewmaster",
           "role": "tank"
-        },
-        {
-          "name": "Nighte",
-          "realm": "burning-legion",
-          "region": "us",
-          "class": "druid",
-          "spec": "feral",
-          "role": "dps"
         }
       ]
     },
@@ -1012,17 +985,10 @@
       "rosterMemberIds": [
         "slak",
         "sid",
-        "sono"
+        "sono",
+        "night"
       ],
       "pugs": [
-        {
-          "name": "Nighte",
-          "realm": "burning-legion",
-          "region": "us",
-          "class": "druid",
-          "spec": "feral",
-          "role": "dps"
-        },
         {
           "name": "Destinátion",
           "realm": "tichondrius",
@@ -1045,7 +1011,8 @@
       "rosterMemberIds": [
         "sono",
         "joe",
-        "rune"
+        "rune",
+        "night"
       ],
       "pugs": [
         {
@@ -1055,14 +1022,6 @@
           "class": "monk",
           "spec": "mistweaver",
           "role": "healer"
-        },
-        {
-          "name": "Nighte",
-          "realm": "burning-legion",
-          "region": "us",
-          "class": "druid",
-          "spec": "guardian",
-          "role": "tank"
         }
       ]
     },
@@ -1078,17 +1037,10 @@
       "rosterMemberIds": [
         "sono",
         "joe",
-        "rune"
+        "rune",
+        "night"
       ],
       "pugs": [
-        {
-          "name": "Nighte",
-          "realm": "burning-legion",
-          "region": "us",
-          "class": "druid",
-          "spec": "guardian",
-          "role": "tank"
-        },
         {
           "name": "Destinátion",
           "realm": "tichondrius",
@@ -1129,6 +1081,194 @@
           "class": "monk",
           "spec": "brewmaster",
           "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 27458589,
+      "dungeonId": "magisters-terrace",
+      "level": 10,
+      "completedAt": "2026-05-19T03:42:03.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1230.478,
+      "score": 334.9,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Toßen",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Zeliss",
+          "realm": "illidan",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Cptbarnacles",
+          "realm": "rexxar",
+          "region": "us",
+          "class": "warlock",
+          "spec": "destruction",
+          "role": "dps"
+        },
+        {
+          "name": "Lirya",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 27464097,
+      "dungeonId": "algethar-academy",
+      "level": 10,
+      "completedAt": "2026-05-19T03:14:53.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1212.451,
+      "score": 333.1,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Egond",
+          "realm": "nazjatar",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Toßen",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Zeliss",
+          "realm": "illidan",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Illyius",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 27438279,
+      "dungeonId": "pit-of-saron",
+      "level": 10,
+      "completedAt": "2026-05-19T02:33:06.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1281.676,
+      "score": 330.8,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Okez",
+          "realm": "area-52",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Isoar",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        },
+        {
+          "name": "Seiseis",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Barrottop",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 27495936,
+      "dungeonId": "magisters-terrace",
+      "level": 10,
+      "completedAt": "2026-05-19T02:06:12.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1340.441,
+      "score": 332.9,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Lorik",
+          "realm": "lightbringer",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Barrottop",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Okez",
+          "realm": "area-52",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Seiseis",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
         }
       ]
     },
@@ -1175,6 +1315,100 @@
           "region": "us",
           "class": "monk",
           "spec": "windwalker",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 27140653,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 4,
+      "completedAt": "2026-05-18T07:16:04.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1121.711,
+      "score": 199.1,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Shockx",
+          "realm": "area-52",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Robinho",
+          "realm": "dragonblight",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Dmy",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Hayabusaa",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 27434524,
+      "dungeonId": "windrunner-spire",
+      "level": 2,
+      "completedAt": "2026-05-18T06:38:43.000Z",
+      "resetWeek": 8,
+      "result": "timed",
+      "durationSeconds": 1405.551,
+      "score": 165.9,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Elryss",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Faefei",
+          "realm": "wyrmrest-accord",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Flicker",
+          "realm": "norgannon",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Vaelyrie",
+          "realm": "wyrmrest-accord",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
           "role": "dps"
         }
       ]

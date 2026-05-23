@@ -23,6 +23,7 @@ const CHAR_URLS = [
   'https://raider.io/characters/us/tichondrius/Sonophpy',
   'https://raider.io/characters/us/tichondrius/Joementum',
   'https://raider.io/characters/us/tichondrius/Yogileg',
+  'https://raider.io/characters/us/burning-legion/Nighte',
 ];
 
 interface ScrapedSummary {
