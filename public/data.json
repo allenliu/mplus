@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-22T23:18:47.896Z",
+  "fetchedAt": "2026-05-23T04:06:49.029Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -127,6 +127,86 @@
     }
   ],
   "runs": [
+    {
+      "id": 28923430,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 12,
+      "completedAt": "2026-05-23T04:06:11.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1732.629,
+      "score": 366.4,
+      "rosterMemberIds": [
+        "joe",
+        "rune",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Fyit",
+          "realm": "hyjal",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 28912439,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 19,
+      "completedAt": "2026-05-23T03:03:32.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1735.595,
+      "score": 471.4,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Darkzeross",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Renbloo",
+          "realm": "bleeding-hollow",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Nicolee",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Ahchi",
+          "realm": "malganis",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 28581492,
       "dungeonId": "pit-of-saron",
@@ -16001,8 +16081,8 @@
     },
     {
       "week": 9,
-      "top1Pct": 3676.59,
-      "top01Pct": 3914.47
+      "top1Pct": 3678.42,
+      "top01Pct": 3915.87
     }
   ]
 }
