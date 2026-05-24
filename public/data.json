@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-24T00:11:17.916Z",
+  "fetchedAt": "2026-05-24T04:38:02.464Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -145,6 +145,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 29357851,
+      "dungeonId": "windrunner-spire",
+      "level": 12,
+      "completedAt": "2026-05-24T04:31:44.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1349.396,
+      "score": 377,
+      "rosterMemberIds": [
+        "slak"
+      ],
+      "pugs": [
+        {
+          "name": "Deafeningzap",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Mágmátísm",
+          "realm": "area-52",
+          "region": "us",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Ellastar",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Veylynn",
+          "realm": "firetree",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 29233256,
       "dungeonId": "seat-of-the-triumvirate",
