@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-25T16:03:17.830Z",
+  "fetchedAt": "2026-05-25T17:54:59.492Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -189,6 +189,53 @@
           "class": "monk",
           "spec": "mistweaver",
           "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 29952797,
+      "dungeonId": "algethar-academy",
+      "level": 10,
+      "completedAt": "2026-05-25T03:01:43.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1113.08,
+      "score": 335,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Nicolius",
+          "realm": "drakkari",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Lepz",
+          "realm": "area-52",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Zoopalz",
+          "realm": "hyjal",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Sabriluisa",
+          "realm": "drakkari",
+          "region": "us",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
         }
       ]
     },
@@ -16877,8 +16924,8 @@
     },
     {
       "week": 9,
-      "top1Pct": 3700.7,
-      "top01Pct": 3940.36
+      "top1Pct": 3701.15,
+      "top01Pct": 3940.65
     }
   ]
 }
