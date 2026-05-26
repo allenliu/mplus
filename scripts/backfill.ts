@@ -24,6 +24,7 @@ const CHAR_URLS = [
   'https://raider.io/characters/us/tichondrius/Joementum',
   'https://raider.io/characters/us/tichondrius/Yogileg',
   'https://raider.io/characters/us/burning-legion/Nighte',
+  'https://raider.io/characters/us/tichondrius/Ubemilktea',
 ];
 
 interface ScrapedSummary {

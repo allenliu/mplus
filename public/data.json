@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-26T08:43:20.509Z",
+  "fetchedAt": "2026-05-26T09:44:53.319Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -84,6 +84,15 @@
       "class": "druid",
       "primaryRole": "dps",
       "displayColor": "#FB923C"
+    },
+    {
+      "id": "ube",
+      "name": "Ubemilktea",
+      "realm": "tichondrius",
+      "region": "us",
+      "class": "monk",
+      "primaryRole": "dps",
+      "displayColor": "#00FF98"
     }
   ],
   "dungeons": [
@@ -146,6 +155,53 @@
   ],
   "runs": [
     {
+      "id": 30154619,
+      "dungeonId": "pit-of-saron",
+      "level": 20,
+      "completedAt": "2026-05-26T09:24:11.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1607.604,
+      "score": 489,
+      "rosterMemberIds": [
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Zootiiez",
+          "realm": "area-52",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Breezyd",
+          "realm": "area-52",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Pandaadk",
+          "realm": "illidan",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Choppastyle",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
       "id": 30132917,
       "dungeonId": "magisters-terrace",
       "level": 18,
@@ -193,17 +249,10 @@
       "rosterMemberIds": [
         "slak",
         "night",
-        "yogi"
+        "yogi",
+        "ube"
       ],
       "pugs": [
-        {
-          "name": "Ubemilktea",
-          "realm": "tichondrius",
-          "region": "us",
-          "class": "monk",
-          "spec": "mistweaver",
-          "role": "healer"
-        },
         {
           "name": "Tobenspeed",
           "realm": "area-52",
@@ -226,7 +275,8 @@
       "rosterMemberIds": [
         "night",
         "slak",
-        "yogi"
+        "yogi",
+        "ube"
       ],
       "pugs": [
         {
@@ -236,14 +286,6 @@
           "class": "demon-hunter",
           "spec": "devourer",
           "role": "dps"
-        },
-        {
-          "name": "Ubemilktea",
-          "realm": "tichondrius",
-          "region": "us",
-          "class": "monk",
-          "spec": "mistweaver",
-          "role": "healer"
         }
       ]
     },
@@ -259,17 +301,10 @@
       "rosterMemberIds": [
         "slak",
         "night",
-        "yogi"
+        "yogi",
+        "ube"
       ],
       "pugs": [
-        {
-          "name": "Ubemilktea",
-          "realm": "tichondrius",
-          "region": "us",
-          "class": "monk",
-          "spec": "mistweaver",
-          "role": "healer"
-        },
         {
           "name": "Tobenspeed",
           "realm": "area-52",
@@ -292,7 +327,8 @@
       "rosterMemberIds": [
         "rune",
         "sono",
-        "yogi"
+        "yogi",
+        "ube"
       ],
       "pugs": [
         {
@@ -302,14 +338,6 @@
           "class": "demon-hunter",
           "spec": "devourer",
           "role": "dps"
-        },
-        {
-          "name": "Ubemilktea",
-          "realm": "tichondrius",
-          "region": "us",
-          "class": "monk",
-          "spec": "mistweaver",
-          "role": "healer"
         }
       ]
     },
