@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-26T04:33:47.043Z",
+  "fetchedAt": "2026-05-26T08:43:20.509Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -146,6 +146,108 @@
   ],
   "runs": [
     {
+      "id": 30132917,
+      "dungeonId": "magisters-terrace",
+      "level": 18,
+      "completedAt": "2026-05-26T07:23:14.000Z",
+      "resetWeek": 9,
+      "result": "depleted",
+      "durationSeconds": 2907.917,
+      "score": 0,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 30126712,
+      "dungeonId": "pit-of-saron",
+      "level": 20,
+      "completedAt": "2026-05-26T06:23:11.000Z",
+      "resetWeek": 9,
+      "result": "depleted",
+      "durationSeconds": 1813.828,
+      "score": 319.7,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 30113575,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-05-26T04:44:20.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1081.208,
+      "score": 335,
+      "rosterMemberIds": [
+        "slak",
+        "night",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Ubemilktea",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 30116435,
+      "dungeonId": "pit-of-saron",
+      "level": 10,
+      "completedAt": "2026-05-26T04:20:30.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1009.649,
+      "score": 335,
+      "rosterMemberIds": [
+        "night",
+        "slak",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Ubemilktea",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
+    {
       "id": 30105346,
       "dungeonId": "windrunner-spire",
       "level": 10,
@@ -175,6 +277,39 @@
           "class": "demon-hunter",
           "spec": "devourer",
           "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 30116878,
+      "dungeonId": "algethar-academy",
+      "level": 10,
+      "completedAt": "2026-05-26T03:25:08.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1342.486,
+      "score": 330.4,
+      "rosterMemberIds": [
+        "rune",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Ubemilktea",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
         }
       ]
     },
@@ -16957,8 +17092,8 @@
     },
     {
       "week": 9,
-      "top1Pct": 3703.86,
-      "top01Pct": 3943.38
+      "top1Pct": 3705.74,
+      "top01Pct": 3946.63
     }
   ]
 }
