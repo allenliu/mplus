@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-26T19:27:59.878Z",
+  "fetchedAt": "2026-05-26T21:57:54.385Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 30307415,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-05-26T20:19:00.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1072.013,
+      "score": 335,
+      "rosterMemberIds": [
+        "sid"
+      ],
+      "pugs": [
+        {
+          "name": "Garrerito",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Shybladder",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Kittypawry",
+          "realm": "kirin-tor",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Taalliani",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 30154619,
       "dungeonId": "pit-of-saron",
