@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-25T23:21:19.276Z",
+  "fetchedAt": "2026-05-26T04:33:47.043Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -145,6 +145,39 @@
     }
   ],
   "runs": [
+    {
+      "id": 30105346,
+      "dungeonId": "windrunner-spire",
+      "level": 10,
+      "completedAt": "2026-05-26T03:58:05.000Z",
+      "resetWeek": 9,
+      "result": "timed",
+      "durationSeconds": 1211.445,
+      "score": 334.6,
+      "rosterMemberIds": [
+        "slak",
+        "night",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Ubemilktea",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 29779565,
       "dungeonId": "skyreach",
@@ -16924,8 +16957,8 @@
     },
     {
       "week": 9,
-      "top1Pct": 3701.87,
-      "top01Pct": 3941.3
+      "top1Pct": 3703.86,
+      "top01Pct": 3943.38
     }
   ]
 }
