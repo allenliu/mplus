@@ -2,6 +2,12 @@ export type Region = 'us' | 'eu' | 'kr' | 'tw' | 'cn';
 export type Role = 'tank' | 'healer' | 'dps';
 export type RunResult = 'timed' | 'depleted';
 
+export interface Player {
+  id: string;
+  acronym: string;
+  characterIds: string[];
+}
+
 export interface RosterMember {
   id: string;
   name: string;

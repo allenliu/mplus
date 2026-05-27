@@ -39,14 +39,14 @@ src/
 │   └── useRosterFilter.ts             # roster + group-size filter state
 ├── lib/
 │   ├── types.ts                       # GroupData / Run / Dungeon / RosterMember
-│   ├── roster.ts                      # the 6 characters + 8 dungeons
+│   ├── roster.ts                      # characters + player groupings + 8 dungeons
 │   ├── raiderio.ts                    # API client
 │   ├── groupRuns.ts                   # buildRun + applyRoster (Rio → Run)
 │   ├── scoring.ts                     # FilterState + runMatchesFilter + computeGroupIO
 │   ├── resets.ts                      # week-of-season math
 │   └── classColors.ts                 # WoW class color palette
 ├── components/
-│   ├── FilterCard.tsx                 # player chips + group-size pills
+│   ├── FilterCard.tsx                 # player/character chips + group-size pills (mode toggle)
 │   ├── SeasonGrid.tsx                 # 8 dungeons × N weeks heat map + hover/tap card
 │   ├── RunHoverCard.tsx               # flyout details (used by SeasonGrid + RecentRuns)
 │   ├── IOScoreCard.tsx                # big number + deltas + cutoffs
@@ -80,5 +80,7 @@ public/data.json                       # the data
 **Benchmarks come from `graphData.p990/p999`, not the simple cutoffs endpoint.** The public `season-cutoffs` API only returns current point-in-time values. The cutoffs *page* embeds a hidden `graphData` field with 53 daily snapshots — we scrape that once during backfill and bucket by reset week to get a real per-week benchmark curve.
 
 **Hover on desktop, tap-to-pin on mobile.** `matchMedia('(hover: hover)')` decides which mode at mount. Hover devices see a transient preview card (cell click opens raider.io directly); touch devices tap a cell to pin the card (with a close × and a tap-outside-to-dismiss listener), and the card's "Open on raider.io" button is the actual follow-up action.
+
+**Player vs character filter.** Each player owns 1–3 characters in the roster. The filter defaults to player mode (fewer chips, fits one row on most phones) where requiring a player passes any run containing *any* of their characters. A segmented control flips to character mode for finer-grained filtering (e.g. "Sonofsid runs but not Runesid"). The public dashboard shows player acronyms, not full names. Switching modes clears the required set since the two namespaces don't overlap meaningfully. On mobile the chip row scrolls horizontally with a fade-mask hint; on `sm+` it wraps as before.
 
 **No exclusion filter.** Originally the roster chips had a tri-state (require / exclude / neutral). Trimmed to two states (require / neutral) — exclusion was a niche use case that introduced more cognitive load than value for a friend group dashboard.

@@ -10,7 +10,7 @@ import { FreshnessIndicator } from './components/FreshnessIndicator';
 
 export default function App() {
   const { data, loading, error } = useGroupData();
-  const { filter, toggleMember, setGroupSize, clearAll } = useRosterFilter();
+  const { filter, toggleMember, setGroupSize, setMode, clearAll } = useRosterFilter();
 
   if (loading && !data) {
     return (
@@ -48,6 +48,7 @@ export default function App() {
           filter={filter}
           onToggleMember={toggleMember}
           onSetGroupSize={setGroupSize}
+          onSetMode={setMode}
           onClearAll={clearAll}
         />
 

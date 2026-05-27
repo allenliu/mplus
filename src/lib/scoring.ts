@@ -1,12 +1,24 @@
 import type { Run, Dungeon } from './types';
+import { PLAYERS } from './roster';
+
+export type FilterMode = 'player' | 'character';
 
 export interface FilterState {
+  mode: FilterMode;
   required: Set<string>;
   groupSize: 'any' | 5 | 4 | 3 | 2 | 1;
 }
 
 export function runMatchesFilter(run: Run, filter: FilterState): boolean {
-  for (const id of filter.required) if (!run.rosterMemberIds.includes(id)) return false;
+  if (filter.mode === 'player') {
+    for (const playerId of filter.required) {
+      const player = PLAYERS.find(p => p.id === playerId);
+      if (!player) continue;
+      if (!player.characterIds.some(cid => run.rosterMemberIds.includes(cid))) return false;
+    }
+  } else {
+    for (const id of filter.required) if (!run.rosterMemberIds.includes(id)) return false;
+  }
   if (typeof filter.groupSize === 'number' && run.rosterMemberIds.length !== filter.groupSize) return false;
   return true;
 }
@@ -32,6 +44,7 @@ export function computeGroupIO(
 }
 
 export const DEFAULT_FILTER: FilterState = {
+  mode: 'player',
   required: new Set(),
   groupSize: 'any',
 };

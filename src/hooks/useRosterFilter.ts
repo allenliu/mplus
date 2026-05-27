@@ -1,5 +1,5 @@
 import { useState, useCallback } from 'react';
-import type { FilterState } from '../lib/scoring';
+import type { FilterState, FilterMode } from '../lib/scoring';
 import { DEFAULT_FILTER } from '../lib/scoring';
 
 export function useRosterFilter() {
@@ -18,9 +18,13 @@ export function useRosterFilter() {
     setFilter(f => ({ ...f, groupSize: size }));
   }, []);
 
-  const clearAll = useCallback(() => {
-    setFilter(DEFAULT_FILTER);
+  const setMode = useCallback((mode: FilterMode) => {
+    setFilter(f => (f.mode === mode ? f : { ...f, mode, required: new Set() }));
   }, []);
 
-  return { filter, toggleMember, setGroupSize, clearAll };
+  const clearAll = useCallback(() => {
+    setFilter(f => ({ ...DEFAULT_FILTER, mode: f.mode }));
+  }, []);
+
+  return { filter, toggleMember, setGroupSize, setMode, clearAll };
 }
