@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-26T23:32:29.034Z",
+  "fetchedAt": "2026-05-27T04:46:58.980Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,119 @@
     }
   ],
   "runs": [
+    {
+      "id": 30409543,
+      "dungeonId": "windrunner-spire",
+      "level": 11,
+      "completedAt": "2026-05-27T04:11:44.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1488.265,
+      "score": 344.3,
+      "rosterMemberIds": [
+        "night",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Buddhasid",
+          "realm": "thrall",
+          "region": "us",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "Grafvitnir",
+          "realm": "icecrown",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Icanfixher",
+          "realm": "malganis",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 30407234,
+      "dungeonId": "windrunner-spire",
+      "level": 20,
+      "completedAt": "2026-05-27T03:04:16.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1861.811,
+      "score": 487.3,
+      "rosterMemberIds": [
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Drusato",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Jellonite",
+          "realm": "area-52",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Ifistu",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Tritonxeo",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 30399641,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-05-27T02:47:36.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1242.212,
+      "score": 334.7,
+      "rosterMemberIds": [
+        "slak",
+        "night",
+        "ube",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Buddhasid",
+          "realm": "thrall",
+          "region": "us",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 30307415,
       "dungeonId": "seat-of-the-triumvirate",
@@ -17172,8 +17285,8 @@
     },
     {
       "week": 10,
-      "top1Pct": 3706.37,
-      "top01Pct": 3947.72
+      "top1Pct": 3707.715,
+      "top01Pct": 3949.26
     }
   ]
 }
