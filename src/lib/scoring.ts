@@ -44,7 +44,7 @@ export function computeGroupIO(
 }
 
 export const DEFAULT_FILTER: FilterState = {
-  mode: 'player',
+  mode: 'character',
   required: new Set(),
   groupSize: 'any',
 };
