@@ -37,7 +37,7 @@ export function FilterCard({
         <span className="font-medium text-gray-100">Filter by {isPlayerMode ? 'player' : 'character'}</span>
         <div className="flex items-center gap-2">
           <div className="inline-flex rounded-full border border-gray-700 p-0.5 text-xs">
-            {(['player', 'character'] as const).map((mode) => {
+            {(['character', 'player'] as const).map((mode) => {
               const active = filter.mode === mode;
               return (
                 <button
