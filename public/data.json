@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-28T08:53:06.427Z",
+  "fetchedAt": "2026-05-28T12:45:18.372Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 30817105,
+      "dungeonId": "maisara-caverns",
+      "level": 16,
+      "completedAt": "2026-05-28T10:59:06.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1974.553,
+      "score": 425.1,
+      "rosterMemberIds": [
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Edrandil",
+          "realm": "saurfang",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Fürbie",
+          "realm": "anvilmar",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Kissew",
+          "realm": "aegwynn",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Waytonatrius",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 30774913,
       "dungeonId": "seat-of-the-triumvirate",
@@ -17405,8 +17452,8 @@
     },
     {
       "week": 10,
-      "top1Pct": 3716.4,
-      "top01Pct": 3961.03
+      "top1Pct": 3716.73,
+      "top01Pct": 3961.47
     }
   ]
 }
