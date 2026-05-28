@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-28T04:37:58.751Z",
+  "fetchedAt": "2026-05-28T08:17:01.354Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,72 @@
     }
   ],
   "runs": [
+    {
+      "id": 30774913,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 19,
+      "completedAt": "2026-05-28T08:03:27.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1869.576,
+      "score": 473.1,
+      "rosterMemberIds": [
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Neckbrace",
+          "realm": "bleeding-hollow",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Nicolee",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 30770540,
+      "dungeonId": "skyreach",
+      "level": 20,
+      "completedAt": "2026-05-28T07:14:01.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1574.288,
+      "score": 487.4,
+      "rosterMemberIds": [
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Ribitey",
+          "realm": "nerzhul",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Bonobobenis",
+          "realm": "area-52",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 30425587,
       "dungeonId": "nexuspoint-xenas",
