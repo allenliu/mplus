@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-29T23:41:09.286Z",
+  "fetchedAt": "2026-05-30T04:16:17.734Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -210,6 +210,46 @@
           "class": "shaman",
           "spec": "restoration",
           "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 31351427,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-05-29T04:53:04.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1867.475,
+      "score": 323.2,
+      "rosterMemberIds": [
+        "rune",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Reckurface",
+          "realm": "exodar",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Berenvald",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Slyblossom",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
         }
       ]
     },
@@ -17511,8 +17551,8 @@
     },
     {
       "week": 10,
-      "top1Pct": 3722.92,
-      "top01Pct": 3969.59
+      "top1Pct": 3726.35,
+      "top01Pct": 3972.18
     }
   ]
 }
