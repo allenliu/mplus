@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-30T23:13:53.990Z",
+  "fetchedAt": "2026-05-31T00:14:09.475Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 31716843,
+      "dungeonId": "skyreach",
+      "level": 20,
+      "completedAt": "2026-05-31T00:02:43.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1643.094,
+      "score": 485.8,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Sylås",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Zaxanol",
+          "realm": "thrall",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Wubbà",
+          "realm": "thrall",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Safeboat",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 31677181,
       "dungeonId": "windrunner-spire",
