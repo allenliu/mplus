@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-01T09:08:26.124Z",
+  "fetchedAt": "2026-06-01T10:31:46.072Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -155,6 +155,53 @@
   ],
   "runs": [
     {
+      "id": 32161130,
+      "dungeonId": "skyreach",
+      "level": 10,
+      "completedAt": "2026-06-01T07:41:56.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 859.895,
+      "score": 335,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Undeadjelly",
+          "realm": "azuremyst",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Popúlar",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Upgrayedds",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Doxycycline",
+          "realm": "moonrunner",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        }
+      ]
+    },
+    {
       "id": 32131768,
       "dungeonId": "windrunner-spire",
       "level": 12,
@@ -198,6 +245,53 @@
           "class": "warlock",
           "spec": "affliction",
           "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32161109,
+      "dungeonId": "windrunner-spire",
+      "level": 12,
+      "completedAt": "2026-06-01T06:37:53.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1214.461,
+      "score": 379.5,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Nei",
+          "realm": "medivh",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Goblihaman",
+          "realm": "malganis",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Narbw",
+          "realm": "medivh",
+          "region": "us",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Sandara",
+          "realm": "medivh",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
         }
       ]
     },
