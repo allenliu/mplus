@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-31T23:17:51.117Z",
+  "fetchedAt": "2026-06-01T09:08:26.124Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,147 @@
     }
   ],
   "runs": [
+    {
+      "id": 32131768,
+      "dungeonId": "windrunner-spire",
+      "level": 12,
+      "completedAt": "2026-06-01T07:11:09.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1505.868,
+      "score": 374,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Hexoffennder",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Zalley",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Shikikikiki",
+          "realm": "aegwynn",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Screampies",
+          "realm": "aegwynn",
+          "region": "us",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32132503,
+      "dungeonId": "skyreach",
+      "level": 10,
+      "completedAt": "2026-06-01T06:09:33.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 711.599,
+      "score": 335,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Beerforge",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Daechwita",
+          "realm": "illidan",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Ruttu",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Kegtease",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 32124518,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-06-01T05:52:10.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 978.782,
+      "score": 380,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Furryspud",
+          "realm": "dawnbringer",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Neferet",
+          "realm": "deathwing",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Spoonkik",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Baalim",
+          "realm": "arthas",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 31768293,
       "dungeonId": "skyreach",
@@ -17739,8 +17880,8 @@
     },
     {
       "week": 10,
-      "top1Pct": 3735.09,
-      "top01Pct": 3983.6
+      "top1Pct": 3739.96,
+      "top01Pct": 3988.7
     }
   ]
 }
