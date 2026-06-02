@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-02T06:56:28.068Z",
+  "fetchedAt": "2026-06-02T11:42:09.087Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,24 @@
     }
   ],
   "runs": [
+    {
+      "id": 32423532,
+      "dungeonId": "algethar-academy",
+      "level": 20,
+      "completedAt": "2026-06-02T07:13:46.000Z",
+      "resetWeek": 10,
+      "result": "depleted",
+      "durationSeconds": 1904.99,
+      "score": 319.1,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
     {
       "id": 32417463,
       "dungeonId": "seat-of-the-triumvirate",
@@ -18229,8 +18247,8 @@
     },
     {
       "week": 10,
-      "top1Pct": 3743.71,
-      "top01Pct": 3994.24
+      "top1Pct": 3744.4,
+      "top01Pct": 3995.12
     }
   ]
 }
