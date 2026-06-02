@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-01T23:09:07.656Z",
+  "fetchedAt": "2026-06-02T01:35:47.882Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,100 @@
     }
   ],
   "runs": [
+    {
+      "id": 32365450,
+      "dungeonId": "algethar-academy",
+      "level": 20,
+      "completedAt": "2026-06-02T00:31:27.000Z",
+      "resetWeek": 10,
+      "result": "depleted",
+      "durationSeconds": 1875.4,
+      "score": 319.7,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Chaleyimiao",
+          "realm": "illidan",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Kyansan",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Asphyxiategg",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Zaapata",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32360462,
+      "dungeonId": "windrunner-spire",
+      "level": 12,
+      "completedAt": "2026-06-01T22:05:53.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1253.242,
+      "score": 378.8,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Nystrom",
+          "realm": "malganis",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Sunhôôf",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Papafrancis",
+          "realm": "area-52",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Ungrir",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 32161130,
       "dungeonId": "skyreach",
