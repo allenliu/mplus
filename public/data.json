@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-02T01:35:47.882Z",
+  "fetchedAt": "2026-06-02T06:56:28.068Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -155,6 +155,120 @@
   ],
   "runs": [
     {
+      "id": 32417463,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 19,
+      "completedAt": "2026-06-02T06:07:48.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1843.016,
+      "score": 473.6,
+      "rosterMemberIds": [
+        "ny",
+        "slak",
+        "rune",
+        "sid",
+        "sono"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 32398902,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-06-02T04:30:13.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1112.22,
+      "score": 377.7,
+      "rosterMemberIds": [
+        "slak",
+        "night",
+        "ube",
+        "rune",
+        "yogi"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 32393597,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 12,
+      "completedAt": "2026-06-02T04:00:17.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1351.06,
+      "score": 377.7,
+      "rosterMemberIds": [
+        "night",
+        "ube",
+        "rune",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Nöta",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32389204,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 10,
+      "completedAt": "2026-06-02T03:30:43.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 889.087,
+      "score": 335,
+      "rosterMemberIds": [
+        "night",
+        "ube",
+        "rune",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Vyw",
+          "realm": "area-52",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32402095,
+      "dungeonId": "windrunner-spire",
+      "level": 10,
+      "completedAt": "2026-06-02T03:10:41.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1057.099,
+      "score": 335,
+      "rosterMemberIds": [
+        "night",
+        "sono",
+        "ube",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Vyw",
+          "realm": "area-52",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
       "id": 32365450,
       "dungeonId": "algethar-academy",
       "level": 20,
@@ -197,6 +311,53 @@
           "region": "us",
           "class": "warrior",
           "spec": "fury",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32376087,
+      "dungeonId": "pit-of-saron",
+      "level": 20,
+      "completedAt": "2026-06-01T23:15:16.000Z",
+      "resetWeek": 10,
+      "result": "timed",
+      "durationSeconds": 1662.816,
+      "score": 487.9,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Vawter",
+          "realm": "malganis",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Bríggs",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Jackeyguan",
+          "realm": "garrosh",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Knazzret",
+          "realm": "kelthuzad",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
           "role": "dps"
         }
       ]
@@ -18068,8 +18229,8 @@
     },
     {
       "week": 10,
-      "top1Pct": 3741.3,
-      "top01Pct": 3989.38
+      "top1Pct": 3743.71,
+      "top01Pct": 3994.24
     }
   ]
 }
