@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-03T07:07:08.097Z",
+  "fetchedAt": "2026-06-03T12:08:59.537Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,230 @@
     }
   ],
   "runs": [
+    {
+      "id": 32709355,
+      "dungeonId": "algethar-academy",
+      "level": 10,
+      "completedAt": "2026-06-03T08:18:33.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1096.768,
+      "score": 335,
+      "rosterMemberIds": [
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Peoplepeep",
+          "realm": "area-52",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Lêxus",
+          "realm": "lightbringer",
+          "region": "us",
+          "class": "warlock",
+          "spec": "destruction",
+          "role": "dps"
+        },
+        {
+          "name": "Mickius",
+          "realm": "dathremar",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Layonfans",
+          "realm": "thrall",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32720194,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 12,
+      "completedAt": "2026-06-03T07:55:26.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1443.522,
+      "score": 372.4,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Whatapal",
+          "realm": "nordrassil",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Lifeistilted",
+          "realm": "area-52",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Saurax",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Sindraeth",
+          "realm": "wyrmrest-accord",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32709260,
+      "dungeonId": "magisters-terrace",
+      "level": 10,
+      "completedAt": "2026-06-03T07:54:24.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1174.749,
+      "score": 335,
+      "rosterMemberIds": [
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Chidunhaode",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Whoaguys",
+          "realm": "burning-legion",
+          "region": "us",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Cecilith",
+          "realm": "goldrinn",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Gordiehowe",
+          "realm": "garrosh",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 32708481,
+      "dungeonId": "magisters-terrace",
+      "level": 21,
+      "completedAt": "2026-06-03T07:28:09.000Z",
+      "resetWeek": 11,
+      "result": "depleted",
+      "durationSeconds": 2379.778,
+      "score": 313.8,
+      "rosterMemberIds": [
+        "slak",
+        "ny",
+        "sono",
+        "rune",
+        "sid"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 32708485,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 20,
+      "completedAt": "2026-06-03T06:28:41.000Z",
+      "resetWeek": 11,
+      "result": "depleted",
+      "durationSeconds": 3141.837,
+      "score": 0,
+      "rosterMemberIds": [
+        "slak",
+        "ny",
+        "sono",
+        "rune",
+        "sid"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 32708397,
+      "dungeonId": "maisara-caverns",
+      "level": 20,
+      "completedAt": "2026-06-03T05:20:36.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1819.734,
+      "score": 488.1,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Lybelora",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Nosun",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Rallp",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Tonydd",
+          "realm": "illidan",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 32423532,
       "dungeonId": "algethar-academy",
@@ -18252,8 +18476,8 @@
     },
     {
       "week": 11,
-      "top1Pct": 3746.97,
-      "top01Pct": 3997.28
+      "top1Pct": 3747.53,
+      "top01Pct": 3997.63
     }
   ]
 }
