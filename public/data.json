@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-04T01:48:22.246Z",
+  "fetchedAt": "2026-06-04T06:55:25.219Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -155,6 +155,53 @@
   ],
   "runs": [
     {
+      "id": 32922186,
+      "dungeonId": "algethar-academy",
+      "level": 12,
+      "completedAt": "2026-06-04T00:26:23.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1138.92,
+      "score": 379.6,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Giverqt",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Smike",
+          "realm": "kargath",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Forsetee",
+          "realm": "norgannon",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Mamimush",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
+    {
       "id": 32905442,
       "dungeonId": "windrunner-spire",
       "level": 12,
@@ -245,6 +292,53 @@
           "class": "mage",
           "spec": "frost",
           "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 32922185,
+      "dungeonId": "maisara-caverns",
+      "level": 11,
+      "completedAt": "2026-06-03T22:41:45.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1667.912,
+      "score": 340.9,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Isekai",
+          "realm": "llane",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Sabelly",
+          "realm": "thrall",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Wtfpaladin",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Emmyone",
+          "realm": "area-52",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
         }
       ]
     },
@@ -18570,8 +18664,8 @@
     },
     {
       "week": 11,
-      "top1Pct": 3748.39,
-      "top01Pct": 3998.19
+      "top1Pct": 3749.85,
+      "top01Pct": 3999.47
     }
   ]
 }
