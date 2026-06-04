@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-03T23:14:09.020Z",
+  "fetchedAt": "2026-06-04T01:48:22.246Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,100 @@
     }
   ],
   "runs": [
+    {
+      "id": 32905442,
+      "dungeonId": "windrunner-spire",
+      "level": 12,
+      "completedAt": "2026-06-03T23:54:37.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1278.936,
+      "score": 378.3,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Goak",
+          "realm": "area-52",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Jaamjaar",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Dowler",
+          "realm": "area-52",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Fistingsammy",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 32902661,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-06-03T23:26:53.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1172.584,
+      "score": 376.3,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Ihealsyou",
+          "realm": "gurubashi",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Sambwave",
+          "realm": "garrosh",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Kashhunt",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Mordach",
+          "realm": "gurubashi",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 32709355,
       "dungeonId": "algethar-academy",
