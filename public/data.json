@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-04T06:55:25.219Z",
+  "fetchedAt": "2026-06-04T10:44:20.053Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 32954100,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 20,
+      "completedAt": "2026-06-04T07:21:24.000Z",
+      "resetWeek": 11,
+      "result": "depleted",
+      "durationSeconds": 1848.71,
+      "score": 319,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Weenbean",
+          "realm": "blades-edge",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Joxem",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Choppastyle",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Juîcyjuîce",
+          "realm": "illidan",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 32922186,
       "dungeonId": "algethar-academy",
@@ -18664,8 +18711,8 @@
     },
     {
       "week": 11,
-      "top1Pct": 3749.85,
-      "top01Pct": 3999.47
+      "top1Pct": 3751.76,
+      "top01Pct": 4000.29
     }
   ]
 }
