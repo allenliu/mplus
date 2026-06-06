@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-06T05:04:35.129Z",
+  "fetchedAt": "2026-06-06T08:02:00.356Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 33460681,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 20,
+      "completedAt": "2026-06-06T06:21:52.000Z",
+      "resetWeek": 11,
+      "result": "depleted",
+      "durationSeconds": 1821.896,
+      "score": 319.6,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Gank",
+          "realm": "executus",
+          "region": "us",
+          "class": "rogue",
+          "spec": "assassination",
+          "role": "dps"
+        },
+        {
+          "name": "Reklessdh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Criminyl",
+          "realm": "illidan",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Beersmeld",
+          "realm": "malganis",
+          "region": "us",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 33202391,
       "dungeonId": "nexuspoint-xenas",
@@ -18758,8 +18805,8 @@
     },
     {
       "week": 11,
-      "top1Pct": 3759.21,
-      "top01Pct": 4008.99
+      "top1Pct": 3760.18,
+      "top01Pct": 4009.94
     }
   ]
 }
