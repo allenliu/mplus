@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-08T05:00:34.556Z",
+  "fetchedAt": "2026-06-08T09:55:04.925Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,32 @@
     }
   ],
   "runs": [
+    {
+      "id": 34022731,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 17,
+      "completedAt": "2026-06-08T05:55:46.000Z",
+      "resetWeek": 11,
+      "result": "depleted",
+      "durationSeconds": 2920.92,
+      "score": 0,
+      "rosterMemberIds": [
+        "slak",
+        "night",
+        "rune",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 34015949,
       "dungeonId": "maisara-caverns",
@@ -19033,8 +19059,8 @@
     },
     {
       "week": 11,
-      "top1Pct": 3768.62,
-      "top01Pct": 4012.7
+      "top1Pct": 3769.73,
+      "top01Pct": 4013.13
     }
   ]
 }
