@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-07T23:31:26.168Z",
+  "fetchedAt": "2026-06-08T05:00:34.556Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,187 @@
     }
   ],
   "runs": [
+    {
+      "id": 34015949,
+      "dungeonId": "maisara-caverns",
+      "level": 12,
+      "completedAt": "2026-06-08T04:48:21.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1273.421,
+      "score": 378.4,
+      "rosterMemberIds": [
+        "slak"
+      ],
+      "pugs": [
+        {
+          "name": "Karyme",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Navaria",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Metrobooman",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Shookdowns",
+          "realm": "thrall",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34004751,
+      "dungeonId": "windrunner-spire",
+      "level": 12,
+      "completedAt": "2026-06-08T02:39:00.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1175.286,
+      "score": 380,
+      "rosterMemberIds": [
+        "yogi",
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Lightnap",
+          "realm": "bleeding-hollow",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Darkcarbon",
+          "realm": "alleria",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Macbullseye",
+          "realm": "bonechewer",
+          "region": "us",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34014953,
+      "dungeonId": "algethar-academy",
+      "level": 10,
+      "completedAt": "2026-06-08T02:06:00.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1069.638,
+      "score": 335,
+      "rosterMemberIds": [
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Azlea",
+          "realm": "chogall",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Crrickett",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Moakowa",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Trimhoj",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 34010396,
+      "dungeonId": "algethar-academy",
+      "level": 12,
+      "completedAt": "2026-06-08T01:42:18.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1561.352,
+      "score": 371,
+      "rosterMemberIds": [
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Sproochdk",
+          "realm": "daggerspine",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Karastraza",
+          "realm": "burning-blade",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Zûgg",
+          "realm": "frostmane",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Gingerloop",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 33653920,
       "dungeonId": "nexuspoint-xenas",
@@ -18852,8 +19033,8 @@
     },
     {
       "week": 11,
-      "top1Pct": 3766.21,
-      "top01Pct": 4012.18
+      "top1Pct": 3768.62,
+      "top01Pct": 4012.7
     }
   ]
 }
