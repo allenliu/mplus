@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-08T20:32:22.024Z",
+  "fetchedAt": "2026-06-08T22:48:58.100Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -155,6 +155,53 @@
   ],
   "runs": [
     {
+      "id": 34207310,
+      "dungeonId": "magisters-terrace",
+      "level": 12,
+      "completedAt": "2026-06-08T22:14:22.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1124.956,
+      "score": 380,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Everlee",
+          "realm": "illidan",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Rahmar",
+          "realm": "thrall",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Mattyai",
+          "realm": "thrall",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Ballzog",
+          "realm": "illidan",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
       "id": 34179518,
       "dungeonId": "seat-of-the-triumvirate",
       "level": 10,
@@ -275,6 +322,32 @@
       ]
     },
     {
+      "id": 34204506,
+      "dungeonId": "maisara-caverns",
+      "level": 16,
+      "completedAt": "2026-06-08T05:02:35.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1663.141,
+      "score": 431,
+      "rosterMemberIds": [
+        "night",
+        "sono",
+        "rune",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
       "id": 34015949,
       "dungeonId": "maisara-caverns",
       "level": 12,
@@ -317,6 +390,58 @@
           "region": "us",
           "class": "death-knight",
           "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34204510,
+      "dungeonId": "windrunner-spire",
+      "level": 17,
+      "completedAt": "2026-06-08T04:19:55.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1904.573,
+      "score": 441.4,
+      "rosterMemberIds": [
+        "yogi",
+        "rune",
+        "sono",
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34204514,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 16,
+      "completedAt": "2026-06-08T03:43:10.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1571.07,
+      "score": 429.8,
+      "rosterMemberIds": [
+        "sono",
+        "yogi",
+        "rune",
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
           "role": "dps"
         }
       ]
