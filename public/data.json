@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-09T05:16:33.998Z",
+  "fetchedAt": "2026-06-09T08:42:06.868Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -155,6 +155,117 @@
   ],
   "runs": [
     {
+      "id": 34270965,
+      "dungeonId": "algethar-academy",
+      "level": 18,
+      "completedAt": "2026-06-09T07:13:18.000Z",
+      "resetWeek": 11,
+      "result": "depleted",
+      "durationSeconds": 1861.364,
+      "score": 320,
+      "rosterMemberIds": [
+        "sono",
+        "night",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Daangalangg",
+          "realm": "akama",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34266018,
+      "dungeonId": "windrunner-spire",
+      "level": 17,
+      "completedAt": "2026-06-09T06:32:05.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1939.445,
+      "score": 440.8,
+      "rosterMemberIds": [
+        "slak",
+        "night",
+        "rune",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34263446,
+      "dungeonId": "skyreach",
+      "level": 16,
+      "completedAt": "2026-06-09T05:51:23.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1368.741,
+      "score": 432,
+      "rosterMemberIds": [
+        "slak",
+        "night",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34259032,
+      "dungeonId": "maisara-caverns",
+      "level": 12,
+      "completedAt": "2026-06-09T05:20:35.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1140.348,
+      "score": 380,
+      "rosterMemberIds": [
+        "slak",
+        "night",
+        "sid",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
       "id": 34256168,
       "dungeonId": "algethar-academy",
       "level": 12,
@@ -176,6 +287,53 @@
           "region": "us",
           "class": "demon-hunter",
           "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34260925,
+      "dungeonId": "windrunner-spire",
+      "level": 10,
+      "completedAt": "2026-06-09T00:52:24.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1110.423,
+      "score": 335,
+      "rosterMemberIds": [
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Jye",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "rogue",
+          "spec": "assassination",
+          "role": "dps"
+        },
+        {
+          "name": "Jochy",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Shabla",
+          "realm": "illidan",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Bateestaka",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
           "role": "dps"
         }
       ]
