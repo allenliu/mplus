@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-09T00:18:19.887Z",
+  "fetchedAt": "2026-06-09T05:16:33.998Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,79 @@
     }
   ],
   "runs": [
+    {
+      "id": 34256168,
+      "dungeonId": "algethar-academy",
+      "level": 12,
+      "completedAt": "2026-06-09T04:48:31.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1356.289,
+      "score": 375.2,
+      "rosterMemberIds": [
+        "slak",
+        "ube",
+        "sid",
+        "sono"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34225588,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-06-09T00:29:56.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1223.344,
+      "score": 375.2,
+      "rosterMemberIds": [
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Sullÿ",
+          "realm": "thrall",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Bixxbee",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Liquidmaul",
+          "realm": "illidan",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Doradexplorr",
+          "realm": "daggerspine",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 34221843,
       "dungeonId": "pit-of-saron",
@@ -390,6 +463,53 @@
       ]
     },
     {
+      "id": 34229811,
+      "dungeonId": "magisters-terrace",
+      "level": 12,
+      "completedAt": "2026-06-08T19:01:48.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1686.991,
+      "score": 371.5,
+      "rosterMemberIds": [
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Escalivut",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Taleous",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Drshockingly",
+          "realm": "aggramar",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Jaevadin",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
       "id": 34022731,
       "dungeonId": "seat-of-the-triumvirate",
       "level": 17,
@@ -528,6 +648,32 @@
         "yogi",
         "rune",
         "night"
+      ],
+      "pugs": [
+        {
+          "name": "Tobenspeed",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 34229834,
+      "dungeonId": "pit-of-saron",
+      "level": 14,
+      "completedAt": "2026-06-08T03:08:03.000Z",
+      "resetWeek": 11,
+      "result": "timed",
+      "durationSeconds": 1008.524,
+      "score": 410,
+      "rosterMemberIds": [
+        "yogi",
+        "ny",
+        "sono",
+        "rune"
       ],
       "pugs": [
         {
@@ -19372,8 +19518,8 @@
     },
     {
       "week": 11,
-      "top1Pct": 3770.17,
-      "top01Pct": 4013.22
+      "top1Pct": 3771.36,
+      "top01Pct": 4013.44
     }
   ]
 }
