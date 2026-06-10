@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-10T20:44:10.247Z",
+  "fetchedAt": "2026-06-10T22:56:25.952Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,100 @@
     }
   ],
   "runs": [
+    {
+      "id": 34656330,
+      "dungeonId": "maisara-caverns",
+      "level": 21,
+      "completedAt": "2026-06-10T22:30:30.000Z",
+      "resetWeek": 12,
+      "result": "timed",
+      "durationSeconds": 1940.971,
+      "score": 500.8,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Roxygr",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Manatsuvu",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Timichanga",
+          "realm": "malganis",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Stjarna",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 34636492,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 20,
+      "completedAt": "2026-06-10T20:52:25.000Z",
+      "resetWeek": 12,
+      "result": "timed",
+      "durationSeconds": 1933.482,
+      "score": 487,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Strijder",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Lettõ",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Snailpally",
+          "realm": "drakkari",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Fieraz",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 34270965,
       "dungeonId": "algethar-academy",
@@ -19681,7 +19775,7 @@
     },
     {
       "week": 12,
-      "top1Pct": 3773.12,
+      "top1Pct": 3773.3,
       "top01Pct": 4014.9
     }
   ]
