@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T05:30:38.572Z",
+  "fetchedAt": "2026-06-16T17:20:08.511Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,100 @@
     }
   ],
   "runs": [
+    {
+      "id": 35908154,
+      "dungeonId": "algethar-academy",
+      "level": 12,
+      "completedAt": "2026-06-16T05:35:05.000Z",
+      "resetWeek": 12,
+      "result": "timed",
+      "durationSeconds": 1344.361,
+      "score": 375.4,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Burryu",
+          "realm": "area-52",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Fop",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Vexrys",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Biang",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 35908208,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-06-16T04:59:27.000Z",
+      "resetWeek": 12,
+      "result": "timed",
+      "durationSeconds": 1051.625,
+      "score": 379,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Supbrah",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Soulscream",
+          "realm": "chogall",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Klappncheeks",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Chainheels",
+          "realm": "malganis",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 35905433,
       "dungeonId": "pit-of-saron",
@@ -20012,6 +20106,11 @@
       "week": 12,
       "top1Pct": 3780.73,
       "top01Pct": 4022.66
+    },
+    {
+      "week": 13,
+      "top1Pct": 3781.46,
+      "top01Pct": 4024.42
     }
   ]
 }
