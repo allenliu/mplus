@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T17:20:08.511Z",
+  "fetchedAt": "2026-06-16T21:18:23.040Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -338,6 +338,53 @@
           "region": "us",
           "class": "warrior",
           "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 36035126,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 12,
+      "completedAt": "2026-06-16T03:36:11.000Z",
+      "resetWeek": 12,
+      "result": "timed",
+      "durationSeconds": 1282.668,
+      "score": 375.8,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Miamiganster",
+          "realm": "icecrown",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Bear",
+          "realm": "terokkar",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Boomerglad",
+          "realm": "aggramar",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Spyrio",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
           "role": "dps"
         }
       ]
