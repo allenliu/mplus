@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-19T07:25:53.868Z",
+  "fetchedAt": "2026-06-19T12:17:03.501Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,32 @@
     }
   ],
   "runs": [
+    {
+      "id": 36389878,
+      "dungeonId": "algethar-academy",
+      "level": 19,
+      "completedAt": "2026-06-19T07:36:21.000Z",
+      "resetWeek": 13,
+      "result": "depleted",
+      "durationSeconds": 2167.302,
+      "score": 313.8,
+      "rosterMemberIds": [
+        "night",
+        "rune",
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Shametheman",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 36380271,
       "dungeonId": "nexuspoint-xenas",
@@ -20182,8 +20208,8 @@
     },
     {
       "week": 13,
-      "top1Pct": 3784.79,
-      "top01Pct": 4027.53
+      "top1Pct": 3785.28,
+      "top01Pct": 4028.29
     }
   ]
 }
