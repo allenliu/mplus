@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-19T21:20:56.246Z",
+  "fetchedAt": "2026-06-19T23:13:19.027Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -190,6 +190,46 @@
           "region": "us",
           "class": "death-knight",
           "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 36518375,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-06-19T20:24:03.000Z",
+      "resetWeek": 13,
+      "result": "timed",
+      "durationSeconds": 1094.401,
+      "score": 378.1,
+      "rosterMemberIds": [
+        "sono",
+        "yogi"
+      ],
+      "pugs": [
+        {
+          "name": "Kryorc",
+          "realm": "thrall",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Judgeshred",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Jüll",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
           "role": "dps"
         }
       ]
@@ -20248,8 +20288,8 @@
     },
     {
       "week": 13,
-      "top1Pct": 3785.57,
-      "top01Pct": 4028.43
+      "top1Pct": 3786.32,
+      "top01Pct": 4029.04
     }
   ]
 }
