@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T05:43:11.851Z",
+  "fetchedAt": "2026-06-20T09:37:02.632Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,78 @@
     }
   ],
   "runs": [
+    {
+      "id": 36564102,
+      "dungeonId": "pit-of-saron",
+      "level": 17,
+      "completedAt": "2026-06-20T07:10:59.000Z",
+      "resetWeek": 13,
+      "result": "timed",
+      "durationSeconds": 1706.52,
+      "score": 442,
+      "rosterMemberIds": [
+        "ube",
+        "sono",
+        "night",
+        "rune",
+        "yogi"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 36564104,
+      "dungeonId": "magisters-terrace",
+      "level": 17,
+      "completedAt": "2026-06-20T06:29:46.000Z",
+      "resetWeek": 13,
+      "result": "timed",
+      "durationSeconds": 1881.489,
+      "score": 442.9,
+      "rosterMemberIds": [
+        "ube",
+        "yogi",
+        "rune",
+        "night",
+        "sono"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 36564103,
+      "dungeonId": "windrunner-spire",
+      "level": 14,
+      "completedAt": "2026-06-20T05:51:45.000Z",
+      "resetWeek": 13,
+      "result": "timed",
+      "durationSeconds": 1188.495,
+      "score": 410,
+      "rosterMemberIds": [
+        "night",
+        "sono",
+        "rune",
+        "yogi",
+        "ube"
+      ],
+      "pugs": []
+    },
+    {
+      "id": 36564107,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-06-20T05:18:09.000Z",
+      "resetWeek": 13,
+      "result": "timed",
+      "durationSeconds": 1124.705,
+      "score": 377.4,
+      "rosterMemberIds": [
+        "ube",
+        "sono",
+        "night",
+        "slak",
+        "yogi"
+      ],
+      "pugs": []
+    },
     {
       "id": 36509914,
       "dungeonId": "magisters-terrace",
