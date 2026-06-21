@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-21T00:20:52.018Z",
+  "fetchedAt": "2026-06-21T06:17:20.429Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 36749745,
+      "dungeonId": "seat-of-the-triumvirate",
+      "level": 12,
+      "completedAt": "2026-06-21T03:57:40.000Z",
+      "resetWeek": 13,
+      "result": "timed",
+      "durationSeconds": 1305.65,
+      "score": 378.5,
+      "rosterMemberIds": [
+        "rune"
+      ],
+      "pugs": [
+        {
+          "name": "Promethis",
+          "realm": "icecrown",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Monarchybear",
+          "realm": "thrall",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Valastrasz",
+          "realm": "thrall",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Zalanox",
+          "realm": "thrall",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 36564102,
       "dungeonId": "pit-of-saron",
@@ -20360,8 +20407,8 @@
     },
     {
       "week": 13,
-      "top1Pct": 3789.25,
-      "top01Pct": 4032.02
+      "top1Pct": 3790.09,
+      "top01Pct": 4032.59
     }
   ]
 }
