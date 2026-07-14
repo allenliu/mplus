@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T03:31:00.592Z",
+  "fetchedAt": "2026-07-14T06:22:50.879Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 39979895,
+      "dungeonId": "skyreach",
+      "level": 12,
+      "completedAt": "2026-07-14T05:23:41.000Z",
+      "resetWeek": 16,
+      "result": "timed",
+      "durationSeconds": 1216.492,
+      "score": 375.4,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Holyköw",
+          "realm": "emerald-dream",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Foobs",
+          "realm": "illidan",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Zenzerken",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Soulyp",
+          "realm": "area-52",
+          "region": "us",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 37277446,
       "dungeonId": "windrunner-spire",
