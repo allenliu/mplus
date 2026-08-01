@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T21:07:47.558Z",
+  "fetchedAt": "2026-08-01T22:09:18.116Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 42077996,
+      "dungeonId": "magisters-terrace",
+      "level": 21,
+      "completedAt": "2026-08-01T21:25:04.000Z",
+      "resetWeek": 19,
+      "result": "timed",
+      "durationSeconds": 1974.122,
+      "score": 501.2,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Melvoo",
+          "realm": "area-52",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Pwingles",
+          "realm": "illidan",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Jrpoopsie",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Aivedh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 40781924,
       "dungeonId": "pit-of-saron",
