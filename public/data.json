@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T00:09:59.082Z",
+  "fetchedAt": "2026-08-02T03:52:42.764Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,100 @@
     }
   ],
   "runs": [
+    {
+      "id": 42095162,
+      "dungeonId": "nexuspoint-xenas",
+      "level": 21,
+      "completedAt": "2026-08-02T00:46:53.000Z",
+      "resetWeek": 19,
+      "result": "timed",
+      "durationSeconds": 1796.908,
+      "score": 500.1,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Aivedh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Pwinglet",
+          "realm": "illidan",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Jrpoopsie",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Jóshua",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 42095159,
+      "dungeonId": "windrunner-spire",
+      "level": 21,
+      "completedAt": "2026-08-02T00:07:58.000Z",
+      "resetWeek": 19,
+      "result": "depleted",
+      "durationSeconds": 2118.153,
+      "score": 317.4,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Deathbody",
+          "realm": "area-52",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Jrpoopsie",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Pwingles",
+          "realm": "illidan",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Aivedh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 42077996,
       "dungeonId": "magisters-terrace",
@@ -20672,8 +20766,8 @@
     },
     {
       "week": 19,
-      "top1Pct": 3906.27,
-      "top01Pct": 4175.04
+      "top1Pct": 3906.88,
+      "top01Pct": 4176.11
     }
   ]
 }
