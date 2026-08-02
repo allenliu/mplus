@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T03:52:42.764Z",
+  "fetchedAt": "2026-08-02T06:46:42.086Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,100 @@
     }
   ],
   "runs": [
+    {
+      "id": 42109679,
+      "dungeonId": "maisara-caverns",
+      "level": 21,
+      "completedAt": "2026-08-02T05:23:49.000Z",
+      "resetWeek": 19,
+      "result": "timed",
+      "durationSeconds": 1919.264,
+      "score": 501.2,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Aivedh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Torgilon",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Zujistraza",
+          "realm": "illidan",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Jrpoopsie",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 42109456,
+      "dungeonId": "pit-of-saron",
+      "level": 21,
+      "completedAt": "2026-08-02T03:50:27.000Z",
+      "resetWeek": 19,
+      "result": "timed",
+      "durationSeconds": 1657.544,
+      "score": 503,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Layney",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Aivedh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Jrpoopsie",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Xerta",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 42095162,
       "dungeonId": "nexuspoint-xenas",
@@ -20766,8 +20860,8 @@
     },
     {
       "week": 19,
-      "top1Pct": 3906.88,
-      "top01Pct": 4176.11
+      "top1Pct": 3907.91,
+      "top01Pct": 4176.96
     }
   ]
 }
