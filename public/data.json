@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T23:09:32.449Z",
+  "fetchedAt": "2026-08-03T00:10:32.463Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 42208639,
+      "dungeonId": "windrunner-spire",
+      "level": 21,
+      "completedAt": "2026-08-02T23:30:14.000Z",
+      "resetWeek": 19,
+      "result": "timed",
+      "durationSeconds": 1922.079,
+      "score": 501.1,
+      "rosterMemberIds": [
+        "ny"
+      ],
+      "pugs": [
+        {
+          "name": "Jrpoopsie",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Aivedh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Vassek",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Kooker",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 42109679,
       "dungeonId": "maisara-caverns",
