@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T22:48:27.551Z",
+  "fetchedAt": "2026-08-09T23:44:29.852Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -21053,8 +21053,8 @@
     },
     {
       "week": 20,
-      "top1Pct": 3939.83,
-      "top01Pct": 4204.06
+      "top1Pct": 3940.96,
+      "top01Pct": 4204.23
     }
   ]
 }
