@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T02:25:30.156Z",
+  "fetchedAt": "2026-08-11T04:38:00.114Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,53 @@
     }
   ],
   "runs": [
+    {
+      "id": 43013313,
+      "dungeonId": "pit-of-saron",
+      "level": 10,
+      "completedAt": "2026-08-11T03:04:46.000Z",
+      "resetWeek": 20,
+      "result": "timed",
+      "durationSeconds": 1079.339,
+      "score": 335,
+      "rosterMemberIds": [
+        "night"
+      ],
+      "pugs": [
+        {
+          "name": "Pringlesclap",
+          "realm": "illidan",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Widepeeposhy",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Qerim",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Dudley",
+          "realm": "cenarius",
+          "region": "us",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 42212929,
       "dungeonId": "seat-of-the-triumvirate",
@@ -21053,8 +21100,8 @@
     },
     {
       "week": 20,
-      "top1Pct": 3951.74,
-      "top01Pct": 4207.77
+      "top1Pct": 3953.87,
+      "top01Pct": 4208.7
     }
   ]
 }
