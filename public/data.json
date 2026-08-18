@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T21:36:06.753Z",
+  "fetchedAt": "2026-08-18T22:39:24.049Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 33951,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 10,
+      "completedAt": "2026-08-18T22:22:28.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1643.747,
+      "score": 325.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Gurzen",
+          "realm": "thrall",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Terraformer",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Barlenor",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Sewpra",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Mozima",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 27637,
+      "dungeonId": "altar-of-fangs",
+      "level": 8,
+      "completedAt": "2026-08-18T21:45:12.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1439.759,
+      "score": 282.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Boneshaman",
+          "realm": "area-52",
+          "region": "us",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Leiyr",
+          "realm": "area-52",
+          "region": "us",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        },
+        {
+          "name": "Killidân",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Serrahbi",
+          "realm": "area-52",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Menåpaws-303432410",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 21119,
       "dungeonId": "kings-rest",
