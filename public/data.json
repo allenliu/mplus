@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T22:39:24.049Z",
+  "fetchedAt": "2026-08-18T23:34:07.360Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 41558,
+      "dungeonId": "the-blinding-vale",
+      "level": 11,
+      "completedAt": "2026-08-18T23:05:27.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1723.694,
+      "score": 336.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Bloopsnaggle",
+          "realm": "hyjal",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Athenebust",
+          "realm": "illidan",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Sandrodh",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Mynameyaff",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Zantúm",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 33951,
       "dungeonId": "temple-of-sethraliss",
