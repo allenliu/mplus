@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T18:54:12.046Z",
+  "fetchedAt": "2026-08-18T19:38:29.764Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 8941,
+      "dungeonId": "ruby-life-pools",
+      "level": 5,
+      "completedAt": "2026-08-18T19:21:57.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 864.221,
+      "score": 230,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Zanth",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Smelling",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Blagraksha",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
+        },
+        {
+          "name": "Cellendis",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Juanchorizot",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 7455,
+      "dungeonId": "murder-row",
+      "level": 2,
+      "completedAt": "2026-08-18T19:02:43.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1171.473,
+      "score": 170,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Cwelldh",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Lazywl",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Ecop",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "禅禅",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Jaystermo",
+          "realm": "xalataths-endgame",
+          "region": "us",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 43013313,
       "dungeonId": "pit-of-saron",
