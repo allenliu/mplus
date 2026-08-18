@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T20:37:55.248Z",
+  "fetchedAt": "2026-08-18T21:36:06.753Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 21119,
+      "dungeonId": "kings-rest",
+      "level": 5,
+      "completedAt": "2026-08-18T21:12:09.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1097.773,
+      "score": 230,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Ästrîd",
+          "realm": "malganis",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Wìnner",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Bakú",
+          "realm": "drakkari",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Neme",
+          "realm": "malganis",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Dessr-113888431",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 17816,
+      "dungeonId": "the-blinding-vale",
+      "level": 2,
+      "completedAt": "2026-08-18T20:44:25.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 961.886,
+      "score": 170,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Snipyterror",
+          "realm": "shattered-hand",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Gewchlock-227132219",
+          "realm": "malganis",
+          "region": "us",
+          "class": "warlock",
+          "spec": "destruction",
+          "role": "dps"
+        },
+        {
+          "name": "Anjunabeets",
+          "realm": "gorefiend",
+          "region": "us",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Nitewang",
+          "realm": "thunderlord",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Syneria-300618248",
+          "realm": "demon-soul",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 12112,
       "dungeonId": "murder-row",
