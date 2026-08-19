@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T23:34:07.360Z",
+  "fetchedAt": "2026-08-19T01:51:10.354Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 47961,
+      "dungeonId": "den-of-nalorakk",
+      "level": 12,
+      "completedAt": "2026-08-18T23:56:38.000Z",
+      "resetWeek": 22,
+      "result": "depleted",
+      "durationSeconds": 2858.246,
+      "score": 0,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Brox",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Sovos",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Ferissar",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Dadbodtodd",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Skeezelouize",
+          "realm": "malganis",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 41558,
       "dungeonId": "the-blinding-vale",
