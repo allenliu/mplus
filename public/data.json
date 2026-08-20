@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T05:44:31.622Z",
+  "fetchedAt": "2026-08-20T07:04:02.007Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,324 @@
     }
   ],
   "runs": [
+    {
+      "id": 556106,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 10,
+      "completedAt": "2026-08-19T07:09:23.000Z",
+      "resetWeek": 22,
+      "result": "depleted",
+      "durationSeconds": 2156.305,
+      "score": 300.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Yuoky",
+          "realm": "zuljin",
+          "region": "eu",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Фенги",
+          "realm": "gordunni",
+          "region": "eu",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Alpargata",
+          "realm": "zuljin",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Фория",
+          "realm": "soulflayer",
+          "region": "eu",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Deshay",
+          "realm": "zuljin",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 556104,
+      "dungeonId": "voidscar-arena",
+      "level": 9,
+      "completedAt": "2026-08-19T06:25:02.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1543.851,
+      "score": 295.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Polyhalladin",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Gàbriel",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Sneakerino",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "Conilesh",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Umuut",
+          "realm": "kelthuzad",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 556108,
+      "dungeonId": "ruby-life-pools",
+      "level": 7,
+      "completedAt": "2026-08-19T05:47:45.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1313.183,
+      "score": 268.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Demondrako",
+          "realm": "thrall",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Dotbush-38100730",
+          "realm": "icecrown",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Cabash",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Chaenyue",
+          "realm": "lightbringer",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Foxai",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 556095,
+      "dungeonId": "altar-of-fangs",
+      "level": 8,
+      "completedAt": "2026-08-19T05:22:10.000Z",
+      "resetWeek": 22,
+      "result": "depleted",
+      "durationSeconds": 1943.856,
+      "score": 257,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Rexxyz",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Frostheims",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Kuurk",
+          "realm": "sanguino",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Crimsonlover",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Rìng",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 556102,
+      "dungeonId": "kings-rest",
+      "level": 6,
+      "completedAt": "2026-08-19T04:38:29.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1385.598,
+      "score": 241.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Demøgorgon",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Weltuz",
+          "realm": "argent-dawn",
+          "region": "eu",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Relya",
+          "realm": "zuljin",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Budayici",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Imladriss",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 556101,
+      "dungeonId": "altar-of-fangs",
+      "level": 5,
+      "completedAt": "2026-08-19T04:09:05.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1676.726,
+      "score": 217.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Вилеер",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Shelion",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Nightydh",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Chäos",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Hamumusrog",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 47961,
       "dungeonId": "den-of-nalorakk",
