@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T06:57:11.239Z",
+  "fetchedAt": "2026-08-22T07:44:16.971Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 1823830,
+      "dungeonId": "ruby-life-pools",
+      "level": 10,
+      "completedAt": "2026-08-22T06:26:18.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1405.662,
+      "score": 326.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "毫无道德",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "心软的神丶",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "芬达不加冰",
+          "realm": "runetotem",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "秀迹",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "腿长蛋高",
+          "realm": "runetotem",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 1783678,
       "dungeonId": "murder-row",
