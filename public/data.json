@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T04:47:09.800Z",
+  "fetchedAt": "2026-08-22T05:40:20.858Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 1783678,
+      "dungeonId": "murder-row",
+      "level": 11,
+      "completedAt": "2026-08-22T05:29:28.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1484.706,
+      "score": 345.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "夜幕捕梦官",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "极品肥牛",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "心悦会员",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Ithaquay",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "茉莉白桃",
+          "realm": "the-masters-glaive",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 1770247,
+      "dungeonId": "murder-row",
+      "level": 10,
+      "completedAt": "2026-08-22T04:59:40.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1572.862,
+      "score": 328.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "죽음맛동산",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "기만전술-227057450",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "황소인더키우",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Cristiana",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "죽손셔틀-264605231",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 1777960,
+      "dungeonId": "murder-row",
+      "level": 10,
+      "completedAt": "2026-08-22T04:24:13.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1543.085,
+      "score": 329.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "字幕组",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "星见雅-303948964",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "臭买猫的",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "克洛克达尔",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "叽里咕噜哇啦",
+          "realm": "alar",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 556106,
       "dungeonId": "temple-of-sethraliss",
