@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T05:42:46.922Z",
+  "fetchedAt": "2026-08-23T06:58:50.322Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 2452736,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 12,
+      "completedAt": "2026-08-23T05:58:57.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1838.78,
+      "score": 366.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Surial",
+          "realm": "aegwynn",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Fríeza",
+          "realm": "emerald-dream",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Nøødlë",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Naelynh",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Floorcleave",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 2451517,
+      "dungeonId": "den-of-nalorakk",
+      "level": 11,
+      "completedAt": "2026-08-23T05:24:05.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1523.072,
+      "score": 342.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Metapalâ",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Fayntix",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Helldh",
+          "realm": "eredar",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Nevernerf-230416259",
+          "realm": "blackhand",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Stevebruder",
+          "realm": "taerar",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 1823830,
       "dungeonId": "ruby-life-pools",
