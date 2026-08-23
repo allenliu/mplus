@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T08:46:23.639Z",
+  "fetchedAt": "2026-08-23T09:40:51.771Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 2522041,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-08-23T07:06:43.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1198.773,
+      "score": 332.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Xvg",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Qyrah",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Lightwarior",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Poneifericit",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Енне",
+          "realm": "galakrond",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 2522046,
+      "dungeonId": "kings-rest",
+      "level": 11,
+      "completedAt": "2026-08-23T06:37:05.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1535.936,
+      "score": 343.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Boxbeutel",
+          "realm": "senjin",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Elandey",
+          "realm": "dun-morogh",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Òcdh",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Flap",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Ellros",
+          "realm": "drakthul",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 2452736,
       "dungeonId": "temple-of-sethraliss",
