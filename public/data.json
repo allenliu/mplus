@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T12:59:58.498Z",
+  "fetchedAt": "2026-08-23T13:44:30.156Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -363,6 +363,59 @@
           "class": "priest",
           "spec": "discipline",
           "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 2625074,
+      "dungeonId": "ruby-life-pools",
+      "level": 9,
+      "completedAt": "2026-08-23T04:42:02.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1119.842,
+      "score": 302.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "蔚然橙风",
+          "realm": "hectae",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "暮光星灵",
+          "realm": "hectae",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Okabe",
+          "realm": "alar",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Onasms",
+          "realm": "alar",
+          "region": "cn",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "相柳丶",
+          "realm": "hectae",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
         }
       ]
     },
