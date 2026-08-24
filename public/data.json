@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T04:59:11.650Z",
+  "fetchedAt": "2026-08-24T05:51:19.428Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 3045396,
+      "dungeonId": "voidscar-arena",
+      "level": 11,
+      "completedAt": "2026-08-24T05:37:02.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1254.799,
+      "score": 346.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Catfaya",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Noobsaîbot",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Jôk",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Subpoena",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Sunjinnwoo",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 3040074,
+      "dungeonId": "the-blinding-vale",
+      "level": 12,
+      "completedAt": "2026-08-24T05:03:50.000Z",
+      "resetWeek": 22,
+      "result": "depleted",
+      "durationSeconds": 1810.856,
+      "score": 319.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Vankisa",
+          "realm": "xavius",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Smækå",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Wobbletorque",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Loupi",
+          "realm": "eredar",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Darkonosore",
+          "realm": "archimonde",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 3030319,
       "dungeonId": "kings-rest",
