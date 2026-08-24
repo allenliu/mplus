@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T07:18:25.665Z",
+  "fetchedAt": "2026-08-24T09:02:19.386Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 3073431,
+      "dungeonId": "murder-row",
+      "level": 10,
+      "completedAt": "2026-08-24T06:15:29.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1410.24,
+      "score": 331.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Fumind",
+          "realm": "sargeras",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Kamelott",
+          "realm": "khaz-modan",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Kimril",
+          "realm": "archimonde",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Kaaraak",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Wythir",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 3045396,
       "dungeonId": "voidscar-arena",
