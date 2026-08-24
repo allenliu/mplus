@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T01:55:46.777Z",
+  "fetchedAt": "2026-08-24T03:15:13.088Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,71 @@
     }
   ],
   "runs": [
+    {
+      "id": 3014042,
+      "dungeonId": "ruby-life-pools",
+      "level": 12,
+      "completedAt": "2026-08-24T03:02:16.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1384.999,
+      "score": 371.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "马王爷叁只眼",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "丶红色香槟",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "年少不曾轻狂",
+          "realm": "alar",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "丨麒丶麟丨",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "花间一壶浊酒",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 2998613,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-08-24T02:06:14.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1761.009,
+      "score": 365.8,
+      "rosterMemberIds": [],
+      "pugs": []
+    },
     {
       "id": 2522041,
       "dungeonId": "voidscar-arena",
