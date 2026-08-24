@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T04:05:43.349Z",
+  "fetchedAt": "2026-08-24T04:59:11.650Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 3030319,
+      "dungeonId": "kings-rest",
+      "level": 12,
+      "completedAt": "2026-08-24T04:21:08.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1752.071,
+      "score": 369.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Joyramone",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Meshasho",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Hexycute",
+          "realm": "kelthuzad",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Qyootie",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Gulduh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 3023293,
       "dungeonId": "den-of-nalorakk",
