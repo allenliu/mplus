@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T03:15:13.088Z",
+  "fetchedAt": "2026-08-24T04:05:43.349Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 3023293,
+      "dungeonId": "den-of-nalorakk",
+      "level": 13,
+      "completedAt": "2026-08-24T03:47:40.000Z",
+      "resetWeek": 22,
+      "result": "depleted",
+      "durationSeconds": 2009.785,
+      "score": 318.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Controlzero",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "Rewmor",
+          "realm": "archimonde",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Howdoievoker",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Scaleo",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Kalera",
+          "realm": "forscherliga",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 3014042,
       "dungeonId": "ruby-life-pools",
