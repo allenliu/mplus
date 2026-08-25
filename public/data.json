@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T05:45:43.505Z",
+  "fetchedAt": "2026-08-25T07:06:23.263Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 3507362,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-25T05:34:49.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1270.391,
+      "score": 331,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "丶艾炎",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "月色冷",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "虚空大菌子",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "清风夜伴-303968493",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "给你变个羊吧",
+          "realm": "pandaren",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 3507216,
+      "dungeonId": "murder-row",
+      "level": 8,
+      "completedAt": "2026-08-25T04:40:39.000Z",
+      "resetWeek": 22,
+      "result": "timed",
+      "durationSeconds": 1725.058,
+      "score": 280.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Fíngaz",
+          "realm": "thrall",
+          "region": "us",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "Ahaux",
+          "realm": "thrall",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Sweetvokes",
+          "realm": "thrall",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Fenac",
+          "realm": "thrall",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Pancakejeff",
+          "realm": "thrall",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 3073431,
       "dungeonId": "murder-row",
