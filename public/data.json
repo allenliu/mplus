@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-27T03:17:10.324Z",
+  "fetchedAt": "2026-08-27T14:16:04.858Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,218 @@
     }
   ],
   "runs": [
+    {
+      "id": 4341970,
+      "dungeonId": "murder-row",
+      "level": 13,
+      "completedAt": "2026-08-27T06:34:11.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1727.954,
+      "score": 385.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "杜杜小魔王",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Ashlikesnow",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "赤丶瞳",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "灰黑色领带",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "勇敢马特",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 4374636,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-08-27T05:49:28.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1485.678,
+      "score": 371.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Bokre",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Hochler",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Muckye",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Toughtimes",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Haranter",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 4326665,
+      "dungeonId": "altar-of-fangs",
+      "level": 11,
+      "completedAt": "2026-08-27T04:51:29.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1399.718,
+      "score": 343.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "消失一半",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "微笑三国",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "落魄大师",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "喵屁屁喵",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "天霜寒气",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 4320042,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-27T03:49:34.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1240.624,
+      "score": 331.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Jazzii",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Grumpygill",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Hypothymesia",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Sweatshirt",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Miniem-304193014",
+          "realm": "illidan",
+          "region": "us",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 3934963,
       "dungeonId": "kings-rest",
