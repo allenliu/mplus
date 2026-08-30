@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T06:39:33.549Z",
+  "fetchedAt": "2026-08-30T12:51:34.589Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 5788354,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-30T06:32:12.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1477.683,
+      "score": 326.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "柳飘飘丶",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "紫色自由人",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "大肥鸡",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "小叮当当",
+          "realm": "dordanil",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Aazeroth",
+          "realm": "swiftwind",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 5750055,
       "dungeonId": "altar-of-fangs",
