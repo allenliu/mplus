@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T01:14:13.150Z",
+  "fetchedAt": "2026-08-30T06:39:33.549Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 5750055,
+      "dungeonId": "altar-of-fangs",
+      "level": 11,
+      "completedAt": "2026-08-30T05:56:58.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1312.939,
+      "score": 345.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Elbratkoabii",
+          "realm": "norgannon",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Flipiloud",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Fede",
+          "realm": "nemesis",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Johnnym",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Fieeru",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 5745944,
+      "dungeonId": "altar-of-fangs",
+      "level": 12,
+      "completedAt": "2026-08-30T05:28:32.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1560.012,
+      "score": 370,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Hárassless",
+          "realm": "blackhand",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Antivirus",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Fiesefrieda",
+          "realm": "blackhand",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Yâsuo",
+          "realm": "blackhand",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Klameramonk",
+          "realm": "burning-legion",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 5760492,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-30T04:36:38.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1492.202,
+      "score": 326.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Feeda",
+          "realm": "illidan",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Sylpha",
+          "realm": "garrosh",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Lunaryxx",
+          "realm": "bloodhoof",
+          "region": "us",
+          "class": "evoker",
+          "spec": "devastation",
+          "role": "dps"
+        },
+        {
+          "name": "Acidburn",
+          "realm": "black-dragonflight",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Ambusheroak",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 5210341,
       "dungeonId": "the-blinding-vale",
