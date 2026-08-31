@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T23:28:06.101Z",
+  "fetchedAt": "2026-08-31T05:29:53.274Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 6258144,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-31T05:27:37.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1380.848,
+      "score": 328.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Jonyui",
+          "realm": "alar",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "鉥心刿目",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "一点小麻烦",
+          "realm": "kelthuzad",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Jwxin",
+          "realm": "alar",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "纯真之小乌龟",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 6250426,
+      "dungeonId": "altar-of-fangs",
+      "level": 11,
+      "completedAt": "2026-08-31T03:32:19.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1172.03,
+      "score": 348.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Toneyma",
+          "realm": "pandaren",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "佛系沐沐",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "摇头晃奶灬",
+          "realm": "murmur",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "轻抚丶月下弦",
+          "realm": "alar",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "三年不亏丶",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 6227640,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-31T02:45:05.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1286.857,
+      "score": 330.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Muuhlícius",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Teddytron",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Roodkapjé",
+          "realm": "quelthalas",
+          "region": "eu",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Hunterdave",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Congojohnnyy",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 5788354,
       "dungeonId": "altar-of-fangs",
