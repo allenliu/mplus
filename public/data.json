@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T05:29:53.274Z",
+  "fetchedAt": "2026-08-31T13:43:48.306Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -208,6 +208,112 @@
       ]
     },
     {
+      "id": 6274397,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-31T04:59:59.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1397.241,
+      "score": 328.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "烧烤大师",
+          "realm": "winterspring",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "终将远超过去",
+          "realm": "li-li",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "僧侣奇缘",
+          "realm": "fel-rock",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "西域春",
+          "realm": "feralas",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "美髯公",
+          "realm": "li-li",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 6279801,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-31T03:56:12.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1194.447,
+      "score": 332.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Gray",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Samuwrigh",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Renpal",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Tasdarallar",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        },
+        {
+          "name": "Tmogmule",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
       "id": 6250426,
       "dungeonId": "altar-of-fangs",
       "level": 11,
@@ -257,6 +363,59 @@
           "class": "rogue",
           "spec": "subtlety",
           "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 6269481,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-31T03:05:02.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1017.215,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Naroen",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Commitcringe",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "Fiko",
+          "realm": "eredar",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Crowncrowxd",
+          "realm": "doomhammer",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Gadnabira",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
         }
       ]
     },
