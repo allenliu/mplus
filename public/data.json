@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T20:02:05.390Z",
+  "fetchedAt": "2026-08-31T23:49:11.414Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -256,6 +256,59 @@
           "region": "cn",
           "class": "demon-hunter",
           "spec": "havoc",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 6579984,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-08-31T04:32:56.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1091.716,
+      "score": 334.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Aexae",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Shohreh-112905293",
+          "realm": "thunderhorn",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Shìfù",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Elffinyx",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Schizofrenia",
+          "realm": "thunderhorn",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
           "role": "dps"
         }
       ]
