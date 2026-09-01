@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T23:49:11.414Z",
+  "fetchedAt": "2026-09-01T05:03:54.408Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 6626093,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-09-01T04:06:51.000Z",
+      "resetWeek": 23,
+      "result": "timed",
+      "durationSeconds": 1523.232,
+      "score": 325.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Avarrak",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Плакии",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Funnydevil",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "devastation",
+          "role": "dps"
+        },
+        {
+          "name": "Shajarrah",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Traumadol",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "assassination",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 6258144,
       "dungeonId": "altar-of-fangs",
