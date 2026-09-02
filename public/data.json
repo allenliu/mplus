@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T04:28:59.034Z",
+  "fetchedAt": "2026-09-02T09:35:06.633Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,324 @@
     }
   ],
   "runs": [
+    {
+      "id": 7059242,
+      "dungeonId": "murder-row",
+      "level": 12,
+      "completedAt": "2026-09-02T07:35:00.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1344.607,
+      "score": 377.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Deus",
+          "realm": "eonar",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Abi",
+          "realm": "hyjal",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Lerroot-247737291",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Blakmumba",
+          "realm": "illidan",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Lineament",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 7026205,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 13,
+      "completedAt": "2026-09-02T06:13:32.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1512.537,
+      "score": 388,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "小饭团团子",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "太空梦丶",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "花酱",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "无极三丰",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "热情的双刃",
+          "realm": "maiev-shadowsong",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 7021232,
+      "dungeonId": "ruby-life-pools",
+      "level": 14,
+      "completedAt": "2026-09-02T05:42:37.000Z",
+      "resetWeek": 24,
+      "result": "depleted",
+      "durationSeconds": 1765.558,
+      "score": 318.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "天愁",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "圣光玫瑰",
+          "realm": "immolthar",
+          "region": "cn",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "部落小牧牧",
+          "realm": "alar",
+          "region": "cn",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "遥远滴她",
+          "realm": "alar",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "冰冰婕妤",
+          "realm": "alar",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 7024331,
+      "dungeonId": "altar-of-fangs",
+      "level": 14,
+      "completedAt": "2026-09-02T05:08:48.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1514.298,
+      "score": 401,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "地皮爱思",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Sleepypuppy",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "超级烤冷面",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "曦禾圣光",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "功一美二",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 7040993,
+      "dungeonId": "kings-rest",
+      "level": 12,
+      "completedAt": "2026-09-02T04:35:55.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1419.336,
+      "score": 375.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Pandalff",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Hairyottar",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Bullrøk",
+          "realm": "ysondre",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Ôlet",
+          "realm": "sylvanas",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Gobbobae",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 7031886,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 10,
+      "completedAt": "2026-09-02T04:06:28.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1119.133,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "暗之邪龍",
+          "realm": "chillwind-point",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "沧桑的老脸",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "天佑灬骑士",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "唯依丶何所忆",
+          "realm": "alar",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "南瓜静",
+          "realm": "soulflayer",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 6626093,
       "dungeonId": "altar-of-fangs",
