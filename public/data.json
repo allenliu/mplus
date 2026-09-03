@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T18:36:13.675Z",
+  "fetchedAt": "2026-09-03T21:41:31.848Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 7710406,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-09-03T21:36:34.000Z",
+      "resetWeek": 24,
+      "result": "depleted",
+      "durationSeconds": 1832.886,
+      "score": 319.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Yhamjin",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Xaroulita",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Aidyn",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "devastation",
+          "role": "dps"
+        },
+        {
+          "name": "Bonkurei",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Häwk",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 7697545,
+      "dungeonId": "voidscar-arena",
+      "level": 13,
+      "completedAt": "2026-09-03T21:01:56.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1462.017,
+      "score": 387.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Kith-22411404",
+          "realm": "shadowmoon",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Guang",
+          "realm": "dethecus",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Trailertrash",
+          "realm": "madoran",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Kaineh",
+          "realm": "azuremyst",
+          "region": "us",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Maladdicted",
+          "realm": "malganis",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 7707243,
+      "dungeonId": "den-of-nalorakk",
+      "level": 12,
+      "completedAt": "2026-09-03T20:02:27.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1427.06,
+      "score": 374.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "偷喝椰奶",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "浅夏丶缘",
+          "realm": "algalon",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "白日梦想家",
+          "realm": "echo-ridge",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "暗月流星",
+          "realm": "gorefiend",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "精灵宠儿",
+          "realm": "thaurissan",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 7059242,
       "dungeonId": "murder-row",
