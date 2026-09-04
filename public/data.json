@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T21:41:31.848Z",
+  "fetchedAt": "2026-09-04T00:07:56.672Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -155,6 +155,112 @@
   ],
   "runs": [
     {
+      "id": 7730106,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-03T22:23:20.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1033.736,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Tmppally",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Finaldread",
+          "realm": "illidan",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Rytiou",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Slickhpsttv",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Deemunhuntoh",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 7719473,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-09-03T21:59:13.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1184.672,
+      "score": 377.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Fasswerfer",
+          "realm": "eredar",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Pataena",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Tanapoutana",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Viriel",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Amiva",
+          "realm": "ravencrest",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
       "id": 7710406,
       "dungeonId": "voidscar-arena",
       "level": 12,
@@ -256,6 +362,59 @@
           "region": "us",
           "class": "warlock",
           "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 7743281,
+      "dungeonId": "den-of-nalorakk",
+      "level": 13,
+      "completedAt": "2026-09-03T20:33:43.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1654.257,
+      "score": 385.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Zyloss",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Sofodin",
+          "realm": "burning-blade",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Emko",
+          "realm": "azjolnerub",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Kamiiyada",
+          "realm": "outland",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Izaya",
+          "realm": "azjolnerub",
+          "region": "eu",
+          "class": "druid",
+          "spec": "feral",
           "role": "dps"
         }
       ]
