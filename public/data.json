@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T04:28:39.227Z",
+  "fetchedAt": "2026-09-04T09:43:35.719Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 7811396,
+      "dungeonId": "den-of-nalorakk",
+      "level": 14,
+      "completedAt": "2026-09-04T05:56:05.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1597.624,
+      "score": 401.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Deathxll",
+          "realm": "thrall",
+          "region": "us",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Galindeath",
+          "realm": "thrall",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Ratsz",
+          "realm": "thrall",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Rigormedis",
+          "realm": "thrall",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Holysuspect-303610337",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 7800335,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-04T04:52:00.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1283.045,
+      "score": 330.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Meltedeye",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Tarbicek",
+          "realm": "burning-blade",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Zloduse",
+          "realm": "drakthul",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Nocté",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Sumixon",
+          "realm": "drakthul",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "destruction",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 7794829,
       "dungeonId": "voidscar-arena",
