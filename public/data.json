@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T14:19:54.861Z",
+  "fetchedAt": "2026-09-04T18:22:26.381Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -204,6 +204,59 @@
           "class": "paladin",
           "spec": "retribution",
           "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 7976932,
+      "dungeonId": "voidscar-arena",
+      "level": 14,
+      "completedAt": "2026-09-04T05:21:36.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1525.085,
+      "score": 400.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Shiggi",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Switchtech",
+          "realm": "dun-morogh",
+          "region": "eu",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Kaelthanus",
+          "realm": "archimonde",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Thepate",
+          "realm": "blackhand",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Atharáj",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
         }
       ]
     },
