@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T00:07:56.672Z",
+  "fetchedAt": "2026-09-04T04:28:39.227Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 7794829,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-04T04:26:49.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1089.185,
+      "score": 334.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Mongol",
+          "realm": "wyrmrest-accord",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Aulwrynn",
+          "realm": "wyrmrest-accord",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Hoodbull",
+          "realm": "wyrmrest-accord",
+          "region": "us",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Metastuff",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Xxzeusxl",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 7730106,
       "dungeonId": "voidscar-arena",
