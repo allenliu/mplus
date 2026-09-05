@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T00:02:16.641Z",
+  "fetchedAt": "2026-09-05T04:23:08.020Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,218 @@
     }
   ],
   "runs": [
+    {
+      "id": 8206264,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-05T03:16:23.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1252.281,
+      "score": 331.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Lost",
+          "realm": "vashj",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Schlomostein",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Rogadin",
+          "realm": "stormscale",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Kate",
+          "realm": "vashj",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Vresh",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 8225811,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-05T02:17:47.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1192.426,
+      "score": 332.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Mherety",
+          "realm": "argent-dawn",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "ßuhai",
+          "realm": "argent-dawn",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Meleebad",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Garreth",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Pharturex",
+          "realm": "auchindoun",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 8204386,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-05T01:45:51.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1060.19,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Saionji",
+          "realm": "eonar",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Sooraya",
+          "realm": "teldrassil",
+          "region": "eu",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Deadsoul",
+          "realm": "shattered-halls",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Badpun",
+          "realm": "eonar",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Kyyra",
+          "realm": "alexstrasza",
+          "region": "eu",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 8177248,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-09-05T01:17:45.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1505.377,
+      "score": 371.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Shafart",
+          "realm": "ysondre",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Bosseroll",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Moiziduzbi",
+          "realm": "ysondre",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Zooqa",
+          "realm": "ysondre",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Ztohh",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 7811396,
       "dungeonId": "den-of-nalorakk",
