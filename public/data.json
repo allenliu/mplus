@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T04:23:08.020Z",
+  "fetchedAt": "2026-09-05T09:02:48.174Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -155,6 +155,271 @@
   ],
   "runs": [
     {
+      "id": 8269419,
+      "dungeonId": "altar-of-fangs",
+      "level": 14,
+      "completedAt": "2026-09-05T07:30:06.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1556.225,
+      "score": 400.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "一拳",
+          "realm": "dream-bough",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "做梦都想瘦",
+          "realm": "dream-bough",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "兰不住丶-242616132",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "不再奢望",
+          "realm": "dream-bough",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "乐天粒粒橙",
+          "realm": "dream-bough",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 8261732,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 13,
+      "completedAt": "2026-09-05T06:54:27.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1379.001,
+      "score": 390.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Dawiedz",
+          "realm": "grim-batol",
+          "region": "eu",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Kragen",
+          "realm": "lothar",
+          "region": "eu",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Pilavjr-236017824",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Damomo",
+          "realm": "lothar",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Acélkoma-237183923",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 8253595,
+      "dungeonId": "murder-row",
+      "level": 13,
+      "completedAt": "2026-09-05T06:21:49.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1664.929,
+      "score": 386.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Nofatherpls-304408033",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Runecasters",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Shredlock",
+          "realm": "kiljaeden",
+          "region": "us",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Druidsalot",
+          "realm": "moon-guard",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Farmerofbeet",
+          "realm": "emerald-dream",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 8241395,
+      "dungeonId": "voidscar-arena",
+      "level": 14,
+      "completedAt": "2026-09-05T05:33:31.000Z",
+      "resetWeek": 24,
+      "result": "depleted",
+      "durationSeconds": 1959.941,
+      "score": 316.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Turtlekiller",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Tombrady",
+          "realm": "korgath",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Gomarac",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Kumadrake",
+          "realm": "area-52",
+          "region": "us",
+          "class": "evoker",
+          "spec": "devastation",
+          "role": "dps"
+        },
+        {
+          "name": "Darkjester",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 8238110,
+      "dungeonId": "voidscar-arena",
+      "level": 4,
+      "completedAt": "2026-09-05T05:19:52.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1204.535,
+      "score": 197.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Aardvarkk",
+          "realm": "bleeding-hollow",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Razekal",
+          "realm": "malganis",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Dustyshafts",
+          "realm": "thrall",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Asxa",
+          "realm": "area-52",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Chunkyd",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
       "id": 8206264,
       "dungeonId": "voidscar-arena",
       "level": 10,
@@ -203,6 +468,59 @@
           "region": "eu",
           "class": "warrior",
           "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 8239500,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-05T02:50:42.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1228.154,
+      "score": 331.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "瓜啊瓜",
+          "realm": "shadowfang-keep",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "小夜不见",
+          "realm": "deephome",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "喵咕德",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Tamaki",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "小杨同学丶",
+          "realm": "deephome",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
           "role": "dps"
         }
       ]
