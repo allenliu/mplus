@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T05:55:51.232Z",
+  "fetchedAt": "2026-09-06T10:53:14.474Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 8760177,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-06T07:30:20.000Z",
+      "resetWeek": 24,
+      "result": "depleted",
+      "durationSeconds": 1899.38,
+      "score": 302.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "秋勤僧",
+          "realm": "echo-ridge",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "灬投喂员",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "緟新莱过",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "灬绣儿灬",
+          "realm": "ravencrest",
+          "region": "cn",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
+        },
+        {
+          "name": "Euthanasiai",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 8758891,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 2,
+      "completedAt": "2026-09-06T06:14:31.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1121.524,
+      "score": 170,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Badgerwar",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Ulkince",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Oincdh",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Rÿen",
+          "realm": "aegwynn",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Chickenhunt",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 8728780,
       "dungeonId": "the-blinding-vale",
