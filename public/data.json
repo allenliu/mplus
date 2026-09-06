@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T00:54:50.456Z",
+  "fetchedAt": "2026-09-06T05:55:51.232Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,218 @@
     }
   ],
   "runs": [
+    {
+      "id": 8728780,
+      "dungeonId": "the-blinding-vale",
+      "level": 4,
+      "completedAt": "2026-09-06T05:33:02.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1241.02,
+      "score": 196.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "忘情",
+          "realm": "swiftwind",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "丨糖门衮丨",
+          "realm": "barrens",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "唤星",
+          "realm": "barrens",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "凯瑟卢",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "快乐啵啵",
+          "realm": "barrens",
+          "region": "cn",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 8719261,
+      "dungeonId": "kings-rest",
+      "level": 4,
+      "completedAt": "2026-09-06T05:01:57.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1225.829,
+      "score": 199.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Pwrbtm",
+          "realm": "thrall",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Abcxyz",
+          "realm": "kelthuzad",
+          "region": "us",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Faithfulqt",
+          "realm": "bleeding-hollow",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Dröwzy",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Shhazzy",
+          "realm": "thrall",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 8702757,
+      "dungeonId": "murder-row",
+      "level": 2,
+      "completedAt": "2026-09-06T04:00:29.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1175.116,
+      "score": 170,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Sayntdrunk",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Ninjaawy",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Angelhealx",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Zteps",
+          "realm": "hyjal",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Felshock",
+          "realm": "malganis",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 8690016,
+      "dungeonId": "ruby-life-pools",
+      "level": 3,
+      "completedAt": "2026-09-06T02:56:28.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 821.641,
+      "score": 185,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Slowmodes",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Pollkashield",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Wowprisoner",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Jnyshkaf",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Ystala",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 8269419,
       "dungeonId": "altar-of-fangs",
