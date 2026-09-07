@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T04:35:47.533Z",
+  "fetchedAt": "2026-09-07T10:14:23.341Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 9186405,
+      "dungeonId": "murder-row",
+      "level": 5,
+      "completedAt": "2026-09-07T05:38:54.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1626.569,
+      "score": 222.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Mør",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "Meliandora",
+          "realm": "der-rat-von-dalaran",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Molandor-42138756",
+          "realm": "der-rat-von-dalaran",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Smooin",
+          "realm": "blackhand",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Shamanbanan",
+          "realm": "aegwynn",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 9180323,
+      "dungeonId": "ruby-life-pools",
+      "level": 2,
+      "completedAt": "2026-09-07T04:59:44.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 797.163,
+      "score": 170,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "一骑绝尘",
+          "realm": "barrens",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "给你奶一口丶",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "逃离魔法武僧",
+          "realm": "skywall",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "阿丶龍",
+          "realm": "alar",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "本波儿灞",
+          "realm": "grimtotem",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 8760177,
       "dungeonId": "voidscar-arena",
