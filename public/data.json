@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T05:56:31.161Z",
+  "fetchedAt": "2026-09-08T11:14:44.053Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 9608536,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 15,
+      "completedAt": "2026-09-08T06:06:38.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1528.651,
+      "score": 417.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Chronus",
+          "realm": "arathor",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Portalpete",
+          "realm": "thrall",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Togie",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Doogo-240154642",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Haskeera",
+          "realm": "thrall",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 9564518,
       "dungeonId": "murder-row",
