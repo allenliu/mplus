@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T01:10:52.517Z",
+  "fetchedAt": "2026-09-08T05:56:31.161Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 9564518,
+      "dungeonId": "murder-row",
+      "level": 17,
+      "completedAt": "2026-09-08T05:22:38.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1972.761,
+      "score": 441.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "资本添添",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "沸腾热血",
+          "realm": "alar",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "段坤丨",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "无情之德",
+          "realm": "stranglethorn",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Nnyaa",
+          "realm": "archimonde",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 9546866,
+      "dungeonId": "den-of-nalorakk",
+      "level": 17,
+      "completedAt": "2026-09-08T03:45:23.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1741.986,
+      "score": 443.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Fayala",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Verleîhnîx",
+          "realm": "alleria",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Bullscham",
+          "realm": "perenolde",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Krisnamorde-294060026",
+          "realm": "sylvanas",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Leper",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 9524840,
+      "dungeonId": "ruby-life-pools",
+      "level": 16,
+      "completedAt": "2026-09-08T01:48:00.000Z",
+      "resetWeek": 24,
+      "result": "timed",
+      "durationSeconds": 1622.087,
+      "score": 426.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Snåpz",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Crassuz",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Lockinabox",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Grifflord",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Iced",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 9186405,
       "dungeonId": "murder-row",
