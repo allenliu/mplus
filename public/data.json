@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T21:49:54.499Z",
+  "fetchedAt": "2026-09-09T00:11:53.075Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 9843800,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-09-08T22:44:41.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1180.776,
+      "score": 377.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Donsikira",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Keinzz",
+          "realm": "magtheridon",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Amelìa",
+          "realm": "dun-morogh",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Hamcontrol",
+          "realm": "magtheridon",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Saethana-250897583",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 9838757,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-08T22:21:01.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1130.996,
+      "score": 333.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "玩偶收割机",
+          "realm": "boulderfist",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "艾丽卡",
+          "realm": "blackmoore",
+          "region": "cn",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "猛成一片",
+          "realm": "blackmoore",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "孤独的花卷",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "尛菜一碟",
+          "realm": "blackmoore",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 9839448,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-09-08T21:49:29.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1357.48,
+      "score": 374.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Klaji",
+          "realm": "thrall",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Screwyp-51420423",
+          "realm": "garrosh",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Zulinkall",
+          "realm": "area-52",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Friéren",
+          "realm": "duskwood",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Theramora",
+          "realm": "garrosh",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 9828647,
       "dungeonId": "voidscar-arena",
