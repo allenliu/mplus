@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T18:25:43.054Z",
+  "fetchedAt": "2026-09-10T21:36:15.668Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -257,6 +257,59 @@
           "class": "monk",
           "spec": "brewmaster",
           "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 10578873,
+      "dungeonId": "altar-of-fangs",
+      "level": 14,
+      "completedAt": "2026-09-10T03:03:50.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1623.527,
+      "score": 398.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "哪个谁",
+          "realm": "gadgetzan",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "各个方面的",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "宝贝丶静浪",
+          "realm": "gadgetzan",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "沐沐滴舞僧",
+          "realm": "gadgetzan",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "影法師",
+          "realm": "frostmourne",
+          "region": "cn",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
         }
       ]
     },
