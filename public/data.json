@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T00:13:01.579Z",
+  "fetchedAt": "2026-09-10T04:39:37.976Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,271 @@
     }
   ],
   "runs": [
+    {
+      "id": 10280954,
+      "dungeonId": "murder-row",
+      "level": 14,
+      "completedAt": "2026-09-10T03:56:57.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1505.065,
+      "score": 404.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Lissing",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "粉色轰炸机",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "把酒话桑麻",
+          "realm": "frostmourne",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "刁德一丶",
+          "realm": "the-masters-glaive",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "墨烬海",
+          "realm": "anubarak",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 10288552,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-09-10T02:38:29.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1461.404,
+      "score": 327.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Selúne",
+          "realm": "burning-legion",
+          "region": "eu",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Dadamek",
+          "realm": "doomhammer",
+          "region": "eu",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Lerudnis",
+          "realm": "burning-legion",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Bajerfar-304709998",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Shailâa",
+          "realm": "eredar",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 10258422,
+      "dungeonId": "ruby-life-pools",
+      "level": 12,
+      "completedAt": "2026-09-10T02:30:12.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1181.755,
+      "score": 376.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Brewkel",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Boombap",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Lipquiver",
+          "realm": "kiljaeden",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Iceshooter",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Abruna",
+          "realm": "nordrassil",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 10251233,
+      "dungeonId": "the-blinding-vale",
+      "level": 5,
+      "completedAt": "2026-09-10T01:33:27.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 979.72,
+      "score": 230,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "渡微见性",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "嘻嘻晓空",
+          "realm": "searinox",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "天降正义",
+          "realm": "demon-fall-canyon",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "红颜丿术",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "恩咗",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 10248979,
+      "dungeonId": "kings-rest",
+      "level": 2,
+      "completedAt": "2026-09-10T01:13:12.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 979.612,
+      "score": 170,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Fudz",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Foúska",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Hyposomnia-280238780",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        },
+        {
+          "name": "Aurazthul",
+          "realm": "burning-legion",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Babyyarrgi",
+          "realm": "archimonde",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 10238152,
       "dungeonId": "kings-rest",
