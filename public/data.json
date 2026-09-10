@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T04:39:37.976Z",
+  "fetchedAt": "2026-09-10T09:41:04.453Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 10292978,
+      "dungeonId": "the-blinding-vale",
+      "level": 6,
+      "completedAt": "2026-09-10T04:50:02.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1047.104,
+      "score": 245,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Zaeneiah",
+          "realm": "der-rat-von-dalaran",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Méphistho",
+          "realm": "amanthul",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Thauryel",
+          "realm": "amanthul",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Gilraenia",
+          "realm": "amanthul",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Nargis",
+          "realm": "nazjatar",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 10280954,
       "dungeonId": "murder-row",
