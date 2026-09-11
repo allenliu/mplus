@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T04:36:06.905Z",
+  "fetchedAt": "2026-09-11T09:38:31.068Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 10701398,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 10,
+      "completedAt": "2026-09-11T05:51:15.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1252.364,
+      "score": 333,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "休闲猎大",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "不想长高酱",
+          "realm": "blanchard",
+          "region": "cn",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "牛毛卷",
+          "realm": "illidan",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "烩掌",
+          "realm": "illidan",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "旭旭小宝",
+          "realm": "the-masters-glaive",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 10292978,
       "dungeonId": "the-blinding-vale",
@@ -413,6 +466,59 @@
           "name": "Abruna",
           "realm": "nordrassil",
           "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 10699469,
+      "dungeonId": "den-of-nalorakk",
+      "level": 8,
+      "completedAt": "2026-09-10T02:07:30.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 1513.963,
+      "score": 282.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "羽衣常帶煙霞",
+          "realm": "sundown-marsh",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "美得很",
+          "realm": "alexstrasza",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "棒冰有毒",
+          "realm": "kaleidoscope-star",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "寡人一挑伍佰",
+          "realm": "alar",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "歇脚处的草垛",
+          "realm": "crushridge",
+          "region": "cn",
           "class": "warlock",
           "spec": "demonology",
           "role": "dps"
