@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T01:26:06.839Z",
+  "fetchedAt": "2026-09-15T13:30:49.784Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 12393620,
+      "dungeonId": "ruby-life-pools",
+      "level": 6,
+      "completedAt": "2026-09-15T07:00:00.000Z",
+      "resetWeek": 25,
+      "result": "timed",
+      "durationSeconds": 980.374,
+      "score": 245,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "米洛哈伊尔",
+          "realm": "the-golden-plains",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Jokerk",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "红尘丶羁绊",
+          "realm": "eldrethalas",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Dumos",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "恶神奥斯卡",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 10701398,
       "dungeonId": "temple-of-sethraliss",
