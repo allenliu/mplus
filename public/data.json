@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T04:52:59.022Z",
+  "fetchedAt": "2026-09-16T09:55:19.210Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 12713709,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 17,
+      "completedAt": "2026-09-16T05:47:25.000Z",
+      "resetWeek": 26,
+      "result": "depleted",
+      "durationSeconds": 1994.918,
+      "score": 318.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "一袋粽子",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "笨蛋青了蛙",
+          "realm": "red-dragonflight",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "安倪芯馨",
+          "realm": "dark-iron",
+          "region": "cn",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "猎魂狩魄",
+          "realm": "storm-eye",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "不拿锤子",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 12711412,
+      "dungeonId": "ruby-life-pools",
+      "level": 12,
+      "completedAt": "2026-09-16T05:12:24.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1367.23,
+      "score": 372,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "光铸者滞胀",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "托加斯特的神",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "以德负人",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "红丨手",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "老张骑无敌",
+          "realm": "holy-chanter",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 12393620,
       "dungeonId": "ruby-life-pools",
