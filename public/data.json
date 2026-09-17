@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T06:07:48.918Z",
+  "fetchedAt": "2026-09-17T11:37:37.458Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 13055051,
+      "dungeonId": "den-of-nalorakk",
+      "level": 10,
+      "completedAt": "2026-09-17T07:06:58.000Z",
+      "resetWeek": 26,
+      "result": "depleted",
+      "durationSeconds": 2179.654,
+      "score": 299.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "妞偷人",
+          "realm": "alterac-mountains",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Fireemblem",
+          "realm": "ashenvale",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "郗朢永恆",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "时光蜗牛",
+          "realm": "frostmane",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "芙蕖",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 13029422,
+      "dungeonId": "den-of-nalorakk",
+      "level": 14,
+      "completedAt": "2026-09-17T06:24:43.000Z",
+      "resetWeek": 26,
+      "result": "depleted",
+      "durationSeconds": 1953.213,
+      "score": 319.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Zombiebubble",
+          "realm": "frostmane",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Balzamon",
+          "realm": "cairne",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Wukard",
+          "realm": "nerzhul",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Garidan",
+          "realm": "nerzhul",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Lyrä",
+          "realm": "nerzhul",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 13025150,
       "dungeonId": "the-blinding-vale",
@@ -363,6 +469,59 @@
           "class": "priest",
           "spec": "discipline",
           "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 13035060,
+      "dungeonId": "ruby-life-pools",
+      "level": 12,
+      "completedAt": "2026-09-17T02:57:16.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1355.497,
+      "score": 372.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Judicant",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Wolfmother",
+          "realm": "velen",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Chemiichem",
+          "realm": "illidan",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Vierasdreaux",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Lukanowitzki",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
         }
       ]
     },
