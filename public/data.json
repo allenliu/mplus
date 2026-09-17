@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T00:29:07.253Z",
+  "fetchedAt": "2026-09-17T06:07:48.918Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,218 @@
     }
   ],
   "runs": [
+    {
+      "id": 13025150,
+      "dungeonId": "the-blinding-vale",
+      "level": 14,
+      "completedAt": "2026-09-17T05:48:51.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1425.471,
+      "score": 402.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Donmargaro",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Emly",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Barbarik",
+          "realm": "magtheridon",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Oneeyedtroll",
+          "realm": "malganis",
+          "region": "us",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Dazzlor",
+          "realm": "area-52",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 13019809,
+      "dungeonId": "murder-row",
+      "level": 12,
+      "completedAt": "2026-09-17T05:16:52.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1433.506,
+      "score": 376.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Данкар",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Guaerdìan",
+          "realm": "archimonde",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Miau",
+          "realm": "zuljin",
+          "region": "eu",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Rinnelärd",
+          "realm": "dun-modr",
+          "region": "eu",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Альбиоса",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 13007830,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 12,
+      "completedAt": "2026-09-17T03:52:25.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1269.442,
+      "score": 377.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Mithrandir",
+          "realm": "korgath",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Bludbubble-203929554",
+          "realm": "malganis",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Dawnpaw",
+          "realm": "gurubashi",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Woodenough",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Qxemonk",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 13004062,
+      "dungeonId": "ruby-life-pools",
+      "level": 12,
+      "completedAt": "2026-09-17T03:24:57.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1091.01,
+      "score": 378.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Пластилинщик",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Sakuglaive",
+          "realm": "les-clairvoyants",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Elunelar",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Augmentyanka",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Ämhä",
+          "realm": "elune",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 12713709,
       "dungeonId": "temple-of-sethraliss",
