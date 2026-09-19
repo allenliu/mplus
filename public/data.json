@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T20:36:46.416Z",
+  "fetchedAt": "2026-09-19T23:01:07.870Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 13875711,
+      "dungeonId": "murder-row",
+      "level": 11,
+      "completedAt": "2026-09-19T21:19:08.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1403.721,
+      "score": 346.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "辣椒",
+          "realm": "barrens",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "赞达拉萨满",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "喝点酒",
+          "realm": "durotan",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "魔豆天子",
+          "realm": "echo-ridge",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "邪恶小鼻嘎",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 13866725,
       "dungeonId": "altar-of-fangs",
