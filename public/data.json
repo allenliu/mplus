@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T00:18:44.142Z",
+  "fetchedAt": "2026-09-19T05:51:04.752Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,218 @@
     }
   ],
   "runs": [
+    {
+      "id": 13612140,
+      "dungeonId": "altar-of-fangs",
+      "level": 7,
+      "completedAt": "2026-09-19T05:38:05.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1271.014,
+      "score": 271,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "丶小桃儿",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "稻無德",
+          "realm": "azshara",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "夏呱呱",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "二两豌杂加蛋",
+          "realm": "algalon",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "骑士太好玩了",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 13603226,
+      "dungeonId": "kings-rest",
+      "level": 9,
+      "completedAt": "2026-09-19T04:44:26.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1293.943,
+      "score": 303,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Joe",
+          "realm": "thrall",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "图腾宗师",
+          "realm": "arathor",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "疯了的柠檬冰",
+          "realm": "thrall",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "尛訫荨蒨",
+          "realm": "thrall",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "婲琂",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 13577837,
+      "dungeonId": "the-blinding-vale",
+      "level": 10,
+      "completedAt": "2026-09-19T00:58:58.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1576.368,
+      "score": 324.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Temuji",
+          "realm": "sylvanas",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Oignon",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Selëna",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Sveinaim",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "Petardaa",
+          "realm": "drakthul",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 13577922,
+      "dungeonId": "kings-rest",
+      "level": 9,
+      "completedAt": "2026-09-19T00:22:27.000Z",
+      "resetWeek": 26,
+      "result": "depleted",
+      "durationSeconds": 3100.893,
+      "score": 0,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "骨笛吹夜雪",
+          "realm": "the-masters-glaive",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "小沈爱牛肉",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "暗藏玄鸡",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "杀戮了",
+          "realm": "alar",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "只套回春术",
+          "realm": "alar",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 13055051,
       "dungeonId": "den-of-nalorakk",
