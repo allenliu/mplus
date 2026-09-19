@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T17:59:18.118Z",
+  "fetchedAt": "2026-09-19T20:36:46.416Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 13866725,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-09-19T20:35:14.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1278.839,
+      "score": 330.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Teddyursa",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Fitchy-36593216",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Cledfa",
+          "realm": "ysondre",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Reachy",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Aleyadru",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 13612140,
       "dungeonId": "altar-of-fangs",
