@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T00:14:40.484Z",
+  "fetchedAt": "2026-09-21T10:41:04.042Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 14315378,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 9,
+      "completedAt": "2026-09-21T07:05:48.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1286.662,
+      "score": 302.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "醒时诗醉时歌",
+          "realm": "icecrown",
+          "region": "cn",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "威斯特玛丶",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "艾若斯提",
+          "realm": "the-masters-glaive",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "椰子面儿",
+          "realm": "thunder-axe-fortress",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "法力虚空",
+          "realm": "nighthaven",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 14312089,
+      "dungeonId": "voidscar-arena",
+      "level": 9,
+      "completedAt": "2026-09-21T06:37:17.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 991.104,
+      "score": 305,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "赢舞森贰代",
+          "realm": "khadgar",
+          "region": "cn",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "草帽君乀",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "小雪时愿",
+          "realm": "stratholme",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "贼能混",
+          "realm": "khadgar",
+          "region": "cn",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "华莉丝",
+          "realm": "khadgar",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 14303595,
+      "dungeonId": "den-of-nalorakk",
+      "level": 11,
+      "completedAt": "2026-09-21T05:33:35.000Z",
+      "resetWeek": 26,
+      "result": "timed",
+      "durationSeconds": 1614.263,
+      "score": 341,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "星之风暴",
+          "realm": "blanchard",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "丶青青子衿",
+          "realm": "aerie-peak",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "鸾雏舞丹烟",
+          "realm": "chillwind-point",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "上班的芙莉莲",
+          "realm": "gorehowl",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "薇尔莉莉特",
+          "realm": "alar",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 13983346,
       "dungeonId": "ruby-life-pools",
