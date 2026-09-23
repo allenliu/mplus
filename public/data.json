@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T00:30:06.333Z",
+  "fetchedAt": "2026-09-23T05:56:45.279Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 14857777,
+      "dungeonId": "den-of-nalorakk",
+      "level": 12,
+      "completedAt": "2026-09-23T04:04:20.000Z",
+      "resetWeek": 27,
+      "result": "timed",
+      "durationSeconds": 1271.728,
+      "score": 377.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "龙裔炽焰",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        },
+        {
+          "name": "Yedda",
+          "realm": "darkhan",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "雷蹄先生",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "莫烨",
+          "realm": "pandaren",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "因特古拉",
+          "realm": "direwing",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 14315378,
       "dungeonId": "temple-of-sethraliss",
