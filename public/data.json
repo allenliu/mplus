@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T23:39:43.285Z",
+  "fetchedAt": "2026-09-24T04:45:42.923Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 15133168,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-09-24T04:37:30.000Z",
+      "resetWeek": 27,
+      "result": "timed",
+      "durationSeconds": 1504.706,
+      "score": 371.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Lurkbeam",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Çélädor",
+          "realm": "blood-furnace",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Rayband",
+          "realm": "emerald-dream",
+          "region": "us",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Magicmuggle",
+          "realm": "greymane",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Dopeyrush",
+          "realm": "area-52",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 15127014,
+      "dungeonId": "den-of-nalorakk",
+      "level": 12,
+      "completedAt": "2026-09-24T03:43:33.000Z",
+      "resetWeek": 27,
+      "result": "timed",
+      "durationSeconds": 1260.542,
+      "score": 377.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Reason",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Velinamue",
+          "realm": "hakkar",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Samiblade",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Girinø",
+          "realm": "illidan",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Sharmee-304774688",
+          "realm": "shadowmoon",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 15123173,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-09-24T03:17:25.000Z",
+      "resetWeek": 27,
+      "result": "timed",
+      "durationSeconds": 1115.288,
+      "score": 379.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Nyuur",
+          "realm": "ravencrest",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Sinclin",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Sorgoreth",
+          "realm": "marécage-de-zangar",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Rafascar",
+          "realm": "burning-legion",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Sevennheals",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 14857777,
       "dungeonId": "den-of-nalorakk",
