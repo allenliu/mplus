@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T07:44:50.483Z",
+  "fetchedAt": "2026-09-25T13:44:06.128Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 15464915,
+      "dungeonId": "kings-rest",
+      "level": 15,
+      "completedAt": "2026-09-25T04:56:08.000Z",
+      "resetWeek": 27,
+      "result": "depleted",
+      "durationSeconds": 2028.873,
+      "score": 319.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Dantorm",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "Iconicwl",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Tuugashox",
+          "realm": "echo-isles",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Amyrhunt",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Youletoth",
+          "realm": "illidan",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 15418876,
       "dungeonId": "temple-of-sethraliss",
