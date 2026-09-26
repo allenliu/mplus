@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T17:08:19.602Z",
+  "fetchedAt": "2026-09-26T19:49:47.586Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 15992508,
+      "dungeonId": "kings-rest",
+      "level": 15,
+      "completedAt": "2026-09-26T05:11:33.000Z",
+      "resetWeek": 27,
+      "result": "timed",
+      "durationSeconds": 1660.235,
+      "score": 416.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "無敵滿福堡",
+          "realm": "world-tree",
+          "region": "tw",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "老沙",
+          "realm": "spirestone",
+          "region": "tw",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "卡莎瑞娜",
+          "realm": "zealot-blade",
+          "region": "tw",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "人間詞話",
+          "realm": "bleeding-hollow",
+          "region": "tw",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "加羅特",
+          "realm": "bleeding-hollow",
+          "region": "tw",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 15464915,
       "dungeonId": "kings-rest",
