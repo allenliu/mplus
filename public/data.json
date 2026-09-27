@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T22:47:08.286Z",
+  "fetchedAt": "2026-09-27T01:24:48.780Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 16059823,
+      "dungeonId": "ruby-life-pools",
+      "level": 12,
+      "completedAt": "2026-09-27T00:52:42.000Z",
+      "resetWeek": 27,
+      "result": "depleted",
+      "durationSeconds": 1682.116,
+      "score": 320,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Sighzz",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Cågil",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Legma",
+          "realm": "wyrmrest-accord",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Valank",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "Sametbh",
+          "realm": "illidan",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 16052972,
+      "dungeonId": "murder-row",
+      "level": 11,
+      "completedAt": "2026-09-27T00:16:31.000Z",
+      "resetWeek": 27,
+      "result": "timed",
+      "durationSeconds": 1204.733,
+      "score": 350,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "李翠花",
+          "realm": "skettis",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "翡翠月光",
+          "realm": "thrall",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "豆文",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "阿奴法拉",
+          "realm": "echo-ridge",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "狐猎咧",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 15992508,
       "dungeonId": "kings-rest",
