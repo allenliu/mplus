@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T02:07:40.489Z",
+  "fetchedAt": "2026-10-01T08:52:47.379Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,271 @@
     }
   ],
   "runs": [
+    {
+      "id": 17251523,
+      "dungeonId": "ruby-life-pools",
+      "level": 18,
+      "completedAt": "2026-10-01T05:49:01.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1617.681,
+      "score": 456.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "丶奶德",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "雨潼",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "虫虫五号",
+          "realm": "cthun",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "小红手檞语花",
+          "realm": "the-masters-glaive",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "枪长一米八",
+          "realm": "alterac-mountains",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 17231984,
+      "dungeonId": "kings-rest",
+      "level": 10,
+      "completedAt": "2026-10-01T03:26:56.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1247.547,
+      "score": 333.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Xiongba",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "酒醉叁分醒",
+          "realm": "the-masters-glaive",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "妖怪妈妈",
+          "realm": "red-dragonflight",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "百里丶",
+          "realm": "chillwind-point",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "顶住丶",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 17226703,
+      "dungeonId": "altar-of-fangs",
+      "level": 12,
+      "completedAt": "2026-10-01T02:46:18.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1141.867,
+      "score": 378.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "夜愿",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "血蹄神牛",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "快的起飞",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "凯恩怒碲",
+          "realm": "darkhan",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "纹冰",
+          "realm": "alar",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 17225022,
+      "dungeonId": "ruby-life-pools",
+      "level": 12,
+      "completedAt": "2026-10-01T02:22:19.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1411.718,
+      "score": 371,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "发财",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "丨憇窩窩丨",
+          "realm": "alakir",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "谢谢你们",
+          "realm": "fray-island",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "福泽绵长",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "卿枫丶",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 17253282,
+      "dungeonId": "murder-row",
+      "level": 12,
+      "completedAt": "2026-10-01T01:54:44.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1237.624,
+      "score": 379.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "圣光属于我们",
+          "realm": "winterspring",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "墮落丶契約",
+          "realm": "red-dragonflight",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "酒后有徳",
+          "realm": "dark-iron",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "咖啡余生",
+          "realm": "red-dragonflight",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "狼哩吤狼",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 16991097,
       "dungeonId": "den-of-nalorakk",
