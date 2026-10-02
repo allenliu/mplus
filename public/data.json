@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02T01:40:35.715Z",
+  "fetchedAt": "2026-10-02T08:28:50.919Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 17517827,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 18,
+      "completedAt": "2026-10-02T05:41:31.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1741.347,
+      "score": 458.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Athinas",
+          "realm": "azralon",
+          "region": "us",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Stkilluh",
+          "realm": "area-52",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Faenox",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Summerdeth",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Freyafenris",
+          "realm": "aerie-peak",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 17520510,
+      "dungeonId": "the-blinding-vale",
+      "level": 16,
+      "completedAt": "2026-10-02T04:27:08.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1628.627,
+      "score": 428.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "碳水教父",
+          "realm": "dragonblight",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "移动图腾",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "熊五毒",
+          "realm": "senjin",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "小狗拉希",
+          "realm": "menethil",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "我难道不够帅",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 17251523,
       "dungeonId": "ruby-life-pools",
