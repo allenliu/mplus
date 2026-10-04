@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T02:36:04.128Z",
+  "fetchedAt": "2026-10-04T09:43:54.877Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 18117897,
+      "dungeonId": "voidscar-arena",
+      "level": 16,
+      "completedAt": "2026-10-04T05:01:25.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1662.49,
+      "score": 427.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "夺命大宝剑",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "萨友骑士",
+          "realm": "whispering-shore",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "刀光圣耀",
+          "realm": "kelthuzad",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "山雨欲来风",
+          "realm": "suramar",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "七七梦",
+          "realm": "gadgetzan",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 18115285,
+      "dungeonId": "altar-of-fangs",
+      "level": 17,
+      "completedAt": "2026-10-04T04:24:37.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1722.676,
+      "score": 441.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Qmonq",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Nickiminaj",
+          "realm": "dragonblight",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Sholizard",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Gorthunzx-227770705",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Fafafox",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 17517827,
       "dungeonId": "temple-of-sethraliss",
