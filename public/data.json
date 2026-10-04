@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T19:35:13.001Z",
+  "fetchedAt": "2026-10-04T23:06:44.337Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 18325493,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-10-04T21:42:27.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1073.586,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "快扶我起来",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "鸽鸽咕咕",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "七舅老爺",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "星之沙比",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "爷无敌",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 18117897,
       "dungeonId": "voidscar-arena",
