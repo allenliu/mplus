@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T00:47:09.962Z",
+  "fetchedAt": "2026-10-06T07:32:10.503Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,271 @@
     }
   ],
   "runs": [
+    {
+      "id": 18629497,
+      "dungeonId": "murder-row",
+      "level": 10,
+      "completedAt": "2026-10-06T04:48:58.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1268.949,
+      "score": 334.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Teubaie",
+          "realm": "ysondre",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Gárruce-236026482",
+          "realm": "stormscale",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Iprévail",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Dístraction",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "Dodiee",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 18627045,
+      "dungeonId": "altar-of-fangs",
+      "level": 11,
+      "completedAt": "2026-10-06T04:31:14.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1183.744,
+      "score": 347.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "晓月圓舞曲丨",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "大宗师肥肥",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "雷霆丶嘎巴",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "玉珩",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "呼啦啦旋风",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 18625766,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-10-06T04:22:45.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1018.21,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "随敌丶大小变",
+          "realm": "chromaggus",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "星夜辰风",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "强袭告死天使",
+          "realm": "illidan",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "叶安燃",
+          "realm": "alar",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Oogi",
+          "realm": "alar",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 18620832,
+      "dungeonId": "the-blinding-vale",
+      "level": 12,
+      "completedAt": "2026-10-06T03:55:49.000Z",
+      "resetWeek": 28,
+      "result": "depleted",
+      "durationSeconds": 2185.233,
+      "score": 312,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Ðestruction",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "潇洒的雨",
+          "realm": "zalazane",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "唱跳小黑子",
+          "realm": "li-li",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "花燃山色",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "替行者",
+          "realm": "garr",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 18616107,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-10-06T03:11:04.000Z",
+      "resetWeek": 28,
+      "result": "timed",
+      "durationSeconds": 1614.241,
+      "score": 368.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "炒饭芝萌",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "蜜虫",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "破晓之晨星",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "卡哇伊沃沃",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "不动懒大王",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 18382957,
       "dungeonId": "altar-of-fangs",
