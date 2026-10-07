@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T05:54:55.537Z",
+  "fetchedAt": "2026-10-07T13:17:53.786Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 18897396,
+      "dungeonId": "altar-of-fangs",
+      "level": 12,
+      "completedAt": "2026-10-07T06:58:42.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1344.415,
+      "score": 374.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "小钻风奶不动",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "聚乙烯",
+          "realm": "echo-ridge",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "骨尔丹",
+          "realm": "dream-bough",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "我叫湖蓝色",
+          "realm": "tirisfal-glades",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "万马千军",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 18889404,
+      "dungeonId": "the-blinding-vale",
+      "level": 16,
+      "completedAt": "2026-10-07T05:49:14.000Z",
+      "resetWeek": 29,
+      "result": "depleted",
+      "durationSeconds": 1955.67,
+      "score": 316.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Duckyhunter",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Darkøs",
+          "realm": "darkspear",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Mostazo",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Flokis",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Endlesslynn",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 18866096,
       "dungeonId": "temple-of-sethraliss",
