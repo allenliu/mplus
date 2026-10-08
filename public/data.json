@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T00:11:00.075Z",
+  "fetchedAt": "2026-10-08T05:58:53.516Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 19105224,
+      "dungeonId": "ruby-life-pools",
+      "level": 18,
+      "completedAt": "2026-10-08T05:01:35.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1493.945,
+      "score": 459.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Olmec",
+          "realm": "hellscream",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Sinsintukin",
+          "realm": "illidan",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Brewtwo",
+          "realm": "hyjal",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Meryllensita",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Chasadelic-305221344",
+          "realm": "hyjal",
+          "region": "us",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 19095862,
+      "dungeonId": "murder-row",
+      "level": 18,
+      "completedAt": "2026-10-08T03:43:06.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1899.269,
+      "score": 457.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Oreozin",
+          "realm": "azralon",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Odesu",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Jerm",
+          "realm": "burning-legion",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Pássa",
+          "realm": "azralon",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Ninfa",
+          "realm": "nemesis",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 19091001,
+      "dungeonId": "kings-rest",
+      "level": 17,
+      "completedAt": "2026-10-08T03:08:33.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1724.743,
+      "score": 444.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Karrabast",
+          "realm": "stormreaver",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Hadeshunt",
+          "realm": "dathremar",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Stonedd",
+          "realm": "blood-furnace",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Rudi",
+          "realm": "windrunner",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Naryb",
+          "realm": "khadgar",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 18897396,
       "dungeonId": "altar-of-fangs",
