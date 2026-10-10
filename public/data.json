@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T05:48:09.983Z",
+  "fetchedAt": "2026-10-10T12:27:25.980Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 19565793,
+      "dungeonId": "voidscar-arena",
+      "level": 18,
+      "completedAt": "2026-10-10T05:56:30.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1577.546,
+      "score": 459.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Evilnattie-103359616",
+          "realm": "saurfang",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Haylø",
+          "realm": "caelestrasz",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Vassallo",
+          "realm": "nagrand",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Smooks",
+          "realm": "caelestrasz",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Hopskipjump",
+          "realm": "nagrand",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 19105224,
       "dungeonId": "ruby-life-pools",
