@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T14:00:46.776Z",
+  "fetchedAt": "2026-10-11T18:52:23.473Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 20010386,
+      "dungeonId": "kings-rest",
+      "level": 14,
+      "completedAt": "2026-10-11T05:21:21.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1584.07,
+      "score": 402.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "欧皇之影",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "灰化肥会挥珐",
+          "realm": "eldrethalas",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "变速兽",
+          "realm": "barrens",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "宋祖英",
+          "realm": "pandaren",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "罗多大锤",
+          "realm": "alar",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 20010363,
+      "dungeonId": "voidscar-arena",
+      "level": 16,
+      "completedAt": "2026-10-11T04:48:44.000Z",
+      "resetWeek": 29,
+      "result": "depleted",
+      "durationSeconds": 2135.345,
+      "score": 313,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "条顿邪能军",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "夏日浅笑",
+          "realm": "pandaren",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "大小眼少侠",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "铁干树枝啊",
+          "realm": "swiftwind",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "混沌种青莲",
+          "realm": "galakrond",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 20010397,
+      "dungeonId": "den-of-nalorakk",
+      "level": 14,
+      "completedAt": "2026-10-11T04:08:30.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1422.789,
+      "score": 404.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "牙牙丶轌",
+          "realm": "eldrethalas",
+          "region": "cn",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "皇家恐怖瘸子",
+          "realm": "li-li",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "段天霸",
+          "realm": "sunwell",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "超哥超起走",
+          "realm": "li-li",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "云间绘晚星",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 19565793,
       "dungeonId": "voidscar-arena",
