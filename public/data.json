@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T02:22:03.735Z",
+  "fetchedAt": "2026-10-12T10:43:40.752Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,271 @@
     }
   ],
   "runs": [
+    {
+      "id": 20106410,
+      "dungeonId": "den-of-nalorakk",
+      "level": 7,
+      "completedAt": "2026-10-12T06:19:58.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1487.641,
+      "score": 268.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Бэстдруид",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Rsxp",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Raddagasth",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Cataasham",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Лысейко",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 20105939,
+      "dungeonId": "murder-row",
+      "level": 13,
+      "completedAt": "2026-10-12T06:11:44.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1690.998,
+      "score": 386.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Кэзочка",
+          "realm": "gordunni",
+          "region": "eu",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Ultio-258565700",
+          "realm": "drakthul",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Костлинг",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Atheña",
+          "realm": "ravencrest",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Учако",
+          "realm": "gordunni",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 20103269,
+      "dungeonId": "kings-rest",
+      "level": 5,
+      "completedAt": "2026-10-12T05:45:24.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1244.643,
+      "score": 228.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Myramoonveil",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Punchinpete",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Amarook",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Navybean",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Aaika",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 20100866,
+      "dungeonId": "ruby-life-pools",
+      "level": 10,
+      "completedAt": "2026-10-12T05:23:54.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1130.239,
+      "score": 332.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "花落知多少",
+          "realm": "echo-ridge",
+          "region": "cn",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "又乏了",
+          "realm": "frostmourne",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "诺丶岚",
+          "realm": "dark-iron",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "照太阳",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "乌龟都能养死",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 20100207,
+      "dungeonId": "the-blinding-vale",
+      "level": 2,
+      "completedAt": "2026-10-12T05:18:52.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1002.05,
+      "score": 170,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Jef",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Oddich",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Ruvik",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Foxyzz",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "Ninjaawy",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 20062252,
       "dungeonId": "temple-of-sethraliss",
