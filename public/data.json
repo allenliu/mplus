@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T22:52:25.690Z",
+  "fetchedAt": "2026-10-12T02:22:03.735Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 20062252,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 2,
+      "completedAt": "2026-10-11T23:30:24.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1019.112,
+      "score": 170,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Пампанули",
+          "realm": "soulflayer",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Dystik",
+          "realm": "thrall",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Хочухмеля",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Инишиал",
+          "realm": "eversong",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "assassination",
+          "role": "dps"
+        },
+        {
+          "name": "Tholork",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 20058651,
+      "dungeonId": "the-blinding-vale",
+      "level": 4,
+      "completedAt": "2026-10-11T23:07:01.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1234.152,
+      "score": 196.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "灿若星河",
+          "realm": "frostmourne",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "隋风武",
+          "realm": "barrens",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "月光丶复仇",
+          "realm": "legion-hold",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "havoc",
+          "role": "dps"
+        },
+        {
+          "name": "海边捡贝壳",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "自爆彩虹",
+          "realm": "malygos",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 20052987,
       "dungeonId": "ruby-life-pools",
