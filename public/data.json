@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T02:02:16.307Z",
+  "fetchedAt": "2026-10-13T09:22:46.583Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 20328942,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-10-13T05:26:22.000Z",
+      "resetWeek": 29,
+      "result": "depleted",
+      "durationSeconds": 2942.996,
+      "score": 0,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Kalatsha",
+          "realm": "drekthar",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Deckebunnes",
+          "realm": "blackmoore",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Zweatch",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Holypräst",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Libbie",
+          "realm": "durotan",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 20322543,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 10,
+      "completedAt": "2026-10-13T04:26:08.000Z",
+      "resetWeek": 29,
+      "result": "depleted",
+      "durationSeconds": 2333.693,
+      "score": 296.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "成都雨神",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "咆哮的小熊猫",
+          "realm": "dreadmist-peak",
+          "region": "cn",
+          "class": "mage",
+          "spec": "fire",
+          "role": "dps"
+        },
+        {
+          "name": "冷鲜牛",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "野生德爷",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Inoue",
+          "realm": "icecrown",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 20316446,
+      "dungeonId": "ruby-life-pools",
+      "level": 9,
+      "completedAt": "2026-10-13T03:40:52.000Z",
+      "resetWeek": 29,
+      "result": "timed",
+      "durationSeconds": 1211.56,
+      "score": 300.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "聆心",
+          "realm": "frostmourne",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "故人容颜依旧",
+          "realm": "molten-core",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "无敌小姨子",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "丨小风丨",
+          "realm": "storm-peaks",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "火潇衣",
+          "realm": "swiftwind",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 20106410,
       "dungeonId": "den-of-nalorakk",
