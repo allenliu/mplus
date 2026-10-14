@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T01:53:19.826Z",
+  "fetchedAt": "2026-10-14T07:34:19.950Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,218 @@
     }
   ],
   "runs": [
+    {
+      "id": 20540778,
+      "dungeonId": "den-of-nalorakk",
+      "level": 10,
+      "completedAt": "2026-10-14T06:30:46.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1480.275,
+      "score": 328.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Светосильный",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Трейдвинд",
+          "realm": "gordunni",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Nirmala",
+          "realm": "sylvanas",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Gaskadse",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "Хилилия",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 20535866,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-10-14T05:30:09.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1694.601,
+      "score": 367.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "优游月茶",
+          "realm": "blanchard",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "折星射日",
+          "realm": "anachronos",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "很牛很牛的牛",
+          "realm": "stormrage",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "列星随璇",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "鳄魚",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 20535891,
+      "dungeonId": "murder-row",
+      "level": 11,
+      "completedAt": "2026-10-14T04:59:33.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1749.644,
+      "score": 340.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "亡零战",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "吃瓜僧",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Azazle-305220586",
+          "realm": "alar",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "芝士星黛露",
+          "realm": "the-masters-glaive",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Alexich",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 20535549,
+      "dungeonId": "ruby-life-pools",
+      "level": 9,
+      "completedAt": "2026-10-14T04:20:40.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1168.336,
+      "score": 301.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Bazal-304649684",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Pallopollum",
+          "realm": "blackhand",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Klosterelf",
+          "realm": "blackhand",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Redsaw",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Troggila",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 20328942,
       "dungeonId": "altar-of-fangs",
