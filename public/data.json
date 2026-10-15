@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T00:32:46.457Z",
+  "fetchedAt": "2026-10-15T05:52:57.545Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 20709079,
+      "dungeonId": "murder-row",
+      "level": 10,
+      "completedAt": "2026-10-15T04:03:43.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1624.021,
+      "score": 327.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "홀루몰루",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Apolos",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "후갈겨",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "상큼신은그이다",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "카키옹",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 20709072,
+      "dungeonId": "the-blinding-vale",
+      "level": 10,
+      "completedAt": "2026-10-15T03:29:40.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1419.36,
+      "score": 327.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "쿠로쿠린",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "메시야멍멍",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "울트라미로",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Swingcat",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Bunnyhop",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 20540778,
       "dungeonId": "den-of-nalorakk",
