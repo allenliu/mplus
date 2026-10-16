@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T09:46:01.048Z",
+  "fetchedAt": "2026-10-16T14:49:11.270Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -310,6 +310,59 @@
           "class": "monk",
           "spec": "brewmaster",
           "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 20894895,
+      "dungeonId": "den-of-nalorakk",
+      "level": 10,
+      "completedAt": "2026-10-16T04:32:57.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1351.368,
+      "score": 331.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "하쿠라차",
+          "realm": "hyjal",
+          "region": "kr",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "보존",
+          "realm": "dalaran",
+          "region": "kr",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "호올딱",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "먼지악령",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "애비야불꺼라",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
         }
       ]
     },
