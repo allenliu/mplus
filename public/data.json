@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T23:40:35.256Z",
+  "fetchedAt": "2026-10-16T04:27:15.565Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 20853818,
+      "dungeonId": "murder-row",
+      "level": 11,
+      "completedAt": "2026-10-16T04:01:06.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1629.036,
+      "score": 342.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Avdol",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Lumpiaeater",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Chelda",
+          "realm": "colinas-pardas",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        },
+        {
+          "name": "Dustbrringer",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Ârgos",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 20852270,
+      "dungeonId": "altar-of-fangs",
+      "level": 12,
+      "completedAt": "2026-10-16T03:47:55.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1186.349,
+      "score": 377.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Higherdruid",
+          "realm": "area-52",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Richiie",
+          "realm": "illidan",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Synestrial-304918626",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Increaser",
+          "realm": "quelthalas",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Oliveros",
+          "realm": "garrosh",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 20849549,
+      "dungeonId": "voidscar-arena",
+      "level": 12,
+      "completedAt": "2026-10-16T03:23:26.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1153.884,
+      "score": 378.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "术猪猪",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "野哥",
+          "realm": "rexxar",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "子归",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "血吼",
+          "realm": "algalon",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "仗剑赱天涯",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 20709079,
       "dungeonId": "murder-row",
