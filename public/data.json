@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T04:27:15.565Z",
+  "fetchedAt": "2026-10-16T09:46:01.048Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 20867084,
+      "dungeonId": "den-of-nalorakk",
+      "level": 12,
+      "completedAt": "2026-10-16T06:31:09.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1420.815,
+      "score": 374.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Snakexelion",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Nysonadra",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Marinkovic",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Murtz",
+          "realm": "ragnaros",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Zazâ",
+          "realm": "area-52",
+          "region": "us",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 20863165,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 12,
+      "completedAt": "2026-10-16T05:44:28.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1441.443,
+      "score": 374.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Jojobardx",
+          "realm": "grim-batol",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Runeforgebl",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Sickanxdqt",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Yuyudk",
+          "realm": "grim-batol",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Bréwtality",
+          "realm": "ravencrest",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 20864894,
+      "dungeonId": "kings-rest",
+      "level": 12,
+      "completedAt": "2026-10-16T05:11:30.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1736.027,
+      "score": 369.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Thebearjuw",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Wyndia",
+          "realm": "spirestone",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Zaphyron",
+          "realm": "azralon",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Dreivax",
+          "realm": "area-52",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Joezeph",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 20853818,
       "dungeonId": "murder-row",
