@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T05:34:09.515Z",
+  "fetchedAt": "2026-10-17T10:38:40.806Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 21070006,
+      "dungeonId": "den-of-nalorakk",
+      "level": 10,
+      "completedAt": "2026-10-17T06:35:32.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1224.127,
+      "score": 333.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "褚莉叶",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "迷踪岛灬神僧",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "可怜的米饭",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "热爱大自然",
+          "realm": "kaleidoscope-star",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "超超级马里奥",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 21066617,
+      "dungeonId": "altar-of-fangs",
+      "level": 10,
+      "completedAt": "2026-10-17T06:06:05.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1171.986,
+      "score": 333.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "霧幻天神",
+          "realm": "isillien",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Morefreedru",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "孤侟",
+          "realm": "blanchard",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "伦乙骑士",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Mmddruid",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 21083733,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 10,
+      "completedAt": "2026-10-17T05:37:22.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1134.386,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Jasabella",
+          "realm": "argent-dawn",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        },
+        {
+          "name": "Artorìon",
+          "realm": "argent-dawn",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Krossdrac",
+          "realm": "tarren-mill",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "preservation",
+          "role": "healer"
+        },
+        {
+          "name": "Balthezár-249887473",
+          "realm": "argent-dawn",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Thellanie",
+          "realm": "argent-dawn",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 21060431,
       "dungeonId": "ruby-life-pools",
