@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T00:26:40.564Z",
+  "fetchedAt": "2026-10-17T05:34:09.515Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 21060431,
+      "dungeonId": "ruby-life-pools",
+      "level": 10,
+      "completedAt": "2026-10-17T05:07:57.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1153.548,
+      "score": 331.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Ashenpogacsa",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Zellii",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Mumph",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "Luckybrew",
+          "realm": "ravencrest",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Athah",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 21056555,
+      "dungeonId": "kings-rest",
+      "level": 10,
+      "completedAt": "2026-10-17T04:40:06.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1791.006,
+      "score": 323.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Everwat",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Valthorne",
+          "realm": "saurfang",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Arteta",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Rainbowkush",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Kill",
+          "realm": "gundrak",
+          "region": "us",
+          "class": "rogue",
+          "spec": "assassination",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 20867084,
       "dungeonId": "den-of-nalorakk",
