@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T09:34:04.269Z",
+  "fetchedAt": "2026-10-18T13:59:13.565Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 21341580,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 10,
+      "completedAt": "2026-10-18T07:10:59.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1258.536,
+      "score": 332.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Ihuntress",
+          "realm": "sylvanas",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "Смородиновая",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        },
+        {
+          "name": "Богферал",
+          "realm": "gordunni",
+          "region": "eu",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Ytywo",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Lénérí",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 21329074,
       "dungeonId": "den-of-nalorakk",
