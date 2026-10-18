@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T04:27:04.254Z",
+  "fetchedAt": "2026-10-18T09:34:04.269Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 21329074,
+      "dungeonId": "den-of-nalorakk",
+      "level": 10,
+      "completedAt": "2026-10-18T06:39:43.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1522.216,
+      "score": 327.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Exíon",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "outlaw",
+          "role": "dps"
+        },
+        {
+          "name": "Zherinpaw",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Jolande",
+          "realm": "ysera",
+          "region": "eu",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
+        },
+        {
+          "name": "Mahonylotus",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Subtleflex-304258008",
+          "realm": "ysera",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 21070006,
       "dungeonId": "den-of-nalorakk",
