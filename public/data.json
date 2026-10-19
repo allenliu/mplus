@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T01:13:09.282Z",
+  "fetchedAt": "2026-10-19T06:11:19.421Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 21515996,
+      "dungeonId": "ruby-life-pools",
+      "level": 12,
+      "completedAt": "2026-10-19T02:11:34.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1156.884,
+      "score": 376.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "月烨丶",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Brynhildr",
+          "realm": "storm-eye",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "落夏知秋",
+          "realm": "alar",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "西藍花",
+          "realm": "alar",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "唐老师魂",
+          "realm": "gorehowl",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 21513657,
+      "dungeonId": "altar-of-fangs",
+      "level": 9,
+      "completedAt": "2026-10-19T01:43:14.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 977.692,
+      "score": 305,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "滚筒洗衣基",
+          "realm": "blanchard",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Niubism",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Carmanlee",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "林森森",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "泰酷辣丶",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 21511657,
+      "dungeonId": "the-blinding-vale",
+      "level": 10,
+      "completedAt": "2026-10-19T01:19:13.000Z",
+      "resetWeek": 30,
+      "result": "timed",
+      "durationSeconds": 1029.416,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "每周六个币-247922060",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "丷瑶光",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "飒沓流星",
+          "realm": "elune",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "圣光制造者",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "萨贝拧",
+          "realm": "red-cloud-mesa",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 21341580,
       "dungeonId": "temple-of-sethraliss",
