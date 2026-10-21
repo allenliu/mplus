@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T06:00:25.252Z",
+  "fetchedAt": "2026-10-21T11:43:54.729Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,271 @@
     }
   ],
   "runs": [
+    {
+      "id": 21925405,
+      "dungeonId": "the-blinding-vale",
+      "level": 17,
+      "completedAt": "2026-10-21T06:42:25.000Z",
+      "resetWeek": 31,
+      "result": "depleted",
+      "durationSeconds": 1828.728,
+      "score": 319.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "矿化度",
+          "realm": "chillwind-point",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "自然的精灵",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "碧桂园突击队",
+          "realm": "burning-blade",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "霜焰",
+          "realm": "chillwind-point",
+          "region": "cn",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
+        },
+        {
+          "name": "朝雲暮雨",
+          "realm": "the-underbog",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 21925442,
+      "dungeonId": "den-of-nalorakk",
+      "level": 16,
+      "completedAt": "2026-10-21T05:57:50.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1556.245,
+      "score": 432.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "伤别离",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "莎伦丶",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "生命之饼",
+          "realm": "stormrage",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Sonámbula",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "拽实且灯笃",
+          "realm": "algalon",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "vengeance",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 21925422,
+      "dungeonId": "kings-rest",
+      "level": 16,
+      "completedAt": "2026-10-21T05:25:15.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1668.115,
+      "score": 430.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "追凤猎者",
+          "realm": "alar",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "老谁家的小谁",
+          "realm": "doomwalker",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Sesamecandy",
+          "realm": "the-golden-plains",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "还有明天",
+          "realm": "echo-ridge",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "無彦祖",
+          "realm": "the-golden-plains",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 21925487,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 15,
+      "completedAt": "2026-10-21T04:45:29.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1472.914,
+      "score": 418.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Gashgish",
+          "realm": "area-52",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Gishgash",
+          "realm": "area-52",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Fegoro",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Koechamoose",
+          "realm": "area-52",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Fegorot",
+          "realm": "area-52",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 21925090,
+      "dungeonId": "ruby-life-pools",
+      "level": 16,
+      "completedAt": "2026-10-21T03:40:22.000Z",
+      "resetWeek": 31,
+      "result": "depleted",
+      "durationSeconds": 1732.997,
+      "score": 318.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "棍哥",
+          "realm": "red-cloud-mesa",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Teamo",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "麤苼",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "米爹",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "灬小米兰-303960684",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 21738337,
       "dungeonId": "altar-of-fangs",
