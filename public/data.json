@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T04:39:03.009Z",
+  "fetchedAt": "2026-10-22T10:08:18.595Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,271 @@
     }
   ],
   "runs": [
+    {
+      "id": 22140118,
+      "dungeonId": "altar-of-fangs",
+      "level": 13,
+      "completedAt": "2026-10-22T07:05:55.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1460.298,
+      "score": 387.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "颠佬别发颠了",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Verylucky",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "疏影婆娑",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "湛藍火羽",
+          "realm": "ysera",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "凡其",
+          "realm": "silvermoon",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 22137105,
+      "dungeonId": "the-blinding-vale",
+      "level": 15,
+      "completedAt": "2026-10-22T06:31:12.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1593.451,
+      "score": 414.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Pankiavel",
+          "realm": "azralon",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Cromwel",
+          "realm": "azralon",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Failøver",
+          "realm": "azralon",
+          "region": "us",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Disturbed",
+          "realm": "azralon",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Grassaplant",
+          "realm": "illidan",
+          "region": "us",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 22133497,
+      "dungeonId": "ruby-life-pools",
+      "level": 14,
+      "completedAt": "2026-10-22T05:57:51.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1362.109,
+      "score": 402.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Gotsthedots",
+          "realm": "illidan",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Nomasnomonk",
+          "realm": "illidan",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Pertandplump",
+          "realm": "illidan",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Krakkén",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Staskym",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "mage",
+          "spec": "fire",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 22130386,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 15,
+      "completedAt": "2026-10-22T05:20:46.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1605.719,
+      "score": 416.1,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "月之舞光",
+          "realm": "azuregos",
+          "region": "cn",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "是个泡泡",
+          "realm": "blue-dragonflight",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "顺顺栗栗",
+          "realm": "azuregos",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "绝活糖门糕手",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "乱夜月",
+          "realm": "azuregos",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 22126395,
+      "dungeonId": "den-of-nalorakk",
+      "level": 13,
+      "completedAt": "2026-10-22T04:44:31.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1498.35,
+      "score": 388.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "지삐몰라야",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "살인고라니의습격",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "딱딱한추",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "라우샤칸",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Ppong-225650862",
+          "realm": "azshara",
+          "region": "kr",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 21925405,
       "dungeonId": "the-blinding-vale",
