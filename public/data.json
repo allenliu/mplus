@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T01:28:30.558Z",
+  "fetchedAt": "2026-10-23T07:27:26.390Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 22341060,
+      "dungeonId": "voidscar-arena",
+      "level": 13,
+      "completedAt": "2026-10-23T07:05:14.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1515.961,
+      "score": 385.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "龙希尔瓦纳斯",
+          "realm": "blanchard",
+          "region": "cn",
+          "class": "evoker",
+          "spec": "devastation",
+          "role": "dps"
+        },
+        {
+          "name": "天堂此时",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "樟木头吴彦祖",
+          "realm": "alterac-mountains",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "刀十八",
+          "realm": "alar",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "芙露德丽丝",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 22335459,
+      "dungeonId": "kings-rest",
+      "level": 15,
+      "completedAt": "2026-10-23T06:18:42.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1909.406,
+      "score": 411.3,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Jord",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "火車头",
+          "realm": "kelthuzad",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "丿龙井",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "飞雪幽悠",
+          "realm": "deathwhisper",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Colddog",
+          "realm": "kelthuzad",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 22332060,
+      "dungeonId": "den-of-nalorakk",
+      "level": 13,
+      "completedAt": "2026-10-23T05:40:48.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1523.057,
+      "score": 387.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Fahrenheit",
+          "realm": "laughing-skull",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Dhannar",
+          "realm": "proudmoore",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        },
+        {
+          "name": "Rathtor",
+          "realm": "emerald-dream",
+          "region": "us",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Dumh",
+          "realm": "azralon",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Treehugger",
+          "realm": "laughing-skull",
+          "region": "us",
+          "class": "druid",
+          "spec": "feral",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 22140118,
       "dungeonId": "altar-of-fangs",
