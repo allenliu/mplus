@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T00:38:42.740Z",
+  "fetchedAt": "2026-10-24T05:48:32.663Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 22567965,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 17,
+      "completedAt": "2026-10-24T05:43:06.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1743.827,
+      "score": 443.4,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Gallaxie",
+          "realm": "elune",
+          "region": "eu",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Alayy",
+          "realm": "draenor",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Grembloo",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "affliction",
+          "role": "dps"
+        },
+        {
+          "name": "Fatalstorm",
+          "realm": "sanguino",
+          "region": "eu",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Drukzzy",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "protection",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 22563313,
+      "dungeonId": "den-of-nalorakk",
+      "level": 15,
+      "completedAt": "2026-10-24T05:06:46.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1406.579,
+      "score": 420,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "麝乂回忆",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "subtlety",
+          "role": "dps"
+        },
+        {
+          "name": "云出岫",
+          "realm": "mannoroth",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "精武门陈真",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "夏日入侵",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "梦入春秋浦",
+          "realm": "chillwind-point",
+          "region": "cn",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 22558087,
+      "dungeonId": "altar-of-fangs",
+      "level": 14,
+      "completedAt": "2026-10-24T04:25:18.000Z",
+      "resetWeek": 31,
+      "result": "timed",
+      "durationSeconds": 1274.829,
+      "score": 405.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Wontonjon",
+          "realm": "kilrogg",
+          "region": "us",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Augdogg",
+          "realm": "illidan",
+          "region": "us",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Nummnomms",
+          "realm": "dragonmaw",
+          "region": "us",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Moograine",
+          "realm": "draenor",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Wingolingo",
+          "realm": "illidan",
+          "region": "us",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 22341060,
       "dungeonId": "voidscar-arena",
