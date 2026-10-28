@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T05:36:18.042Z",
+  "fetchedAt": "2026-10-28T12:47:47.683Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -310,6 +310,112 @@
           "class": "druid",
           "spec": "restoration",
           "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 23460610,
+      "dungeonId": "murder-row",
+      "level": 10,
+      "completedAt": "2026-10-28T04:19:37.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 902.794,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Playerqjaaxh",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "怒丨灬逍遥",
+          "realm": "anzu",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "雷萨筱生",
+          "realm": "alar",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "冰涩",
+          "realm": "alar",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "鸩羽千夜",
+          "realm": "the-great-sea",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 23463150,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-10-28T03:59:43.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 779.716,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "自我信仰圣光",
+          "realm": "alar",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "破碎南瓜",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "柯罗诺斯炽焰",
+          "realm": "draenor",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Divuspaladin",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "善战无前丨德",
+          "realm": "pandaren",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
         }
       ]
     },
