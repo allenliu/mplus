@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T23:44:49.817Z",
+  "fetchedAt": "2026-10-28T05:36:18.042Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 23459401,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-10-28T05:21:44.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 765.084,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "呦嘟噜",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "rogue",
+          "spec": "assassination",
+          "role": "dps"
+        },
+        {
+          "name": "Ruthles",
+          "realm": "alar",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "虾仁一号",
+          "realm": "shadowmourne",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "marksmanship",
+          "role": "dps"
+        },
+        {
+          "name": "戰雯欲丶",
+          "realm": "alar",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "丷兜丷兜丷",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 23458544,
+      "dungeonId": "den-of-nalorakk",
+      "level": 10,
+      "completedAt": "2026-10-28T05:07:33.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 833.7,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Fûreür",
+          "realm": "hyjal",
+          "region": "eu",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Calzorz",
+          "realm": "argent-dawn",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Ðõnk",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Nihiko",
+          "realm": "antonidas",
+          "region": "eu",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Cefla",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 23457485,
+      "dungeonId": "kings-rest",
+      "level": 10,
+      "completedAt": "2026-10-28T04:50:36.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 859.338,
+      "score": 335,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "挑灯看剑丶",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "末日丨猎手",
+          "realm": "frostwolf",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        },
+        {
+          "name": "领域丨德爹",
+          "realm": "gorefiend",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "黑殇",
+          "realm": "bronzebeard",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "等晴天的奶茶",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 22567965,
       "dungeonId": "temple-of-sethraliss",
