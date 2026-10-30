@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-29T21:47:07.355Z",
+  "fetchedAt": "2026-10-30T01:56:35.594Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 23736065,
+      "dungeonId": "altar-of-fangs",
+      "level": 12,
+      "completedAt": "2026-10-29T22:58:38.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1014.185,
+      "score": 380,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Угрюмыйэльф",
+          "realm": "borean-tundra",
+          "region": "eu",
+          "class": "rogue",
+          "spec": "assassination",
+          "role": "dps"
+        },
+        {
+          "name": "Лапотьтапок",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Ехесе",
+          "realm": "soulflayer",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Забулдыж",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Атаганчикк",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 23459401,
       "dungeonId": "voidscar-arena",
