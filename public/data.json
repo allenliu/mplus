@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T01:56:35.594Z",
+  "fetchedAt": "2026-10-30T08:35:39.559Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 23767038,
+      "dungeonId": "altar-of-fangs",
+      "level": 18,
+      "completedAt": "2026-10-30T05:38:29.000Z",
+      "resetWeek": 32,
+      "result": "depleted",
+      "durationSeconds": 1812.76,
+      "score": 319.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Toyol",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "mage",
+          "spec": "arcane",
+          "role": "dps"
+        },
+        {
+          "name": "Broblowa",
+          "realm": "firetree",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Emmarie",
+          "realm": "sargeras",
+          "region": "us",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        },
+        {
+          "name": "Lazian",
+          "realm": "stormrage",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "Elyaiderr",
+          "realm": "drakkari",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        }
+      ]
+    },
+    {
+      "id": 23765611,
+      "dungeonId": "murder-row",
+      "level": 19,
+      "completedAt": "2026-10-30T04:55:59.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1879.524,
+      "score": 472.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Multiilol",
+          "realm": "malganis",
+          "region": "us",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "Mermaid",
+          "realm": "llane",
+          "region": "us",
+          "class": "druid",
+          "spec": "balance",
+          "role": "dps"
+        },
+        {
+          "name": "Yüh",
+          "realm": "tichondrius",
+          "region": "us",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Frupi",
+          "realm": "barthilas",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Duggs",
+          "realm": "barthilas",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 23774124,
+      "dungeonId": "the-blinding-vale",
+      "level": 17,
+      "completedAt": "2026-10-30T03:51:53.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1579.516,
+      "score": 444.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Hazyuz",
+          "realm": "thrall",
+          "region": "us",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Thedaftpunk",
+          "realm": "drakkari",
+          "region": "us",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "Mastís-304994441",
+          "realm": "frostmourne",
+          "region": "us",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Alexfake",
+          "realm": "barthilas",
+          "region": "us",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "Aliné",
+          "realm": "barthilas",
+          "region": "us",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        }
+      ]
+    },
     {
       "id": 23736065,
       "dungeonId": "altar-of-fangs",
