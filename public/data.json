@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T00:45:16.038Z",
+  "fetchedAt": "2026-10-31T06:58:39.847Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,218 @@
     }
   ],
   "runs": [
+    {
+      "id": 23941138,
+      "dungeonId": "den-of-nalorakk",
+      "level": 18,
+      "completedAt": "2026-10-31T06:39:01.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1805.401,
+      "score": 457.2,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Rl",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Momonkas",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "Gkavlantis",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Jibbo",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "warrior",
+          "spec": "fury",
+          "role": "dps"
+        },
+        {
+          "name": "Noatt",
+          "realm": "kazzak",
+          "region": "eu",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 23938198,
+      "dungeonId": "voidscar-arena",
+      "level": 10,
+      "completedAt": "2026-10-31T06:04:01.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1242.968,
+      "score": 331.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "宝贝猪小弟",
+          "realm": "scarlet-crusade",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "尘封旧事",
+          "realm": "deathwhisper",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "打死你个坏蛋",
+          "realm": "pandaren",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "血瞳玲珑",
+          "realm": "valley-of-kings",
+          "region": "cn",
+          "class": "demon-hunter",
+          "spec": "devourer",
+          "role": "dps"
+        },
+        {
+          "name": "玉衡既明",
+          "realm": "eldrethalas",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 23933103,
+      "dungeonId": "ruby-life-pools",
+      "level": 17,
+      "completedAt": "2026-10-31T05:04:07.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1562.968,
+      "score": 442.6,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Deadandugly",
+          "realm": "eredar",
+          "region": "eu",
+          "class": "priest",
+          "spec": "shadow",
+          "role": "dps"
+        },
+        {
+          "name": "Maev",
+          "realm": "eredar",
+          "region": "eu",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        },
+        {
+          "name": "Monkpaf",
+          "realm": "twisting-nether",
+          "region": "eu",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "Акенир",
+          "realm": "howling-fjord",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Gubbi",
+          "realm": "blackrock",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 23929667,
+      "dungeonId": "den-of-nalorakk",
+      "level": 15,
+      "completedAt": "2026-10-31T04:31:53.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1407.294,
+      "score": 420,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "寿山",
+          "realm": "hectae",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "张晓梦",
+          "realm": "li-li",
+          "region": "cn",
+          "class": "mage",
+          "spec": "frost",
+          "role": "dps"
+        },
+        {
+          "name": "余念长离丶",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "酒石",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "Gingidruid",
+          "realm": "theramore",
+          "region": "cn",
+          "class": "druid",
+          "spec": "guardian",
+          "role": "tank"
+        }
+      ]
+    },
     {
       "id": 23767038,
       "dungeonId": "altar-of-fangs",
