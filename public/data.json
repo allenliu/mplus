@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T02:11:54.761Z",
+  "fetchedAt": "2026-11-01T09:12:22.644Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,165 @@
     }
   ],
   "runs": [
+    {
+      "id": 24139733,
+      "dungeonId": "kings-rest",
+      "level": 17,
+      "completedAt": "2026-11-01T07:12:05.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1796.981,
+      "score": 443.5,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Cloud",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        },
+        {
+          "name": "Knïght",
+          "realm": "hyjal",
+          "region": "us",
+          "class": "paladin",
+          "spec": "protection",
+          "role": "tank"
+        },
+        {
+          "name": "Boofcarts",
+          "realm": "dalaran",
+          "region": "us",
+          "class": "hunter",
+          "spec": "survival",
+          "role": "dps"
+        },
+        {
+          "name": "Hellbad",
+          "realm": "bloodscalp",
+          "region": "us",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Luckieduckie",
+          "realm": "zuljin",
+          "region": "us",
+          "class": "shaman",
+          "spec": "restoration",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 24133529,
+      "dungeonId": "temple-of-sethraliss",
+      "level": 17,
+      "completedAt": "2026-11-01T06:10:23.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1569.955,
+      "score": 446.8,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "少冰三分糖",
+          "realm": "scholomance",
+          "region": "cn",
+          "class": "priest",
+          "spec": "holy",
+          "role": "healer"
+        },
+        {
+          "name": "丶一壶清酒-243912029",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "monk",
+          "spec": "windwalker",
+          "role": "dps"
+        },
+        {
+          "name": "醉醉么么哒",
+          "realm": "scholomance",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "初颜丶",
+          "realm": "alar",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "逆袭的二狗",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "hunter",
+          "spec": "beast-mastery",
+          "role": "dps"
+        }
+      ]
+    },
+    {
+      "id": 24130520,
+      "dungeonId": "the-blinding-vale",
+      "level": 18,
+      "completedAt": "2026-11-01T05:38:35.000Z",
+      "resetWeek": 32,
+      "result": "depleted",
+      "durationSeconds": 1863.395,
+      "score": 318.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "专打小怪兽灬",
+          "realm": "lord-kazzak",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "斯莫德",
+          "realm": "lord-kazzak",
+          "region": "cn",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "真的皮丶",
+          "realm": "lord-kazzak",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "囡拳",
+          "realm": "lord-kazzak",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "愤怒的马哥",
+          "realm": "lord-kazzak",
+          "region": "cn",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 23941138,
       "dungeonId": "den-of-nalorakk",
