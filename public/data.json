@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T01:33:51.058Z",
+  "fetchedAt": "2026-11-03T09:29:33.651Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,59 @@
     }
   ],
   "runs": [
+    {
+      "id": 24479795,
+      "dungeonId": "the-blinding-vale",
+      "level": 12,
+      "completedAt": "2026-11-03T05:22:06.000Z",
+      "resetWeek": 32,
+      "result": "timed",
+      "durationSeconds": 1191.04,
+      "score": 377.7,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "风爆使者",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "风随飘扬",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "druid",
+          "spec": "restoration",
+          "role": "healer"
+        },
+        {
+          "name": "无冬-232784361",
+          "realm": "grim-batol",
+          "region": "cn",
+          "class": "death-knight",
+          "spec": "unholy",
+          "role": "dps"
+        },
+        {
+          "name": "听说有点猛",
+          "realm": "illidan",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "强力熊猫",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "enhancement",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 24139733,
       "dungeonId": "kings-rest",
