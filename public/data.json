@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-18T21:25:00.695Z",
+  "fetchedAt": "2026-11-19T03:21:45.425Z",
   "season": "season-mn-1",
   "seasonStartedAt": "2026-03-24T15:00:00Z",
   "region": "us",
@@ -154,6 +154,112 @@
     }
   ],
   "runs": [
+    {
+      "id": 26019701,
+      "dungeonId": "kings-rest",
+      "level": 18,
+      "completedAt": "2026-11-18T07:22:46.000Z",
+      "resetWeek": 35,
+      "result": "depleted",
+      "durationSeconds": 2190.463,
+      "score": 316,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "Dynirr",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "evoker",
+          "spec": "augmentation",
+          "role": "dps"
+        },
+        {
+          "name": "Rilenia",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Niubi",
+          "realm": "ragnaros",
+          "region": "eu",
+          "class": "warlock",
+          "spec": "demonology",
+          "role": "dps"
+        },
+        {
+          "name": "Atrocion",
+          "realm": "silvermoon",
+          "region": "eu",
+          "class": "death-knight",
+          "spec": "blood",
+          "role": "tank"
+        },
+        {
+          "name": "Fandefaynou",
+          "realm": "dalaran",
+          "region": "eu",
+          "class": "priest",
+          "spec": "discipline",
+          "role": "healer"
+        }
+      ]
+    },
+    {
+      "id": 26019702,
+      "dungeonId": "voidscar-arena",
+      "level": 17,
+      "completedAt": "2026-11-18T06:38:29.000Z",
+      "resetWeek": 35,
+      "result": "timed",
+      "durationSeconds": 1660.579,
+      "score": 442.9,
+      "rosterMemberIds": [],
+      "pugs": [
+        {
+          "name": "君问等什么君",
+          "realm": "silver-hand",
+          "region": "cn",
+          "class": "monk",
+          "spec": "brewmaster",
+          "role": "tank"
+        },
+        {
+          "name": "滑铲丶",
+          "realm": "rhonin",
+          "region": "cn",
+          "class": "monk",
+          "spec": "mistweaver",
+          "role": "healer"
+        },
+        {
+          "name": "竹中官兵卫",
+          "realm": "alar",
+          "region": "cn",
+          "class": "shaman",
+          "spec": "elemental",
+          "role": "dps"
+        },
+        {
+          "name": "Jiuyqs",
+          "realm": "alar",
+          "region": "cn",
+          "class": "paladin",
+          "spec": "retribution",
+          "role": "dps"
+        },
+        {
+          "name": "Genjibb",
+          "realm": "deathwing",
+          "region": "cn",
+          "class": "warrior",
+          "spec": "arms",
+          "role": "dps"
+        }
+      ]
+    },
     {
       "id": 24479795,
       "dungeonId": "the-blinding-vale",
